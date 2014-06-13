@@ -1,0 +1,3910 @@
+Abingdon Road 	Road 	Abingdon 	0 	8.0
+Adam Drive 	Drive 	Adam 	0 	4.0
+Adam Park 	Park 	Adam 	0 	4.0
+Adam Road 	Road 	Adam 	0 	4.0
+Adis Road 	Road 	Adis 	0 	4.0
+Admiralty Drive 	Drive 	Admiralty 	0 	9.0
+Admiralty Lane 	Lane 	Admiralty 	0 	9.0
+Admiralty Link 	Link 	Admiralty 	0 	9.0
+Admiralty Road 	Road 	Admiralty 	0 	9.0
+Admiralty Road East 	Road 	Admiralty 	0 	9.0
+Admiralty Road West 	Road 	Admiralty 	0 	9.0
+Admiralty Street 	Street 	Admiralty 	0 	9.0
+Ah Hood Road 	Road 	Ah Hood 	0 	3.0
+Ah Soo Garden 	Garden 	Ah Soo 	0 	2.5
+Ah Soo Walk 	Walk 	Ah Soo 	0 	2.5
+Aida Street 	Street 	Aida 	0 	4.0
+Airline Road 	Road 	Airline 	0 	7.0
+Airport Boulevard 	Boulevard 	Airport 	0 	7.0
+Airport Cargo Road 	Road 	Airport Cargo 	0 	6.0
+Akyab Road 	Road 	Akyab 	0 	5.0
+Albert Street 	Street 	Albert 	0 	6.0
+Alexandra Lane 	Lane 	Alexandra 	0 	9.0
+Alexandra Road 	Road 	Alexandra 	0 	9.0
+Alexandra Terrace 	Terrace 	Alexandra 	0 	9.0
+Aliwal Street 	Street 	Aliwal 	0 	6.0
+Aljunied Avenue 1 	Avenue 	Aljunied 	0 	8.0
+Aljunied Avenue 2 	Avenue 	Aljunied 	0 	8.0
+Aljunied Avenue 3 	Avenue 	Aljunied 	0 	8.0
+Aljunied Avenue 4 	Avenue 	Aljunied 	0 	8.0
+Aljunied Avenue 5 	Avenue 	Aljunied 	0 	8.0
+Aljunied Crescent 	Crescent 	Aljunied 	0 	8.0
+Aljunied Road 	Road 	Aljunied 	0 	8.0
+Alkaff Avenue 	Avenue 	Alkaff 	0 	6.0
+Allamanda Grove 	Grove 	Allamanda 	0 	9.0
+Allanbrooke Road 	Road 	Allanbrooke 	0 	11.0
+Allenby Road 	Road 	Allenby 	0 	7.0
+Almond Avenue 	Avenue 	Almond 	0 	6.0
+Almond Crescent 	Crescent 	Almond 	0 	6.0
+Almond Street 	Street 	Almond 	0 	6.0
+Alnwick Road 	Road 	Alnwick 	0 	7.0
+Ama Keng Road 	Road 	Ama Keng 	0 	3.5
+Amber Close 	Close 	Amber 	0 	5.0
+Amber Gardens 	Gardens 	Amber 	0 	5.0
+Amber Road 	Road 	Amber 	0 	5.0
+Amberwood Close 1 	Close 	Amberwood 	0 	9.0
+Amberwood Close 2 	Close 	Amberwood 	0 	9.0
+Amberwood Close 3 	Close 	Amberwood 	0 	9.0
+Amberwood Close 4 	Close 	Amberwood 	0 	9.0
+Amberwood Close 5 	Close 	Amberwood 	0 	9.0
+Amoy Street 	Street 	Amoy 	0 	4.0
+Anamalai Avenue 	Avenue 	Anamalai 	0 	8.0
+Anchorvale Crescent 	Crescent 	Anchorvale 	0 	10.0
+Anchorvale Drive 	Drive 	Anchorvale 	0 	10.0
+Anchorvale Lane 	Lane 	Anchorvale 	0 	10.0
+Anchorvale Link 	Link 	Anchorvale 	0 	10.0
+Anchorvale Street 	Street 	Anchorvale 	0 	10.0
+Anderson Road 	Road 	Anderson 	0 	8.0
+Andover Road 	Road 	Andover 	0 	7.0
+Andrew Avenue 	Avenue 	Andrew 	0 	6.0
+Andrew Road 	Road 	Andrew 	0 	6.0
+Ang Mo Kio Avenue 1 	Avenue 	Ang Mo Kio 	0 	2.66666666667
+Ang Mo Kio Avenue 10 	Avenue 	Ang Mo Kio 	0 	2.66666666667
+Ang Mo Kio Avenue 12 	Avenue 	Ang Mo Kio 	0 	2.66666666667
+Ang Mo Kio Avenue 2 	Avenue 	Ang Mo Kio 	0 	2.66666666667
+Ang Mo Kio Avenue 3 	Avenue 	Ang Mo Kio 	0 	2.66666666667
+Ang Mo Kio Avenue 4 	Avenue 	Ang Mo Kio 	0 	2.66666666667
+Ang Mo Kio Avenue 5 	Avenue 	Ang Mo Kio 	0 	2.66666666667
+Ang Mo Kio Avenue 6 	Avenue 	Ang Mo Kio 	0 	2.66666666667
+Ang Mo Kio Avenue 7 	Avenue 	Ang Mo Kio 	0 	2.66666666667
+Ang Mo Kio Avenue 8 	Avenue 	Ang Mo Kio 	0 	2.66666666667
+Ang Mo Kio Avenue 9 	Avenue 	Ang Mo Kio 	0 	2.66666666667
+Ang Mo Kio Central 1 	 	Ang Mo Kio 	0 	2.66666666667
+Ang Mo Kio Central 2 	 	Ang Mo Kio 	0 	2.66666666667
+Ang Mo Kio Central 2A 	 	Ang Mo Kio 	0 	2.66666666667
+Ang Mo Kio Central 3 	 	Ang Mo Kio 	0 	2.66666666667
+Ang Mo Kio Industrial Park 1 	Industrial Park 	Ang Mo Kio 	0 	2.66666666667
+Ang Mo Kio Industrial Park 2 	Industrial Park 	Ang Mo Kio 	0 	2.66666666667
+Ang Mo Kio Industrial Park 2A 	Industrial Park 	Ang Mo Kio 	0 	2.66666666667
+Ang Mo Kio Industrial Park 3 	Industrial Park 	Ang Mo Kio 	0 	2.66666666667
+Ang Mo Kio Street 11 	Street 	Ang Mo Kio 	0 	2.66666666667
+Ang Mo Kio Street 12 	Street 	Ang Mo Kio 	0 	2.66666666667
+Ang Mo Kio Street 13 	Street 	Ang Mo Kio 	0 	2.66666666667
+Ang Mo Kio Street 21 	Street 	Ang Mo Kio 	0 	2.66666666667
+Ang Mo Kio Street 22 	Street 	Ang Mo Kio 	0 	2.66666666667
+Ang Mo Kio Street 23 	Street 	Ang Mo Kio 	0 	2.66666666667
+Ang Mo Kio Street 24 	Street 	Ang Mo Kio 	0 	2.66666666667
+Ang Mo Kio Street 31 	Street 	Ang Mo Kio 	0 	2.66666666667
+Ang Mo Kio Street 32 	Street 	Ang Mo Kio 	0 	2.66666666667
+Ang Mo Kio Street 41 	Street 	Ang Mo Kio 	0 	2.66666666667
+Ang Mo Kio Street 42 	Street 	Ang Mo Kio 	0 	2.66666666667
+Ang Mo Kio Street 43 	Street 	Ang Mo Kio 	0 	2.66666666667
+Ang Mo Kio Street 4451 	Street 	Ang Mo Kio 	0 	2.66666666667
+Ang Mo Kio Street 52 	Street 	Ang Mo Kio 	0 	2.66666666667
+Ang Mo Kio Street 53 	Street 	Ang Mo Kio 	0 	2.66666666667
+Ang Mo Kio Street 54 	Street 	Ang Mo Kio 	0 	2.66666666667
+Ang Mo Kio Street 61 	Street 	Ang Mo Kio 	0 	2.66666666667
+Ang Mo Kio Street 62 	Street 	Ang Mo Kio 	0 	2.66666666667
+Ang Mo Kio Street 63 	Street 	Ang Mo Kio 	0 	2.66666666667
+Ang Mo Kio Street 64 	Street 	Ang Mo Kio 	0 	2.66666666667
+Ang Mo Kio Street 65 	Street 	Ang Mo Kio 	0 	2.66666666667
+Angklong Lane 	Lane 	Angklong 	0 	8.0
+Angora Close 	Close 	Angora 	0 	6.0
+Angsana Avenue 	Avenue 	Angsana 	0 	7.0
+Angullia Park 	Park 	Angullia 	0 	8.0
+Angus Street 	Street 	Angus 	0 	5.0
+Ann Siang Hill 	Hill 	Ann Siang 	0 	4.0
+Ann Siang Road 	Road 	Ann Siang 	0 	4.0
+Anson Road 	Road 	Anson 	0 	5.0
+Anthony Road 	Road 	Anthony 	0 	7.0
+Arab Street 	Street 	Arab 	0 	4.0
+Arcadia Road 	Road 	Arcadia 	0 	7.0
+Architecture Drive 	Drive 	Architecture 	0 	12.0
+Ardmore Park 	Park 	Ardmore 	0 	7.0
+Armenian Street 	Street 	Armenian 	0 	8.0
+Arnasalam Chetty Road 	Road 	Arnasalam Chetty 	0 	7.5
+Aroozoo Avenue 	Avenue 	Aroozoo 	0 	7.0
+Aroozoo Lane 	Lane 	Aroozoo 	0 	7.0
+Arthur Road 	Road 	Arthur 	0 	6.0
+Artillery Avenue 	Avenue 	Artillery 	0 	9.0
+Artillery Close 	Close 	Artillery 	0 	9.0
+Artillery Link 	Link 	Artillery 	0 	9.0
+Arts Link 	Link 	Arts 	0 	4.0
+Arumugam Road 	Road 	Arumugam 	0 	8.0
+Ascot Rise 	Rise 	Ascot 	0 	5.0
+Ash Grove 	Grove 	Ash 	0 	3.0
+Ashwood Grove 	Grove 	Ashwood 	0 	7.0
+Asimont Lane 	Lane 	Asimont 	0 	7.0
+Astrid Hill 	Hill 	Astrid 	0 	6.0
+Attap Valley Road 	Valley Road 	Attap 	0 	5.0
+Auckland Road East 	Road 	Auckland 	0 	8.0
+Auckland Road West 	Road 	Auckland 	0 	8.0
+Ava Road 	Road 	Ava 	0 	3.0
+Aviation Drive 	Drive 	Aviation 	0 	8.0
+Avon Road 	Road 	Avon 	0 	4.0
+Ayer Rajah Avenue 	Avenue 	Ayer Rajah 	0 	4.5
+Ayer Rajah Crescent 	Crescent 	Ayer Rajah 	0 	4.5
+Baboo Lane 	Lane 	Baboo 	0 	5.0
+Baghdad Street 	Street 	Baghdad 	0 	7.0
+Bah Soon Pah Road 	Road 	Bah Soon Pah 	0 	3.33333333333
+Bain Street 	Street 	Bain 	0 	4.0
+Baker Street 	Street 	Baker 	0 	5.0
+Balam Road 	Road 	Balam 	0 	5.0
+Balestier Road 	Road 	Balestier 	0 	9.0
+Bali Lane 	Lane 	Bali 	0 	4.0
+Ballater Close 	Close 	Ballater 	0 	8.0
+Balmeg Hill 	Hill 	Balmeg 	0 	6.0
+Balmoral Crescent 	Crescent 	Balmoral 	0 	8.0
+Balmoral Park 	Park 	Balmoral 	0 	8.0
+Balmoral Road 	Road 	Balmoral 	0 	8.0
+Ban San Street 	Street 	Ban San 	0 	3.0
+Banda Street 	Street 	Banda 	0 	5.0
+Bangkit Road 	Road 	Bangkit 	0 	7.0
+Barbary Walk 	Walk 	Barbary 	0 	7.0
+Barker Road 	Road 	Barker 	0 	6.0
+Bartley Road 	Road 	Bartley 	0 	7.0
+Bassein Road 	Road 	Bassein 	0 	7.0
+Bath Road 	Road 	Bath 	0 	4.0
+Battery Road 	Road 	Battery 	0 	7.0
+Bayfront Avenue 	Avenue 	Bayfront 	0 	8.0
+Bayfront Drive 	Drive 	Bayfront 	0 	8.0
+Bays Water Road 	Road 	Bays Water 	0 	4.5
+Bayshore Road 	Road 	Bayshore 	0 	8.0
+Beach Road 	Road 	Beach 	0 	5.0
+Beach View 	View 	Beach 	0 	5.0
+Beatty Road 	Road 	Beatty 	0 	6.0
+Beaulieu Road 	Road 	Beaulieu 	0 	8.0
+Bedford Road 	Road 	Bedford 	0 	7.0
+Bedok Avenue 	Avenue 	Bedok 	0 	5.0
+Bedok Close 	Close 	Bedok 	0 	5.0
+Bedok Garden 	Garden 	Bedok 	0 	5.0
+Bedok Industrial Park C 	Industrial Park 	Bedok 	0 	5.0
+Bedok Industrial Park E 	Industrial Park 	Bedok 	0 	5.0
+Bedok Junction 	Junction 	Bedok 	0 	5.0
+Bedok Lane 	Lane 	Bedok 	0 	5.0
+Bedok North Avenue 1 	Avenue 	Bedok 	0 	5.0
+Bedok North Avenue 2 	Avenue 	Bedok 	0 	5.0
+Bedok North Avenue 3 	Avenue 	Bedok 	0 	5.0
+Bedok North Avenue 4 	Avenue 	Bedok 	0 	5.0
+Bedok North Drive 	Drive 	Bedok 	0 	5.0
+Bedok North Interchange 	Interchange 	Bedok 	0 	5.0
+Bedok North Road 	Road 	Bedok 	0 	5.0
+Bedok North Street 1 	Street 	Bedok 	0 	5.0
+Bedok North Street 2 	Street 	Bedok 	0 	5.0
+Bedok North Street 3 	Street 	Bedok 	0 	5.0
+Bedok North Street 4 	Street 	Bedok 	0 	5.0
+Bedok North Street 5 	Street 	Bedok 	0 	5.0
+Bedok Reservoir Crescent 	Reservoir Crescent 	Bedok 	0 	5.0
+Bedok Reservoir Ring Road 	Reservoir Ring Road 	Bedok 	0 	5.0
+Bedok Reservoir Road 	Reservoir Road 	Bedok 	0 	5.0
+Bedok Reservoir View 	Reservoir View 	Bedok 	0 	5.0
+Bedok Ria Crescent 	Crescent 	Bedok Ria 	0 	4.0
+Bedok Ria Drive 	Drive 	Bedok Ria 	0 	4.0
+Bedok Ria Place 	Place 	Bedok Ria 	0 	4.0
+Bedok Ria Terrace 	Terrace 	Bedok Ria 	0 	4.0
+Bedok Ria Walk 	Walk 	Bedok Ria 	0 	4.0
+Bedok Rise 	Rise 	Bedok 	0 	5.0
+Bedok Road 	Road 	Bedok 	0 	5.0
+Bedok South Avenue 1 	Avenue 	Bedok 	0 	5.0
+Bedok South Avenue 2 	Avenue 	Bedok 	0 	5.0
+Bedok South Avenue 3 	Avenue 	Bedok 	0 	5.0
+Bedok South Road 	Road 	Bedok 	0 	5.0
+Bedok Terrace 	Terrace 	Bedok 	0 	5.0
+Bedok Walk 	Walk 	Bedok 	0 	5.0
+Bee San Avenue 	Avenue 	Bee San 	0 	3.0
+Beechwood Grove 	Grove 	Beechwood 	0 	9.0
+Begonia Crescent 	Crescent 	Begonia 	0 	7.0
+Begonia Drive 	Drive 	Begonia 	0 	7.0
+Begonia Lane 	Lane 	Begonia 	0 	7.0
+Begonia Road 	Road 	Begonia 	0 	7.0
+Begonia Terrace 	Terrace 	Begonia 	0 	7.0
+Begonia Walk 	Walk 	Begonia 	0 	7.0
+Belilios Lane 	Lane 	Belilios 	0 	8.0
+Belilios Road 	Road 	Belilios 	0 	8.0
+Belimbing Avenue 	Avenue 	Belimbing 	0 	9.0
+Belmont Road 	Road 	Belmont 	0 	7.0
+Belvedere Close 	Close 	Belvedere 	0 	9.0
+Bencoolen Street 	Street 	Bencoolen 	0 	9.0
+Bendemeer Road 	Road 	Bendemeer 	0 	9.0
+Beng Huat Road 	Road 	Beng Huat 	0 	4.0
+Beng Wan Road 	Road 	Beng Wan 	0 	3.5
+Benoi Crescent 	Crescent 	Benoi 	0 	5.0
+Benoi Place 	Place 	Benoi 	0 	5.0
+Benoi Road 	Road 	Benoi 	0 	5.0
+Benoi Sector 	Sector 	Benoi 	0 	5.0
+Beo Crescent 	Crescent 	Beo 	0 	3.0
+Berkshire Road 	Road 	Berkshire 	0 	9.0
+Bermuda Road 	Road 	Bermuda 	0 	7.0
+Bernam Street 	Street 	Bernam 	0 	6.0
+Berrima Road 	Road 	Berrima 	0 	7.0
+Berwick Drive 	Drive 	Berwick 	0 	7.0
+Bhamo Road 	Road 	Bhamo 	0 	5.0
+Bideford Road 	Road 	Bideford 	0 	8.0
+Biggin Hill Road 	Hill Road 	Biggin 	0 	6.0
+Bilal Lane 	Lane 	Bilal 	0 	5.0
+Bin Tong Park 	Park 	Bin Tong 	0 	3.5
+Binchang Rise 	Rise 	Binchang 	0 	8.0
+Binchang Walk 	Walk 	Binchang 	0 	8.0
+Binjai Hill 	Hill 	Binjai 	0 	6.0
+Binjai Park 	Park 	Binjai 	0 	6.0
+Binjai Rise 	Rise 	Binjai 	0 	6.0
+Binjai Walk 	Walk 	Binjai 	0 	6.0
+Birch Road 	Road 	Birch 	0 	5.0
+Bird Park Drive 	Park Drive 	Bird 	0 	4.0
+Bishan Lane 	Lane 	Bishan 	0 	6.0
+Bishan Place 	Place 	Bishan 	0 	6.0
+Bishan Road 	Road 	Bishan 	0 	6.0
+Bishan Street 11 	Street 	Bishan 	0 	6.0
+Bishan Street 12 	Street 	Bishan 	0 	6.0
+Bishan Street 13 	Street 	Bishan 	0 	6.0
+Bishan Street 14 	Street 	Bishan 	0 	6.0
+Bishan Street 21 	Street 	Bishan 	0 	6.0
+Bishan Street 22 	Street 	Bishan 	0 	6.0
+Bishan Street 23 	Street 	Bishan 	0 	6.0
+Bishan Street 24 	Street 	Bishan 	0 	6.0
+Bishops Place 	Place 	Bishops 	0 	7.0
+Bishopsgate 	 	Bishopsgate 	0 	11.0
+Bishopswalk 	 	Bishopswalk 	0 	11.0
+Blackmore Drive 	Drive 	Blackmore 	0 	9.0
+Blair Road 	Road 	Blair 	0 	5.0
+Blandford Drive 	Drive 	Blandford 	0 	9.0
+Bloxhome Drive 	Drive 	Bloxhome 	0 	8.0
+Bo Seng Avenue 	Avenue 	Bo Seng 	0 	3.0
+Boat Quay 	Quay 	Boat 	0 	4.0
+Bodmin Drive 	Drive 	Bodmin 	0 	6.0
+Bond Terrace 	Terrace 	Bond 	0 	4.0
+Bonham Street 	Street 	Bonham 	0 	6.0
+Boon Keng Road 	Road 	Boon Keng 	0 	4.0
+Boon Lay Avenue 	Avenue 	Boon Lay 	0 	3.5
+Boon Lay Drive 	Drive 	Boon Lay 	0 	3.5
+Boon Lay Place 	Place 	Boon Lay 	0 	3.5
+Boon Lay Way 	Way 	Boon Lay 	0 	3.5
+Boon Leat Terrace 	Terrace 	Boon Leat 	0 	4.0
+Boon Tat Street 	Street 	Boon Tat 	0 	3.5
+Boon Teck Road 	Road 	Boon Teck 	0 	4.0
+Boon Tiong Road 	Road 	Boon Tiong 	0 	4.5
+Borthwick Drive 	Drive 	Borthwick 	0 	9.0
+Boscombe Road 	Road 	Boscombe 	0 	8.0
+Boundary Road 	Road 	Boundary 	0 	8.0
+Bournemouth Road 	Road 	Bournemouth 	0 	11.0
+Bowmont Gardens 	Gardens 	Bowmont 	0 	7.0
+Braddell Hill 	Hill 	Braddell 	0 	8.0
+Braddell Road 	Road 	Braddell 	0 	8.0
+Braemar Drive 	Drive 	Braemar 	0 	7.0
+Branksome Road 	Road 	Branksome 	0 	9.0
+Bras Basah Road 	Road 	Bras Basah 	0 	4.5
+Bridport Avenue 	Avenue 	Bridport 	0 	8.0
+Bright Hill Crescent 	Hill Crescent 	Bright 	0 	6.0
+Bright Hill Drive 	Hill Drive 	Bright 	0 	6.0
+Bright Hill Road 	Hill Road 	Bright 	0 	6.0
+Brighton Crescent 	Crescent 	Brighton 	0 	8.0
+Bristol Road 	Road 	Bristol 	0 	7.0
+Brizay Park 	Park 	Brizay 	0 	6.0
+Broadrick Close 	Close 	Broadrick 	0 	9.0
+Broadrick Road 	Road 	Broadrick 	0 	9.0
+Brockhampton Drive 	Drive 	Brockhampton 	0 	12.0
+Brompton Road 	Road 	Brompton 	0 	8.0
+Brooke Road 	Road 	Brooke 	0 	6.0
+Brookvale Drive 	Drive 	Brookvale 	0 	9.0
+Brookvale Walk 	Walk 	Brookvale 	0 	9.0
+Buangkok Green 	Green 	Buangkok 	0 	8.0
+Buckley Road 	Road 	Buckley 	0 	7.0
+Buffalo Lane 	Lane 	Buffalo 	0 	7.0
+Buffalo Road 	Road 	Buffalo 	0 	7.0
+Bugis Street 	Street 	Bugis 	0 	5.0
+Bukit Arang Road 	Road 	Bukit Arang 	0 	5.0
+Bukit Ayer Molek 	Bukit 	Ayer Molek 	1 	4.5
+Bukit Batok Avenue 1 	Avenue 	Bukit Batok 	0 	5.0
+Bukit Batok Central 	Bukit 	Batok 	1 	5.0
+Bukit Batok East Avenue 2 	Avenue 	Bukit Batok 	0 	5.0
+Bukit Batok East Avenue 3 	Avenue 	Bukit Batok 	0 	5.0
+Bukit Batok East Avenue 4 	Avenue 	Bukit Batok 	0 	5.0
+Bukit Batok East Avenue 5 	Avenue 	Bukit Batok 	0 	5.0
+Bukit Batok East Avenue 6 	Avenue 	Bukit Batok 	0 	5.0
+Bukit Batok Road 	Road 	Bukit Batok 	0 	5.0
+Bukit Batok Street 11 	Street 	Bukit Batok 	0 	5.0
+Bukit Batok Street 21 	Street 	Bukit Batok 	0 	5.0
+Bukit Batok Street 22 	Street 	Bukit Batok 	0 	5.0
+Bukit Batok Street 23 	Street 	Bukit Batok 	0 	5.0
+Bukit Batok Street 24 	Street 	Bukit Batok 	0 	5.0
+Bukit Batok Street 25 	Street 	Bukit Batok 	0 	5.0
+Bukit Batok Street 31 	Street 	Bukit Batok 	0 	5.0
+Bukit Batok Street 32 	Street 	Bukit Batok 	0 	5.0
+Bukit Batok Street 33 	Street 	Bukit Batok 	0 	5.0
+Bukit Batok Street 34 	Street 	Bukit Batok 	0 	5.0
+Bukit Batok Street 51 	Street 	Bukit Batok 	0 	5.0
+Bukit Batok Street 52 	Street 	Bukit Batok 	0 	5.0
+Bukit Batok West Avenue 2 	Avenue 	Bukit Batok 	0 	5.0
+Bukit Batok West Avenue 3 	Avenue 	Bukit Batok 	0 	5.0
+Bukit Batok West Avenue 4 	Avenue 	Bukit Batok 	0 	5.0
+Bukit Batok West Avenue 5 	Avenue 	Bukit Batok 	0 	5.0
+Bukit Batok West Avenue 6 	Avenue 	Bukit Batok 	0 	5.0
+Bukit Batok West Avenue 7 	Avenue 	Bukit Batok 	0 	5.0
+Bukit Batok West Avenue 8 	Avenue 	Bukit Batok 	0 	5.0
+Bukit Chermin Road 	Road 	Bukit Chermin 	0 	6.0
+Bukit Ho Swee Crescent 	Crescent 	Bukit Ho Swee 	0 	3.66666666667
+Bukit Ho Swee Link 	Link 	Bukit Ho Swee 	0 	3.66666666667
+Bukit Manis Central 	Bukit 	Manis 	1 	5.0
+Bukit Manis Road 	Road 	Bukit Manis 	0 	5.0
+Bukit Merah Lane 1 	Lane 	Bukit Merah 	0 	5.0
+Bukit Merah Lane 2 	Lane 	Bukit Merah 	0 	5.0
+Bukit Merah Lane 3 	Lane 	Bukit Merah 	0 	5.0
+Bukit Merah View 	View 	Bukit Merah 	0 	5.0
+Bukit Mugliston 	Bukit 	Mugliston 	1 	9.0
+Bukit Panjang Link 	Link 	Bukit Panjang 	0 	6.0
+Bukit Panjang Ring Road 	Ring Road 	Bukit Panjang 	0 	6.0
+Bukit Panjang Road 	Road 	Bukit Panjang 	0 	6.0
+Bukit Pasoh Road 	Road 	Bukit Pasoh 	0 	5.0
+Bukit Purmei 	Bukit 	Purmei 	1 	6.0
+Bukit Purmei Avenue 	Avenue 	Bukit Purmei 	0 	5.5
+Bukit Purmei Road 	Road 	Bukit Purmei 	0 	5.5
+Bukit Sedap Road 	Road 	Bukit Sedap 	0 	5.0
+Bukit Teresa Close 	Close 	Bukit Teresa 	0 	5.5
+Bukit Teresa Road 	Road 	Bukit Teresa 	0 	5.5
+Bukit Timah Avenue 	Avenue 	Bukit Timah 	0 	5.0
+Bukit Timah Link 	Link 	Bukit Timah 	0 	5.0
+Bukit Timah Road 	Road 	Bukit Timah 	0 	5.0
+Bukit Timah View 	View 	Bukit Timah 	0 	5.0
+Bukit Tinggi Road 	Road 	Bukit Tinggi 	0 	5.5
+Bukit Tunggal Road 	Road 	Bukit Tunggal 	0 	6.0
+Bunga Rampai Place 	Place 	Bunga Rampai 	0 	5.5
+Burghley Drive 	Drive 	Burghley 	0 	8.0
+Burgundy Crescent 	Crescent 	Burgundy 	0 	8.0
+Burgundy Rise 	Rise 	Burgundy 	0 	8.0
+Burmah Road 	Road 	Burmah 	0 	6.0
+Burn Road 	Road 	Burn 	0 	4.0
+Burnfoot Terrace 	Terrace 	Burnfoot 	0 	8.0
+Buroh Lane 	Lane 	Buroh 	0 	5.0
+Bury Road 	Road 	Bury 	0 	4.0
+Business Link 	Link 	Business 	0 	8.0
+Bussorah Street 	Street 	Bussorah 	0 	8.0
+Butterfly Avenue 	Avenue 	Butterfly 	0 	9.0
+Butterworth Lane 	Lane 	Butterworth 	0 	11.0
+Buyong Road 	Road 	Buyong 	0 	6.0
+Cable Car Road 	Road 	Cable Car 	0 	4.0
+Cable Road 	Road 	Cable 	0 	5.0
+Cactus Crescent 	Crescent 	Cactus 	0 	6.0
+Cactus Drive 	Drive 	Cactus 	0 	6.0
+Cactus Road 	Road 	Cactus 	0 	6.0
+Cairnhill Circle 	Circle 	Cairnhill 	0 	9.0
+Cairnhill Rise 	Rise 	Cairnhill 	0 	9.0
+Cairnhill Road 	Road 	Cairnhill 	0 	9.0
+Caldecott Close 	Close 	Caldecott 	0 	9.0
+Calshot Road 	Road 	Calshot 	0 	7.0
+Camborne Road 	Road 	Camborne 	0 	8.0
+Cambridge Road 	Road 	Cambridge 	0 	9.0
+Camden Park 	Park 	Camden 	0 	6.0
+Cameron Court 	Court 	Cameron 	0 	7.0
+Camp Road 	Road 	Camp 	0 	4.0
+Campbell Lane 	Lane 	Campbell 	0 	8.0
+Camphor Avenue 	Avenue 	Camphor 	0 	7.0
+Canada Road 	Road 	Canada 	0 	6.0
+Canberra Drive 	Drive 	Canberra 	0 	8.0
+Canberra Lane 	Lane 	Canberra 	0 	8.0
+Canberra Link 	Link 	Canberra 	0 	8.0
+Canberra Road 	Road 	Canberra 	0 	8.0
+Canberra Street 	Street 	Canberra 	0 	8.0
+Canning Lane 	Lane 	Canning 	0 	7.0
+Canning Rise 	Rise 	Canning 	0 	7.0
+Canning Walk Road 	Walk Road 	Canning 	0 	7.0
+Canterbury Road 	Road 	Canterbury 	0 	10.0
+Canton Street 	Street 	Canton 	0 	6.0
+Cantonment Link 	Link 	Cantonment 	0 	10.0
+Cantonment Road 	Road 	Cantonment 	0 	10.0
+Capricorn Drive 	Drive 	Capricorn 	0 	9.0
+Cardiff Grove 	Grove 	Cardiff 	0 	7.0
+Carisbrooke Grove 	Grove 	Carisbrooke 	0 	11.0
+Carlisle Road 	Road 	Carlisle 	0 	8.0
+Carlton Avenue 	Avenue 	Carlton 	0 	7.0
+Carlton Walk 	Walk 	Carlton 	0 	7.0
+Carmen Street 	Street 	Carmen 	0 	6.0
+Carmen Terrace 	Terrace 	Carmen 	0 	6.0
+Carmichael Road 	Road 	Carmichael 	0 	10.0
+Carnation Drive 	Drive 	Carnation 	0 	9.0
+Carpenter Street 	Street 	Carpenter 	0 	9.0
+Carpmael Road 	Road 	Carpmael 	0 	8.0
+Carver Street 	Street 	Carver 	0 	6.0
+Caseen Street 	Street 	Caseen 	0 	6.0
+Cashew Crescent 	Crescent 	Cashew 	0 	6.0
+Cashew Link 	Link 	Cashew 	0 	6.0
+Cashew Road 	Road 	Cashew 	0 	6.0
+Cashew Terrace 	Terrace 	Cashew 	0 	6.0
+Cashin Street 	Street 	Cashin 	0 	6.0
+Cassia Crescent 	Crescent 	Cassia 	0 	6.0
+Cassia Drive 	Drive 	Cassia 	0 	6.0
+Casuarina Road 	Road 	Casuarina 	0 	9.0
+Casuarina Walk 	Walk 	Casuarina 	0 	9.0
+Catterick Road 	Road 	Catterick 	0 	9.0
+Cavan Road 	Road 	Cavan 	0 	5.0
+Cavenagh Road 	Road 	Cavenagh 	0 	8.0
+Cecil Street 	Street 	Cecil 	0 	5.0
+Cedar Avenue 	Avenue 	Cedar 	0 	5.0
+Cedarwood Grove 	Grove 	Cedarwood 	0 	9.0
+Central Boulevard 	 	Boulevard 	0 	9.0
+Central Circus 	 	Circus 	0 	6.0
+Ceylon Lane 	Lane 	Ceylon 	0 	6.0
+Ceylon Road 	Road 	Ceylon 	0 	6.0
+Chai Chee Avenue 	Avenue 	Chai Chee 	0 	4.0
+Chai Chee Drive 	Drive 	Chai Chee 	0 	4.0
+Chai Chee Lane 	Lane 	Chai Chee 	0 	4.0
+Chai Chee Road 	Road 	Chai Chee 	0 	4.0
+Chai Chee Street 	Street 	Chai Chee 	0 	4.0
+Chancery Hill Road 	Hill Road 	Chancery 	0 	8.0
+Chancery Hill Walk 	Hill Walk 	Chancery 	0 	8.0
+Chancery Lane 	Lane 	Chancery 	0 	8.0
+Chancery Road 	Road 	Chancery 	0 	8.0
+Chang Charn Road 	Road 	Chang Charn 	0 	5.0
+Change Alley 	 	Change Alley 	0 	5.5
+Changi Coast Road 	Coast Road 	Changi 	0 	6.0
+Changi Coast Walk 	Coast Walk 	Changi 	0 	6.0
+Changi Ferry Road 	Road 	Changi Ferry 	0 	5.5
+Changi North Crescent 	Crescent 	Changi 	0 	6.0
+Changi North Street 1 	Street 	Changi 	0 	6.0
+Changi North Street 2 	Street 	Changi 	0 	6.0
+Changi Road 	Road 	Changi 	0 	6.0
+Changi South Avenue 1 	Avenue 	Changi 	0 	6.0
+Changi South Avenue 2 	Avenue 	Changi 	0 	6.0
+Changi South Avenue 3 	Avenue 	Changi 	0 	6.0
+Changi South Avenue 4 	Avenue 	Changi 	0 	6.0
+Changi South Lane 	Lane 	Changi 	0 	6.0
+Changi South Street 1 	Street 	Changi 	0 	6.0
+Changi South Street 2 	Street 	Changi 	0 	6.0
+Changi South Street 3 	Street 	Changi 	0 	6.0
+Changi Village Road 	Village Road 	Changi 	0 	6.0
+Chapel Close 	Close 	Chapel 	0 	6.0
+Chapel Road 	Road 	Chapel 	0 	6.0
+Charlton Lane 	Lane 	Charlton 	0 	8.0
+Charlton Road 	Road 	Charlton 	0 	8.0
+Chartwell Drive 	Drive 	Chartwell 	0 	9.0
+Chatsworth Avenue 	Avenue 	Chatsworth 	0 	10.0
+Chatsworth Park 	Park 	Chatsworth 	0 	10.0
+Chatsworth Road 	Road 	Chatsworth 	0 	10.0
+Chay Yan Street 	Street 	Chay Yan 	0 	3.5
+Cheang Hong Lim Street 	Street 	Cheang Hong Lim 	0 	4.33333333333
+Cheang Wan Seng Place 	Place 	Cheang Wan Seng 	0 	4.33333333333
+Chee Hoon Avenue 	Avenue 	Chee Hoon 	0 	4.0
+Chempaka Avenue 	Avenue 	Chempaka 	0 	8.0
+Cheng Lim Farmway 2 	Farmway 	Cheng Lim 	0 	4.0
+Cheng Lim Farmway 4 	Farmway 	Cheng Lim 	0 	4.0
+Cheng Lim Farmway 5 	Farmway 	Cheng Lim 	0 	4.0
+Cheng Lim Farmway 6 	Farmway 	Cheng Lim 	0 	4.0
+Cheng Soon Crescent 	Crescent 	Cheng Soon 	0 	4.5
+Cheng Soon Garden 	Garden 	Cheng Soon 	0 	4.5
+Cheng Soon Lane 	Lane 	Cheng Soon 	0 	4.5
+Cheng Yan Place 	Place 	Cheng Yan 	0 	4.0
+Cheong Chin Nam Road 	Road 	Cheong Chin Nam 	0 	4.33333333333
+Cheow Keng Road 	Road 	Cheow Keng 	0 	4.5
+Chepstow Close 	Close 	Chepstow 	0 	8.0
+Cherry Avenue 	Avenue 	Cherry 	0 	6.0
+Chestnut Avenue 	Avenue 	Chestnut 	0 	8.0
+Chestnut Close 	Close 	Chestnut 	0 	8.0
+Chestnut Crescent 	Crescent 	Chestnut 	0 	8.0
+Chestnut Drive 	Drive 	Chestnut 	0 	8.0
+Chestnut Gardens 	Gardens 	Chestnut 	0 	8.0
+Chestnut Lane 	Lane 	Chestnut 	0 	8.0
+Chestnut Terrace 	Terrace 	Chestnut 	0 	8.0
+Cheviot Hill 	Hill 	Cheviot 	0 	7.0
+Chia Eng Say Road 	Road 	Chia Eng Say 	0 	3.33333333333
+Chia Ping Road 	Road 	Chia Ping 	0 	4.0
+Chiap Guan Avenue 	Avenue 	Chiap Guan 	0 	4.5
+Chiku Road 	Road 	Chiku 	0 	5.0
+Chiltern Drive 	Drive 	Chiltern 	0 	8.0
+Chin Bee Avenue 	Avenue 	Chin Bee 	0 	3.5
+Chin Bee Crescent 	Crescent 	Chin Bee 	0 	3.5
+Chin Bee Drive 	Drive 	Chin Bee 	0 	3.5
+Chin Bee Road 	Road 	Chin Bee 	0 	3.5
+Chin Cheng Avenue 	Avenue 	Chin Cheng 	0 	4.5
+Chin Chew Street 	Street 	Chin Chew 	0 	4.0
+Chin Hin Street 	Street 	Chin Hin 	0 	3.5
+Chin Swee Road 	Road 	Chin Swee 	0 	4.0
+Chin Terrace 	Terrace 	Chin 	0 	4.0
+China Street 	Street 	China 	0 	5.0
+Chinese Garden Road 	Garden Road 	Chinese 	0 	7.0
+Chiselhurst Grove 	Grove 	Chiselhurst 	0 	11.0
+Chitty Road 	Road 	Chitty 	0 	6.0
+Choa Chu Kang Avenue 1 	Avenue 	Choa Chu Kang 	0 	3.66666666667
+Choa Chu Kang Avenue 2 	Avenue 	Choa Chu Kang 	0 	3.66666666667
+Choa Chu Kang Avenue 3 	Avenue 	Choa Chu Kang 	0 	3.66666666667
+Choa Chu Kang Avenue 4 	Avenue 	Choa Chu Kang 	0 	3.66666666667
+Choa Chu Kang Avenue 5 	Avenue 	Choa Chu Kang 	0 	3.66666666667
+Choa Chu Kang Central 	 	Choa Chu Kang 	0 	3.66666666667
+Choa Chu Kang Crescent 	Crescent 	Choa Chu Kang 	0 	3.66666666667
+Choa Chu Kang Drive 	Drive 	Choa Chu Kang 	0 	3.66666666667
+Choa Chu Kang Link 	Link 	Choa Chu Kang 	0 	3.66666666667
+Choa Chu Kang Loop 	Loop 	Choa Chu Kang 	0 	3.66666666667
+Choa Chu Kang North 5 	 	Choa Chu Kang 	0 	3.66666666667
+Choa Chu Kang North 6 	 	Choa Chu Kang 	0 	3.66666666667
+Choa Chu Kang North 7 	 	Choa Chu Kang 	0 	3.66666666667
+Choa Chu Kang Road 	Road 	Choa Chu Kang 	0 	3.66666666667
+Choa Chu Kang Street 51 	Street 	Choa Chu Kang 	0 	3.66666666667
+Choa Chu Kang Street 52 	Street 	Choa Chu Kang 	0 	3.66666666667
+Choa Chu Kang Street 53 	Street 	Choa Chu Kang 	0 	3.66666666667
+Choa Chu Kang Street 54 	Street 	Choa Chu Kang 	0 	3.66666666667
+Choa Chu Kang Street 62 	Street 	Choa Chu Kang 	0 	3.66666666667
+Choa Chu Kang Street 64 	Street 	Choa Chu Kang 	0 	3.66666666667
+Choa Chu Kang Terrace 	Terrace 	Choa Chu Kang 	0 	3.66666666667
+Choa Chu Kang Track 15 	Track 	Choa Chu Kang 	0 	3.66666666667
+Choa Chu Kang Track 33 	Track 	Choa Chu Kang 	0 	3.66666666667
+Choa Chu Kang Way 	Way 	Choa Chu Kang 	0 	3.66666666667
+Chong Kuo Road 	Road 	Chong Kuo 	0 	4.0
+Choon Guan Street 	Street 	Choon Guan 	0 	4.5
+Chu Lin Road 	Road 	Chu Lin 	0 	3.0
+Chu Yen Street 	Street 	Chu Yen 	0 	3.0
+Chuan Drive 	Drive 	Chuan 	0 	5.0
+Chuan Garden 	Garden 	Chuan 	0 	5.0
+Chuan Hoe Avenue 	Avenue 	Chuan Hoe 	0 	4.0
+Chuan Lane 	Lane 	Chuan 	0 	5.0
+Chuan Link 	Link 	Chuan 	0 	5.0
+Chuan Place 	Place 	Chuan 	0 	5.0
+Chuan Terrace 	Terrace 	Chuan 	0 	5.0
+Chuan View 	View 	Chuan 	0 	5.0
+Chuan Walk 	Walk 	Chuan 	0 	5.0
+Chulia Street 	Street 	Chulia 	0 	6.0
+Chun Tin Road 	Road 	Chun Tin 	0 	3.5
+Church Street 	Street 	Church 	0 	6.0
+Chwee Chian Road 	Road 	Chwee Chian 	0 	5.0
+Chwee Chian View 	View 	Chwee Chian 	0 	5.0
+Circuit Link 	Link 	Circuit 	0 	7.0
+Circuit Road 	Road 	Circuit 	0 	7.0
+Circular Road 	Road 	Circular 	0 	8.0
+Clacton Road 	Road 	Clacton 	0 	7.0
+Clarence Lane 	Lane 	Clarence 	0 	8.0
+Clarke Quay 	Quay 	Clarke 	0 	6.0
+Clarke Street 	Street 	Clarke 	0 	6.0
+Claymore Drive 	Drive 	Claymore 	0 	8.0
+Claymore Hill 	Hill 	Claymore 	0 	8.0
+Claymore Road 	Road 	Claymore 	0 	8.0
+Clemenceau Avenue 	Avenue 	Clemenceau 	0 	10.0
+Clementi Avenue 1 	Avenue 	Clementi 	0 	8.0
+Clementi Avenue 2 	Avenue 	Clementi 	0 	8.0
+Clementi Avenue 3 	Avenue 	Clementi 	0 	8.0
+Clementi Avenue 4 	Avenue 	Clementi 	0 	8.0
+Clementi Avenue 5 	Avenue 	Clementi 	0 	8.0
+Clementi Avenue 6 	Avenue 	Clementi 	0 	8.0
+Clementi Crescent 	Crescent 	Clementi 	0 	8.0
+Clementi Loop 	Loop 	Clementi 	0 	8.0
+Clementi Road 	Road 	Clementi 	0 	8.0
+Clementi Street 11 	Street 	Clementi 	0 	8.0
+Clementi Street 12 	Street 	Clementi 	0 	8.0
+Clementi Street 13 	Street 	Clementi 	0 	8.0
+Clementi Street 14 	Street 	Clementi 	0 	8.0
+Clementi West Street 1 	Street 	Clementi 	0 	8.0
+Clementi West Street 2 	Street 	Clementi 	0 	8.0
+Clifton Vale 	Vale 	Clifton 	0 	7.0
+Clive Street 	Street 	Clive 	0 	5.0
+Clover Avenue 	Avenue 	Clover 	0 	6.0
+Clover Close 	Close 	Clover 	0 	6.0
+Clover Crescent 	Crescent 	Clover 	0 	6.0
+Clover Rise 	Rise 	Clover 	0 	6.0
+Clover Way 	Way 	Clover 	0 	6.0
+Club Street 	Street 	Club 	0 	4.0
+Clunny Hill 	Hill 	Clunny 	0 	6.0
+Clunny Park 	Park 	Clunny 	0 	6.0
+Cluny Park Road 	Park Road 	Cluny 	0 	5.0
+Cluny Road 	Road 	Cluny 	0 	5.0
+Cochrane Crescent 	Crescent 	Cochrane 	0 	8.0
+Colchester Grove 	Grove 	Colchester 	0 	10.0
+Coldstream Avenue 	Avenue 	Coldstream 	0 	10.0
+Coleman Street 	Street 	Coleman 	0 	7.0
+College Green 	Green 	College 	0 	7.0
+College Road 	Road 	College 	0 	7.0
+Collyer Quay 	Quay 	Collyer 	0 	7.0
+Commonwealth Avenue 	Avenue 	Commonwealth 	0 	12.0
+Commonwealth Avenue West 	Avenue 	Commonwealth 	0 	12.0
+Commonwealth Close 	Close 	Commonwealth 	0 	12.0
+Commonwealth Crescent 	Crescent 	Commonwealth 	0 	12.0
+Commonwealth Drive 	Drive 	Commonwealth 	0 	12.0
+Commonwealth Lane 	Lane 	Commonwealth 	0 	12.0
+Commonwealth Link 	Link 	Commonwealth 	0 	12.0
+Compassvale Crescent 	Crescent 	Compassvale 	0 	11.0
+Compassvale Drive 	Drive 	Compassvale 	0 	11.0
+Compassvale Lane 	Lane 	Compassvale 	0 	11.0
+Compassvale Road 	Road 	Compassvale 	0 	11.0
+Compassvale Street 	Street 	Compassvale 	0 	11.0
+Compassvale Walk 	Walk 	Compassvale 	0 	11.0
+Coniston Grove 	Grove 	Coniston 	0 	8.0
+Connaught Drive 	Drive 	Connaught 	0 	9.0
+Conway Circle 	Circle 	Conway 	0 	6.0
+Conway Grove 	Grove 	Conway 	0 	6.0
+Cook Street 	Street 	Cook 	0 	4.0
+Cooling Close 	Close 	Cooling 	0 	7.0
+Coral Island 	Island 	Coral 	0 	5.0
+Corfe Place 	Place 	Corfe 	0 	5.0
+Cornwall Gardens 	Gardens 	Cornwall 	0 	8.0
+Cornwall Road 	Road 	Cornwall 	0 	8.0
+Coronation Drive 	Drive 	Coronation 	0 	10.0
+Coronation Road 	Road 	Coronation 	0 	10.0
+Coronation Road West 	Road 	Coronation 	0 	10.0
+Coronation Walk 	Walk 	Coronation 	0 	10.0
+Cosford Road 	Road 	Cosford 	0 	7.0
+Cotswold Close 	Close 	Cotswold 	0 	8.0
+Cottesmore Road 	Road 	Cottesmore 	0 	10.0
+Countryside Grove 	Grove 	Countryside 	0 	11.0
+Countryside Link 	Link 	Countryside 	0 	11.0
+Countryside Place 	Place 	Countryside 	0 	11.0
+Countryside Road 	Road 	Countryside 	0 	11.0
+Countryside View 	View 	Countryside 	0 	11.0
+Countryside Walk 	Walk 	Countryside 	0 	11.0
+Court Road 	Road 	Court 	0 	5.0
+Cove Avenue 	Avenue 	Cove 	0 	4.0
+Cove Drive 	Drive 	Cove 	0 	4.0
+Cove Grove 	Grove 	Cove 	0 	4.0
+Cove Way 	Way 	Cove 	0 	4.0
+Cowdray Avenue 	Avenue 	Cowdray 	0 	7.0
+Cox Terrace 	Terrace 	Cox 	0 	3.0
+Craig Road 	Road 	Craig 	0 	5.0
+Cranborne Road 	Road 	Cranborne 	0 	9.0
+Crane Road 	Road 	Crane 	0 	5.0
+Cranwell Road 	Road 	Cranwell 	0 	8.0
+Crawford Lane 	Lane 	Crawford 	0 	8.0
+Crawford Street 	Street 	Crawford 	0 	8.0
+Crescent Road 	Road 	Crescent 	0 	8.0
+Crichton Close 	Close 	Crichton 	0 	8.0
+Cross Street 	Street 	Cross 	0 	5.0
+Croucher Road 	Road 	Croucher 	0 	8.0
+Crowhurst Drive 	Drive 	Crowhurst 	0 	9.0
+Cuff Road 	Road 	Cuff 	0 	4.0
+Cumming Street 	Street 	Cumming 	0 	7.0
+Cuppage Road 	Road 	Cuppage 	0 	7.0
+Cuscaden Road 	Road 	Cuscaden 	0 	8.0
+Cuscaden Walk 	Walk 	Cuscaden 	0 	8.0
+Cypress Avenue 	Avenue 	Cypress 	0 	7.0
+Cyprus Road 	Road 	Cyprus 	0 	6.0
+D'almeida Street 	Street 	D'almeida 	0 	9.0
+Da Silva Lane 	Lane 	Da Silva 	0 	3.5
+Daffodil Drive 	Drive 	Daffodil 	0 	8.0
+Dafne Street 	Street 	Dafne 	0 	5.0
+Dahan Road 	Road 	Dahan 	0 	5.0
+Dairy Farm Crescent 	Crescent 	Dairy Farm 	0 	4.5
+Dairy Farm Road 	Road 	Dairy Farm 	0 	4.5
+Daisy Avenue 	Avenue 	Daisy 	0 	5.0
+Daisy Road 	Road 	Daisy 	0 	5.0
+Dakota Close 	Close 	Dakota 	0 	6.0
+Dakota Crescent 	Crescent 	Dakota 	0 	6.0
+Dalhousie Lane 	Lane 	Dalhousie 	0 	9.0
+Dalkeith Road 	Road 	Dalkeith 	0 	8.0
+Dalvey Estate 	Estate 	Dalvey 	0 	6.0
+Dalvey Gate Road 	Gate Road 	Dalvey 	0 	6.0
+Dalvey Road 	Road 	Dalvey 	0 	6.0
+Davidson Road 	Road 	Davidson 	0 	8.0
+Dawson Road 	Road 	Dawson 	0 	6.0
+De Souza Avenue 	Avenue 	De Souza 	0 	3.5
+De Souza Street 	Street 	De Souza 	0 	3.5
+Deal Road 	Road 	Deal 	0 	4.0
+Dedap Link 	Link 	Dedap 	0 	5.0
+Dedap Place 	Place 	Dedap 	0 	5.0
+Dedap Road 	Road 	Dedap 	0 	5.0
+Defu Avenue 1 	Avenue 	Defu 	0 	4.0
+Defu Avenue 2 	Avenue 	Defu 	0 	4.0
+Defu Lane 1 	Lane 	Defu 	0 	4.0
+Defu Lane 10 	Lane 	Defu 	0 	4.0
+Defu Lane 11 	Lane 	Defu 	0 	4.0
+Defu Lane 2 	Lane 	Defu 	0 	4.0
+Defu Lane 3 	Lane 	Defu 	0 	4.0
+Defu Lane 4 	Lane 	Defu 	0 	4.0
+Defu Lane 5 	Lane 	Defu 	0 	4.0
+Defu Lane 6 	Lane 	Defu 	0 	4.0
+Defu Lane 7 	Lane 	Defu 	0 	4.0
+Defu Lane 8 	Lane 	Defu 	0 	4.0
+Defu Lane 9 	Lane 	Defu 	0 	4.0
+Delhi Road 	Road 	Delhi 	0 	5.0
+Delta Avenue 	Avenue 	Delta 	0 	5.0
+Delta Road 	Road 	Delta 	0 	5.0
+Dempsey Road 	Road 	Dempsey 	0 	7.0
+Denham Close 	Close 	Denham 	0 	6.0
+Denham Road 	Road 	Denham 	0 	6.0
+Depot Close 	Close 	Depot 	0 	5.0
+Depot Lane 	Lane 	Depot 	0 	5.0
+Depot Road 	Road 	Depot 	0 	5.0
+Depot Walk 	Walk 	Depot 	0 	5.0
+Deptford Road 	Road 	Deptford 	0 	8.0
+Derbyshire Road 	Road 	Derbyshire 	0 	10.0
+Desker Road 	Road 	Desker 	0 	6.0
+Devonshire Road 	Road 	Devonshire 	0 	10.0
+Dickenson Hill Road 	Hill Road 	Dickenson 	0 	9.0
+Dickson Road 	Road 	Dickson 	0 	7.0
+Dido Street 	Street 	Dido 	0 	4.0
+Digby Road 	Road 	Digby 	0 	5.0
+Din Pang Avenue 	Avenue 	Din Pang 	0 	3.5
+Dix Road 	Road 	Dix 	0 	3.0
+Dock Road East 	Road 	Dock 	0 	4.0
+Dock Road South 	Road 	Dock 	0 	4.0
+Dock Road West 	Road 	Dock 	0 	4.0
+Dorset Road 	Road 	Dorset 	0 	6.0
+Dover Avenue 	Avenue 	Dover 	0 	5.0
+Dover Close East 	Close 	Dover 	0 	5.0
+Dover Crescent 	Crescent 	Dover 	0 	5.0
+Dover Drive 	Drive 	Dover 	0 	5.0
+Dover Rise 	Rise 	Dover 	0 	5.0
+Dover Road 	Road 	Dover 	0 	5.0
+Draycott Drive 	Drive 	Draycott 	0 	8.0
+Draycott Park 	Park 	Draycott 	0 	8.0
+Dryburgh Avenue 	Avenue 	Dryburgh 	0 	8.0
+Dublin Road 	Road 	Dublin 	0 	6.0
+Duchess Avenue 	Avenue 	Duchess 	0 	7.0
+Duchess Place 	Place 	Duchess 	0 	7.0
+Duchess Road 	Road 	Duchess 	0 	7.0
+Duchess Walk 	Walk 	Duchess 	0 	7.0
+Duke Street 	Street 	Duke 	0 	4.0
+Duke's Road 	Road 	Duke's 	0 	6.0
+Duku Lane 	Lane 	Duku 	0 	4.0
+Duku Place 	Place 	Duku 	0 	4.0
+Duku Road 	Road 	Duku 	0 	4.0
+Dunbar Walk 	Walk 	Dunbar 	0 	6.0
+Dundee Road 	Road 	Dundee 	0 	6.0
+Dunearn Close 	Close 	Dunearn 	0 	7.0
+Dunearn Road 	Road 	Dunearn 	0 	7.0
+Dunkirk Avenue 	Avenue 	Dunkirk 	0 	7.0
+Dunlop Street 	Street 	Dunlop 	0 	6.0
+Dunman Lane 	Lane 	Dunman 	0 	6.0
+Dunman Road 	Road 	Dunman 	0 	6.0
+Dunsfold Drive 	Drive 	Dunsfold 	0 	8.0
+Durban Road 	Road 	Durban 	0 	6.0
+Durham Road 	Road 	Durham 	0 	6.0
+Duxton Hill 	Hill 	Duxton 	0 	6.0
+Duxton Road 	Road 	Duxton 	0 	6.0
+Dyson Road 	Road 	Dyson 	0 	5.0
+Ean Kiam Place 	Place 	Ean Kiam 	0 	3.5
+East Church Road 	Road 	Church 	0 	6.0
+East Coast Avenue 	Avenue 	Coast 	0 	5.0
+East Coast Drive 	Drive 	Coast 	0 	5.0
+East Coast Road 	Road 	Coast 	0 	5.0
+East Coast Terrace 	Terrace 	Coast 	0 	5.0
+East Lagoon Link 	Link 	Lagoon 	0 	6.0
+East Perimeter Road 	Road 	Perimeter 	0 	9.0
+East Sussex Lane 	Lane 	Sussex 	0 	6.0
+Eastern Link 	Link 	Eastern 	0 	7.0
+Eastwood Drive 	Drive 	Eastwood 	0 	8.0
+Eastwood Green 	Green 	Eastwood 	0 	8.0
+Eastwood Place 	Place 	Eastwood 	0 	8.0
+Eastwood Road 	Road 	Eastwood 	0 	8.0
+Eastwood Terrace 	Terrace 	Eastwood 	0 	8.0
+Eastwood Walk 	Walk 	Eastwood 	0 	8.0
+Eastwood Way 	Way 	Eastwood 	0 	8.0
+Eaton Place 	Place 	Eaton 	0 	5.0
+Eaton Walk 	Walk 	Eaton 	0 	5.0
+Eber Road 	Road 	Eber 	0 	4.0
+Eden Grove 	Grove 	Eden 	0 	4.0
+Edgware Road 	Road 	Edgware 	0 	7.0
+Edinburgh Road 	Road 	Edinburgh 	0 	9.0
+Ee Teow Leng Road 	Road 	Ee Teow Leng 	0 	3.33333333333
+Elias Green 	Green 	Elias 	0 	5.0
+Elias Road 	Road 	Elias 	0 	5.0
+Elias Terrace 	Terrace 	Elias 	0 	5.0
+Elite Park Avenue 	Park Avenue 	Elite 	0 	5.0
+Elite Terrace 	Terrace 	Elite 	0 	5.0
+Elizabeth Drive 	Drive 	Elizabeth 	0 	9.0
+Ellenborough Street 	Street 	Ellenborough 	0 	12.0
+Ellington Square 	Square 	Ellington 	0 	9.0
+Elliot Road 	Road 	Elliot 	0 	6.0
+Elliot Walk 	Walk 	Elliot 	0 	6.0
+Ellis Road 	Road 	Ellis 	0 	5.0
+Elm Avenue 	Avenue 	Elm 	0 	3.0
+Emerald Hill Road 	Hill Road 	Emerald 	0 	7.0
+Empress Place 	Place 	Empress 	0 	7.0
+Empress Road 	Road 	Empress 	0 	7.0
+Eng Hoon Street 	Street 	Eng Hoon 	0 	3.5
+Eng Kong Crescent 	Crescent 	Eng Kong 	0 	3.5
+Eng Kong Drive 	Drive 	Eng Kong 	0 	3.5
+Eng Kong Garden 	Garden 	Eng Kong 	0 	3.5
+Eng Kong Lane 	Lane 	Eng Kong 	0 	3.5
+Eng Kong Place 	Place 	Eng Kong 	0 	3.5
+Eng Kong Road 	Road 	Eng Kong 	0 	3.5
+Eng Kong Terrace 	Terrace 	Eng Kong 	0 	3.5
+Eng Neo Avenue 	Avenue 	Eng Neo 	0 	3.0
+Eng Watt Street 	Street 	Eng Watt 	0 	3.5
+Enggor Street 	Street 	Enggor 	0 	6.0
+Engineering Drive 1 	Drive 	Engineering 	0 	11.0
+Engineering Drive 2 	Drive 	Engineering 	0 	11.0
+Engineering Drive 3 	Drive 	Engineering 	0 	11.0
+Engku Aman Road 	Road 	Engku Aman 	0 	4.5
+Enterprise Road 	Road 	Enterprise 	0 	10.0
+Ernani Street 	Street 	Ernani 	0 	6.0
+Erskine Road 	Road 	Erskine 	0 	7.0
+Essex Road 	Road 	Essex 	0 	5.0
+Estate Office Drive 	Drive 	Estate Office 	0 	6.0
+Ettrick Terrace 	Terrace 	Ettrick 	0 	7.0
+Eu Chin Street 	Street 	Eu Chin 	0 	3.0
+Eu Tong Sen Street 	Street 	Eu Tong Sen 	0 	3.0
+Eunos Avenue 1 	Avenue 	Eunos 	0 	5.0
+Eunos Avenue 2 	Avenue 	Eunos 	0 	5.0
+Eunos Avenue 3 	Avenue 	Eunos 	0 	5.0
+Eunos Avenue 4 	Avenue 	Eunos 	0 	5.0
+Eunos Avenue 5 	Avenue 	Eunos 	0 	5.0
+Eunos Avenue 5A 	Avenue 	Eunos 	0 	5.0
+Eunos Avenue 5B 	Avenue 	Eunos 	0 	5.0
+Eunos Avenue 6 	Avenue 	Eunos 	0 	5.0
+Eunos Avenue 7 	Avenue 	Eunos 	0 	5.0
+Eunos Avenue 7A 	Avenue 	Eunos 	0 	5.0
+Eunos Avenue 8 	Avenue 	Eunos 	0 	5.0
+Eunos Avenue 8A 	Avenue 	Eunos 	0 	5.0
+Eunos Crescent 	Crescent 	Eunos 	0 	5.0
+Eunos Link 	Link 	Eunos 	0 	5.0
+Eunos Road 1 	Road 	Eunos 	0 	5.0
+Eunos Road 2 	Road 	Eunos 	0 	5.0
+Eunos Road 3 	Road 	Eunos 	0 	5.0
+Eunos Road 4 	Road 	Eunos 	0 	5.0
+Eunos Road 5 	Road 	Eunos 	0 	5.0
+Eunos Road 6 	Road 	Eunos 	0 	5.0
+Eunos Road 7 	Road 	Eunos 	0 	5.0
+Eunos Road 8 	Road 	Eunos 	0 	5.0
+Eunos Terrace 	Terrace 	Eunos 	0 	5.0
+Evans Road 	Road 	Evans 	0 	5.0
+Evelyn Road 	Road 	Evelyn 	0 	6.0
+Evergreen Avenue 	Avenue 	Evergreen 	0 	9.0
+Evergreen Gardens 	Gardens 	Evergreen 	0 	9.0
+Everitt Road 	Road 	Everitt 	0 	7.0
+Everitt Road North 	Road 	Everitt 	0 	7.0
+Everton Park 	Park 	Everton 	0 	7.0
+Everton Road 	Road 	Everton 	0 	7.0
+Ewart Circus 	Circus 	Ewart 	0 	5.0
+Ewart Park 	Park 	Ewart 	0 	5.0
+Ewe Boon Road 	Road 	Ewe Boon 	0 	3.5
+Exeter Road 	Road 	Exeter 	0 	6.0
+Expo Drive 	Drive 	Expo 	0 	4.0
+Faber Avenue 	Avenue 	Faber 	0 	5.0
+Faber Crescent 	Crescent 	Faber 	0 	5.0
+Faber Drive 	Drive 	Faber 	0 	5.0
+Faber Green 	Green 	Faber 	0 	5.0
+Faber Grove 	Grove 	Faber 	0 	5.0
+Faber Heights 	Heights 	Faber 	0 	5.0
+Faber Park 	Park 	Faber 	0 	5.0
+Faber Terrace 	Terrace 	Faber 	0 	5.0
+Faber Walk 	Walk 	Faber 	0 	5.0
+Faculty Avenue 	Avenue 	Faculty 	0 	7.0
+Fair Drive 	Drive 	Fair 	0 	4.0
+Fairways Drive 	Drive 	Fairways 	0 	8.0
+Fairy Point Hill 	Hill 	Fairy Point 	0 	5.0
+Fajar Road 	Road 	Fajar 	0 	5.0
+Falkland Road 	Road 	Falkland 	0 	8.0
+Fan Yoong Road 	Road 	Fan Yoong 	0 	4.0
+Farleigh Avenue 	Avenue 	Farleigh 	0 	8.0
+Farnborough Road 	Road 	Farnborough 	0 	11.0
+Farrer Court 	Court 	Farrer 	0 	6.0
+Farrer Drive 	Drive 	Farrer 	0 	6.0
+Farrer Garden 	Garden 	Farrer 	0 	6.0
+Farrer Road 	Road 	Farrer 	0 	6.0
+Fernhill Close 	Close 	Fernhill 	0 	8.0
+Fernhill Crescent 	Crescent 	Fernhill 	0 	8.0
+Fernhill Road 	Road 	Fernhill 	0 	8.0
+Fernwood Terrace 	Terrace 	Fernwood 	0 	8.0
+Fidelio Street 	Street 	Fidelio 	0 	7.0
+Fifth Avenue 	Avenue 	Fifth 	0 	5.0
+Fifth Lok Yang Road 	Road 	Fifth Lok Yang 	0 	4.0
+Figaro Street 	Street 	Figaro 	0 	6.0
+Fiji Road 	Road 	Fiji 	0 	4.0
+Finlayson Green 	Green 	Finlayson 	0 	9.0
+Fir Avenue 	Avenue 	Fir 	0 	3.0
+First Avenue 	Avenue 	First 	0 	5.0
+First Hospital Avenue 	Avenue 	First Hospital 	0 	6.5
+First Lok Yang Road 	Road 	First Lok Yang 	0 	4.0
+First Street 	Street 	First 	0 	5.0
+Fish Farm Road 1 	Road 	Fish Farm 	0 	4.0
+Fish Farm Road 2 	Road 	Fish Farm 	0 	4.0
+Fish Farm Road 3 	Road 	Fish Farm 	0 	4.0
+Fisher Street 	Street 	Fisher 	0 	6.0
+Fishery Port Road 	Road 	Fishery Port 	0 	5.5
+Five Foot Way 	Way 	Five Foot 	0 	4.0
+Flanders Square 	Square 	Flanders 	0 	8.0
+Flint Street 	Street 	Flint 	0 	5.0
+Flora Road 	Road 	Flora 	0 	5.0
+Florence Close 	Close 	Florence 	0 	8.0
+Florence Road 	Road 	Florence 	0 	8.0
+Florida Road 	Road 	Florida 	0 	7.0
+Florissa Park 	Park 	Florissa 	0 	8.0
+Flower Road 	Road 	Flower 	0 	6.0
+Foch Road 	Road 	Foch 	0 	4.0
+Folkestone Road 	Road 	Folkestone 	0 	10.0
+Foo Kim Lin Road 	Road 	Foo Kim Lin 	0 	3.0
+Ford Avenue 	Avenue 	Ford 	0 	4.0
+Forfar Square 	Square 	Forfar 	0 	6.0
+Fort Canning Road 	Road 	Fort Canning 	0 	5.5
+Fort Road 	Road 	Fort 	0 	4.0
+Fourth Avenue 	Avenue 	Fourth 	0 	6.0
+Fourth Chin Bee Road 	Road 	Fourth Chin Bee 	0 	4.33333333333
+Fourth Lok Yang Road 	Road 	Fourth Lok Yang 	0 	4.33333333333
+Fourth Street 	Street 	Fourth 	0 	6.0
+Fowlie Road 	Road 	Fowlie 	0 	6.0
+Francis Thomas Drive 	Drive 	Francis Thomas 	0 	6.5
+Frankel Avenue 	Avenue 	Frankel 	0 	7.0
+Frankel Close 	Close 	Frankel 	0 	7.0
+Frankel Drive 	Drive 	Frankel 	0 	7.0
+Frankel Place 	Place 	Frankel 	0 	7.0
+Frankel Street 	Street 	Frankel 	0 	7.0
+Frankel Terrace 	Terrace 	Frankel 	0 	7.0
+Frankel Walk 	Walk 	Frankel 	0 	7.0
+French Road 	Road 	French 	0 	6.0
+Fudu Park 	Park 	Fudu 	0 	4.0
+Fudu Walk 	Walk 	Fudu 	0 	4.0
+Fullerton Road 	Road 	Fullerton 	0 	9.0
+Fullerton Square 	Square 	Fullerton 	0 	9.0
+Fulton Avenue 	Avenue 	Fulton 	0 	6.0
+Fulton Road 	Road 	Fulton 	0 	6.0
+Galistan Avenue 	Avenue 	Galistan 	0 	8.0
+Gallop Park Road 	Park Road 	Gallop 	0 	6.0
+Gallop Road 	Road 	Gallop 	0 	6.0
+Gallop Walk 	Walk 	Gallop 	0 	6.0
+Gambas Avenue 	Avenue 	Gambas 	0 	6.0
+Gambir Walk 	Walk 	Gambir 	0 	6.0
+Ganges Avenue 	Avenue 	Ganges 	0 	6.0
+Gangsa Road 	Road 	Gangsa 	0 	6.0
+Garage Road 	Road 	Garage 	0 	6.0
+Garden Avenue 	Avenue 	Garden 	0 	6.0
+Garden Road 	Road 	Garden 	0 	6.0
+Gardenia Road 	Road 	Gardenia 	0 	8.0
+Garlick Avenue 	Avenue 	Garlick 	0 	7.0
+Gateway Avenue 	Avenue 	Gateway 	0 	7.0
+Gek Poh Road 	Road 	Gek Poh 	0 	3.0
+Gemmill Lane 	Lane 	Gemmill 	0 	7.0
+Genting Lane 	Lane 	Genting 	0 	7.0
+Genting Link 	Link 	Genting 	0 	7.0
+Genting Road 	Road 	Genting 	0 	7.0
+Gentle Drive 	Drive 	Gentle 	0 	6.0
+Gentle Road 	Road 	Gentle 	0 	6.0
+George Street 	Street 	George 	0 	6.0
+Gerald Crescent 	Crescent 	Gerald 	0 	6.0
+Gerald Drive 	Drive 	Gerald 	0 	6.0
+Gerald Park 	Park 	Gerald 	0 	6.0
+Geylang Bahru 	 	Geylang Bahru 	0 	6.0
+Geylang Bahru Lane 	Lane 	Geylang Bahru 	0 	6.0
+Geylang East Avenue 1 	Avenue 	Geylang 	0 	7.0
+Geylang East Avenue 2 	Avenue 	Geylang 	0 	7.0
+Geylang East Avenue 3 	Avenue 	Geylang 	0 	7.0
+Geylang East Central 	 	Geylang 	0 	7.0
+Geylang Road 	Road 	Geylang 	0 	7.0
+Geylang Serai 	 	Geylang Serai 	0 	6.0
+Geylang Square 	Square 	Geylang 	0 	7.0
+Ghim Moh Road 	Road 	Ghim Moh 	0 	3.5
+Gibraltar Crescent 	Crescent 	Gibraltar 	0 	9.0
+Gillman Heights 	Heights 	Gillman 	0 	7.0
+Gilstead Road 	Road 	Gilstead 	0 	8.0
+Gladiola Drive 	Drive 	Gladiola 	0 	8.0
+Glasgow Road 	Road 	Glasgow 	0 	7.0
+Gloucester Road 	Road 	Gloucester 	0 	10.0
+Goldhill Avenue 	Avenue 	Goldhill 	0 	8.0
+Goldhill Drive 	Drive 	Goldhill 	0 	8.0
+Goldhill Place 	Place 	Goldhill 	0 	8.0
+Goldhill Plaza 	Plaza 	Goldhill 	0 	8.0
+Goldhill Rise 	Rise 	Goldhill 	0 	8.0
+Goldhill View 	View 	Goldhill 	0 	8.0
+Gombak Drive 	Drive 	Gombak 	0 	6.0
+Gombak Rise 	Rise 	Gombak 	0 	6.0
+Goodlink Park 	Park 	Goodlink 	0 	8.0
+Goodman Road 	Road 	Goodman 	0 	7.0
+Goodwood Hill 	Hill 	Goodwood 	0 	8.0
+Goodwood Road 	Road 	Goodwood 	0 	8.0
+Gopeng Street 	Street 	Gopeng 	0 	6.0
+Gordon Road 	Road 	Gordon 	0 	6.0
+Gosport Road 	Road 	Gosport 	0 	7.0
+Grace Park 	Park 	Grace 	0 	5.0
+Grace Walk 	Walk 	Grace 	0 	5.0
+Graham White Drive 	Drive 	Graham White 	0 	5.5
+Grange Garden 	Garden 	Grange 	0 	6.0
+Grange Road 	Road 	Grange 	0 	6.0
+Gray Lane 	Lane 	Gray 	0 	4.0
+Green Lane 	Lane 	Green 	0 	5.0
+Greenbank Park 	Park 	Greenbank 	0 	9.0
+Greendale Avenue 	Avenue 	Greendale 	0 	9.0
+Greendale Rise 	Rise 	Greendale 	0 	9.0
+Greenfield Drive 	Drive 	Greenfield 	0 	10.0
+Greenleaf Avenue 	Avenue 	Greenleaf 	0 	9.0
+Greenleaf Drive 	Drive 	Greenleaf 	0 	9.0
+Greenleaf Grove 	Grove 	Greenleaf 	0 	9.0
+Greenleaf Lane 	Lane 	Greenleaf 	0 	9.0
+Greenleaf Place 	Place 	Greenleaf 	0 	9.0
+Greenleaf Rise 	Rise 	Greenleaf 	0 	9.0
+Greenleaf Road 	Road 	Greenleaf 	0 	9.0
+Greenleaf View 	View 	Greenleaf 	0 	9.0
+Greenleaf Walk 	Walk 	Greenleaf 	0 	9.0
+Greenmead Avenue 	Avenue 	Greenmead 	0 	9.0
+Greenpark Avenue 	Avenue 	Greenpark 	0 	9.0
+Greenridge Crescent 	Crescent 	Greenridge 	0 	10.0
+Greenview Crescent 	Crescent 	Greenview 	0 	9.0
+Greenwood Avenue 	Avenue 	Greenwood 	0 	9.0
+Greenwood Crescent 	Crescent 	Greenwood 	0 	9.0
+Greenwood Grove 	Grove 	Greenwood 	0 	9.0
+Greenwood Lane 	Lane 	Greenwood 	0 	9.0
+Greenwood Link 	Link 	Greenwood 	0 	9.0
+Greenwood Place 	Place 	Greenwood 	0 	9.0
+Greenwood Walk 	Walk 	Greenwood 	0 	9.0
+Grove Avenue 	Avenue 	Grove 	0 	5.0
+Grove Crescent 	Crescent 	Grove 	0 	5.0
+Grove Drive 	Drive 	Grove 	0 	5.0
+Grove Lane 	Lane 	Grove 	0 	5.0
+Guan Chuan Street 	Street 	Guan Chuan 	0 	4.5
+Guan Soon Avenue 	Avenue 	Guan Soon 	0 	4.0
+Guillemard Crescent 	Crescent 	Guillemard 	0 	10.0
+Guillemard Lane 	Lane 	Guillemard 	0 	10.0
+Guillemard Road 	Road 	Guillemard 	0 	10.0
+Gul Avenue 	Avenue 	Gul 	0 	3.0
+Gul Circle 	Circle 	Gul 	0 	3.0
+Gul Crescent 	Crescent 	Gul 	0 	3.0
+Gul Drive 	Drive 	Gul 	0 	3.0
+Gul Lane 	Lane 	Gul 	0 	3.0
+Gul Link 	Link 	Gul 	0 	3.0
+Gul Road 	Road 	Gul 	0 	3.0
+Gul Street 1 	Street 	Gul 	0 	3.0
+Gul Street 2 	Street 	Gul 	0 	3.0
+Gul Street 3 	Street 	Gul 	0 	3.0
+Gul Street 4 	Street 	Gul 	0 	3.0
+Gul Street 5 	Street 	Gul 	0 	3.0
+Gul Way 	Way 	Gul 	0 	3.0
+Gulega Road 	Road 	Gulega 	0 	6.0
+Gunner Lane 	Lane 	Gunner 	0 	6.0
+Guok Avenue 	Avenue 	Guok 	0 	4.0
+Gymkhana Avenue 	Avenue 	Gymkhana 	0 	8.0
+Hacienda Grove 	Grove 	Hacienda 	0 	8.0
+Hai Sing Crescent 	Crescent 	Hai Sing 	0 	3.5
+Hai Sing Road 	Road 	Hai Sing 	0 	3.5
+Haig Avenue 	Avenue 	Haig 	0 	4.0
+Haig Lane 	Lane 	Haig 	0 	4.0
+Haig Road 	Road 	Haig 	0 	4.0
+Haigsville Drive 	Drive 	Haigsville 	0 	10.0
+Haji Lane 	Lane 	Haji 	0 	4.0
+Halifax Road 	Road 	Halifax 	0 	7.0
+Halton Road 	Road 	Halton 	0 	6.0
+Hamilton Place 	Place 	Hamilton 	0 	8.0
+Hamilton Road 	Road 	Hamilton 	0 	8.0
+Hampshire Road 	Road 	Hampshire 	0 	9.0
+Hampstead Gardens 	Gardens 	Hampstead 	0 	9.0
+Handy Road 	Road 	Handy 	0 	5.0
+Happy Avenue Central 	Avenue 	Happy 	0 	5.0
+Happy Avenue East 	Avenue 	Happy 	0 	5.0
+Happy Avenue North 	Avenue 	Happy 	0 	5.0
+Happy Avenue West 	Avenue 	Happy 	0 	5.0
+Harbour Drive 	Drive 	Harbour 	0 	7.0
+Harding Road 	Road 	Harding 	0 	7.0
+Harlyn Road 	Road 	Harlyn 	0 	6.0
+Harper Road 	Road 	Harper 	0 	6.0
+Harrison Road 	Road 	Harrison 	0 	8.0
+Hartley Grove 	Grove 	Hartley 	0 	7.0
+Harvey Avenue 	Avenue 	Harvey 	0 	6.0
+Harvey Close 	Close 	Harvey 	0 	6.0
+Harvey Crescent 	Crescent 	Harvey 	0 	6.0
+Harvey Road 	Road 	Harvey 	0 	6.0
+Hastings Road 	Road 	Hastings 	0 	8.0
+Havelock Link 	Link 	Havelock 	0 	8.0
+Havelock Road 	Road 	Havelock 	0 	8.0
+Havelock Square 	Square 	Havelock 	0 	8.0
+Hawkinge Road 	Road 	Hawkinge 	0 	8.0
+Hay Market 	 	Hay Market 	0 	4.5
+Hazel Park Terrace 	Park Terrace 	Hazel 	0 	5.0
+Hemmant Road 	Road 	Hemmant 	0 	7.0
+Hemsley Avenue 	Avenue 	Hemsley 	0 	7.0
+Henderson Crescent 	Crescent 	Henderson 	0 	9.0
+Henderson Road 	Road 	Henderson 	0 	9.0
+Hendon Road 	Road 	Hendon 	0 	6.0
+Hendry Close 	Close 	Hendry 	0 	6.0
+Heng Mui Keng Terrace 	Terrace 	Heng Mui Keng 	0 	3.66666666667
+Hertford Road 	Road 	Hertford 	0 	8.0
+High Street 	Street 	High 	0 	4.0
+Highgate Crescent 	Crescent 	Highgate 	0 	8.0
+Highgate Walk 	Walk 	Highgate 	0 	8.0
+Highland Close 	Close 	Highland 	0 	8.0
+Highland Road 	Road 	Highland 	0 	8.0
+Highland Terrace 	Terrace 	Highland 	0 	8.0
+Highland Walk 	Walk 	Highland 	0 	8.0
+Hill Street 	Street 	Hill 	0 	4.0
+Hillcrest Road 	Road 	Hillcrest 	0 	9.0
+Hillside Drive 	Drive 	Hillside 	0 	8.0
+Hillside Terrace 	Terrace 	Hillside 	0 	8.0
+Hillview Avenue 	Avenue 	Hillview 	0 	8.0
+Hillview Crescent 	Crescent 	Hillview 	0 	8.0
+Hillview Drive 	Drive 	Hillview 	0 	8.0
+Hillview Link 	Link 	Hillview 	0 	8.0
+Hillview Road 	Road 	Hillview 	0 	8.0
+Hillview Terrace 	Terrace 	Hillview 	0 	8.0
+Hillview Way 	Way 	Hillview 	0 	8.0
+Hindhede Drive 	Drive 	Hindhede 	0 	8.0
+Hindhede Lane 	Lane 	Hindhede 	0 	8.0
+Hindhede Road 	Road 	Hindhede 	0 	8.0
+Hindhede Walk 	Walk 	Hindhede 	0 	8.0
+Hindoo Road 	Road 	Hindoo 	0 	6.0
+Ho Ching Road 	Road 	Ho Ching 	0 	3.5
+Hobart Road 	Road 	Hobart 	0 	6.0
+Hoe Chiang Road 	Road 	Hoe Chiang 	0 	4.5
+Hokien Street 	Street 	Hokien 	0 	6.0
+Holland Avenue 	Avenue 	Holland 	0 	7.0
+Holland Close 	Close 	Holland 	0 	7.0
+Holland Drive 	Drive 	Holland 	0 	7.0
+Holland Green 	Green 	Holland 	0 	7.0
+Holland Grove Avenue 	Grove Avenue 	Holland 	0 	7.0
+Holland Grove Drive 	Grove Drive 	Holland 	0 	7.0
+Holland Grove Lane 	Grove Lane 	Holland 	0 	7.0
+Holland Grove Road 	Grove Road 	Holland 	0 	7.0
+Holland Grove Terrace 	Grove Terrace 	Holland 	0 	7.0
+Holland Grove View 	Grove View 	Holland 	0 	7.0
+Holland Grove Walk 	Grove Walk 	Holland 	0 	7.0
+Holland Heights 	Heights 	Holland 	0 	7.0
+Holland Hill 	Hill 	Holland 	0 	7.0
+Holland Lane 	Lane 	Holland 	0 	7.0
+Holland Park 	Park 	Holland 	0 	7.0
+Holland Rise 	Rise 	Holland 	0 	7.0
+Holland Road 	Road 	Holland 	0 	7.0
+Holland Road North 	Road 	Holland 	0 	7.0
+Holland Road South 	Road 	Holland 	0 	7.0
+Holland Road West 	Road 	Holland 	0 	7.0
+Hollland Village 	Village 	Hollland 	0 	8.0
+Holt Road 	Road 	Holt 	0 	4.0
+Hon Sui Sen Drive 	Drive 	Hon Sui Sen 	0 	3.0
+Hong Kah Circle 	Circle 	Hong Kah 	0 	3.5
+Hong Kah Road 	Road 	Hong Kah 	0 	3.5
+Hong Lee Place 	Place 	Hong Lee 	0 	3.5
+Hong San Terrace 	Terrace 	Hong San 	0 	3.5
+Hong San Walk 	Walk 	Hong San 	0 	3.5
+Hongkong Street 	Street 	Hongkong 	0 	8.0
+Hooper Road 	Road 	Hooper 	0 	6.0
+Hoot Kiam Road 	Road 	Hoot Kiam 	0 	4.0
+Hornchurch Road 	Road 	Hornchurch 	0 	10.0
+Horne Road 	Road 	Horne 	0 	5.0
+Horsham Road 	Road 	Horsham 	0 	7.0
+Hospital Drive 	Drive 	Hospital 	0 	8.0
+Hougang Avenue 1 	Avenue 	Hougang 	0 	7.0
+Hougang Avenue 10 	Avenue 	Hougang 	0 	7.0
+Hougang Avenue 14 	Avenue 	Hougang 	0 	7.0
+Hougang Avenue 2 	Avenue 	Hougang 	0 	7.0
+Hougang Avenue 3 	Avenue 	Hougang 	0 	7.0
+Hougang Avenue 4 	Avenue 	Hougang 	0 	7.0
+Hougang Avenue 5 	Avenue 	Hougang 	0 	7.0
+Hougang Avenue 6 	Avenue 	Hougang 	0 	7.0
+Hougang Avenue 7 	Avenue 	Hougang 	0 	7.0
+Hougang Avenue 8 	Avenue 	Hougang 	0 	7.0
+Hougang Avenue 9 	Avenue 	Hougang 	0 	7.0
+Hougang Central 	 	Hougang 	0 	7.0
+Hougang Street 11 	Street 	Hougang 	0 	7.0
+Hougang Street 21 	Street 	Hougang 	0 	7.0
+Hougang Street 22 	Street 	Hougang 	0 	7.0
+Hougang Street 31 	Street 	Hougang 	0 	7.0
+Hougang Street 51 	Street 	Hougang 	0 	7.0
+Hougang Street 52 	Street 	Hougang 	0 	7.0
+Hougang Street 61 	Street 	Hougang 	0 	7.0
+Hougang Street 91 	Street 	Hougang 	0 	7.0
+Hougang Street 92 	Street 	Hougang 	0 	7.0
+Hougang Street 93 	Street 	Hougang 	0 	7.0
+How Sun Avenue 	Avenue 	How Sun 	0 	3.0
+How Sun Close 	Close 	How Sun 	0 	3.0
+How Sun Drive 	Drive 	How Sun 	0 	3.0
+How Sun Road 	Road 	How Sun 	0 	3.0
+How Sun Walk 	Walk 	How Sun 	0 	3.0
+Howard Road 	Road 	Howard 	0 	6.0
+Hoy Fatt Road 	Road 	Hoy Fatt 	0 	3.5
+Hu Ching Road 	Road 	Hu Ching 	0 	3.5
+Hua Guan Avenue 	Avenue 	Hua Guan 	0 	3.5
+Hua Guan Crescent 	Crescent 	Hua Guan 	0 	3.5
+Huddington Avenue 	Avenue 	Huddington 	0 	10.0
+Hullet Road 	Road 	Hullet 	0 	6.0
+Hume Avenue 	Avenue 	Hume 	0 	4.0
+Hun Yeang Road 	Road 	Hun Yeang 	0 	4.0
+Hyde Park Gate 	Park Gate 	Hyde 	0 	4.0
+Hyderabad Road 	Road 	Hyderabad 	0 	9.0
+Hylam Street 	Street 	Hylam 	0 	5.0
+Hythe Road 	Road 	Hythe 	0 	5.0
+Imbiah Hill Road 	Hill Road 	Imbiah 	0 	6.0
+Imbiah Walk 	Walk 	Imbiah 	0 	6.0
+Indus Road 	Road 	Indus 	0 	5.0
+Inner Temple 	 	Inner Temple 	0 	5.5
+Institution Hill 	Hill 	Institution 	0 	11.0
+International Business Park 	Park 	International Business 	0 	10.5
+International Road 	Road 	International 	0 	13.0
+Ipoh Lane 	Lane 	Ipoh 	0 	4.0
+Iqbal Avenue 	Avenue 	Iqbal 	0 	5.0
+Ironside Link 	Link 	Ironside 	0 	8.0
+Ironside Road 	Road 	Ironside 	0 	8.0
+Irrawaddy Road 	Road 	Irrawaddy 	0 	9.0
+Irving Place 	Place 	Irving 	0 	6.0
+Irving Road 	Road 	Irving 	0 	6.0
+Irwell Bank Road 	Bank Road 	Irwell 	0 	6.0
+Island Club Road 	Road 	Island Club 	0 	5.0
+Island Gardens Walk 	Gardens Walk 	Island 	0 	6.0
+Istana Park 	Park 	Istana 	0 	6.0
+Jacaranda Road 	Road 	Jacaranda 	0 	9.0
+Jago Close 	Close 	Jago 	0 	4.0
+Jalan Adat 	Jalan 	Adat 	1 	4.0
+Jalan Afifi 	Jalan 	Afifi 	1 	5.0
+Jalan Ahmad Ibrahim 	Jalan 	Ahmad Ibrahim 	1 	6.0
+Jalan Ampang 	Jalan 	Ampang 	1 	6.0
+Jalan Ampas 	Jalan 	Ampas 	1 	5.0
+Jalan Anak Bukit 	Jalan 	Anak Bukit 	1 	4.5
+Jalan Anak Patong 	Jalan 	Anak Patong 	1 	5.0
+Jalan Anggerek 	Jalan 	Anggerek 	1 	8.0
+Jalan Angin Laut 	Jalan 	Angin Laut 	1 	4.5
+Jalan Angklong 	Jalan 	Angklong 	1 	8.0
+Jalan Antoi 	Jalan 	Antoi 	1 	5.0
+Jalan Arif 	Jalan 	Arif 	1 	4.0
+Jalan Arnap 	Jalan 	Arnap 	1 	5.0
+Jalan Aruan 	Jalan 	Aruan 	1 	5.0
+Jalan Asas 	Jalan 	Asas 	1 	4.0
+Jalan Asuhan 	Jalan 	Asuhan 	1 	6.0
+Jalan Awan 	Jalan 	Awan 	1 	4.0
+Jalan Awang 	Jalan 	Awang 	1 	5.0
+Jalan Ayer 	Jalan 	Ayer 	1 	4.0
+Jalan Azam 	Jalan 	Azam 	1 	4.0
+Jalan Bahagia 	Jalan 	Bahagia 	1 	7.0
+Jalan Bahar 	Jalan 	Bahar 	1 	5.0
+Jalan Bahasa 	Jalan 	Bahasa 	1 	6.0
+Jalan Bahtera 	Jalan 	Bahtera 	1 	7.0
+Jalan Baiduri 	Jalan 	Baiduri 	1 	7.0
+Jalan Bangau 	Jalan 	Bangau 	1 	6.0
+Jalan Bangket 	Jalan 	Bangket 	1 	7.0
+Jalan Bangsawan 	Jalan 	Bangsawan 	1 	9.0
+Jalan Basong 	Jalan 	Basong 	1 	6.0
+Jalan Batai 	Jalan 	Batai 	1 	5.0
+Jalan Batalong 	Jalan 	Batalong 	1 	8.0
+Jalan Batalong East 	Jalan 	Batalong 	1 	8.0
+Jalan Batu 	Jalan 	Batu 	1 	4.0
+Jalan Batu Nilam 	Jalan 	Batu Nilam 	1 	4.5
+Jalan Belangkas 	Jalan 	Belangkas 	1 	9.0
+Jalan Belibas 	Jalan 	Belibas 	1 	7.0
+Jalan Bena 	Jalan 	Bena 	1 	4.0
+Jalan Benaan Kapal 	Jalan 	Benaan Kapal 	1 	5.5
+Jalan Beringin 	Jalan 	Beringin 	1 	8.0
+Jalan Berjaya 	Jalan 	Berjaya 	1 	7.0
+Jalan Berseh 	Jalan 	Berseh 	1 	6.0
+Jalan Berseri 	Jalan 	Berseri 	1 	7.0
+Jalan Besar 	Jalan 	Besar 	1 	5.0
+Jalan Besut 	Jalan 	Besut 	1 	5.0
+Jalan Bilal 	Jalan 	Bilal 	1 	5.0
+Jalan Binchang 	Jalan 	Binchang 	1 	8.0
+Jalan Bingka 	Jalan 	Bingka 	1 	6.0
+Jalan Binja 	Jalan 	Binja 	1 	5.0
+Jalan Bintang Tiga 	Jalan 	Bintang Tiga 	1 	5.5
+Jalan Boon Lay 	Jalan 	Boon Lay 	1 	3.5
+Jalan Bukit Ho Swee 	Jalan 	Bukit Ho Swee 	1 	3.66666666667
+Jalan Bukit Merah 	Jalan 	Bukit Merah 	1 	5.0
+Jalan Buloh Perindu 	Jalan 	Buloh Perindu 	1 	6.0
+Jalan Bumbong 	Jalan 	Bumbong 	1 	7.0
+Jalan Bunga Rampai 	Jalan 	Bunga Rampai 	1 	5.5
+Jalan Bunga Raya 	Jalan 	Bunga Raya 	1 	4.5
+Jalan Bungar 	Jalan 	Bungar 	1 	6.0
+Jalan Buroh 	Jalan 	Buroh 	1 	5.0
+Jalan Chegar 	Jalan 	Chegar 	1 	6.0
+Jalan Chelagi 	Jalan 	Chelagi 	1 	7.0
+Jalan Chempah 	Jalan 	Chempah 	1 	7.0
+Jalan Chempaka Kuning 	Jalan 	Chempaka Kuning 	1 	7.0
+Jalan Chempaka Puteh 	Jalan 	Chempaka Puteh 	1 	6.5
+Jalan Chempedak 	Jalan 	Chempedak 	1 	9.0
+Jalan Chengam 	Jalan 	Chengam 	1 	7.0
+Jalan Chengkek 	Jalan 	Chengkek 	1 	8.0
+Jalan Cherah 	Jalan 	Cherah 	1 	6.0
+Jalan Chermai 	Jalan 	Chermai 	1 	7.0
+Jalan Chermat 	Jalan 	Chermat 	1 	7.0
+Jalan Cherpen 	Jalan 	Cherpen 	1 	7.0
+Jalan Chichau 	Jalan 	Chichau 	1 	7.0
+Jalan Chorak 	Jalan 	Chorak 	1 	6.0
+Jalan Chulek 	Jalan 	Chulek 	1 	6.0
+Jalan Daliah 	Jalan 	Daliah 	1 	6.0
+Jalan Damai 	Jalan 	Damai 	1 	5.0
+Jalan Datoh 	Jalan 	Datoh 	1 	5.0
+Jalan Daud 	Jalan 	Daud 	1 	4.0
+Jalan Demak 	Jalan 	Demak 	1 	5.0
+Jalan Dermawan 	Jalan 	Dermawan 	1 	8.0
+Jalan Derum 	Jalan 	Derum 	1 	5.0
+Jalan Dinding 	Jalan 	Dinding 	1 	7.0
+Jalan Dondang Sayang 	Jalan 	Dondang Sayang 	1 	6.5
+Jalan Dua 	Jalan 	Dua 	1 	3.0
+Jalan Dusan 	Jalan 	Dusan 	1 	5.0
+Jalan Elok 	Jalan 	Elok 	1 	4.0
+Jalan Emas Urai 	Jalan 	Emas Urai 	1 	4.0
+Jalan Empat 	Jalan 	Empat 	1 	5.0
+Jalan Enam 	Jalan 	Enam 	1 	4.0
+Jalan Eunos 	Jalan 	Eunos 	1 	5.0
+Jalan Gaharu 	Jalan 	Gaharu 	1 	6.0
+Jalan Gajus 	Jalan 	Gajus 	1 	5.0
+Jalan Gali Batu 	Jalan 	Gali Batu 	1 	4.0
+Jalan Gapis 	Jalan 	Gapis 	1 	5.0
+Jalan Gelam 	Jalan 	Gelam 	1 	5.0
+Jalan Gelegar 	Jalan 	Gelegar 	1 	7.0
+Jalan Gelenggang 	Jalan 	Gelenggang 	1 	10.0
+Jalan Gemala 	Jalan 	Gemala 	1 	6.0
+Jalan Gembira 	Jalan 	Gembira 	1 	7.0
+Jalan Gendang 	Jalan 	Gendang 	1 	7.0
+Jalan Geneng 	Jalan 	Geneng 	1 	6.0
+Jalan Girang 	Jalan 	Girang 	1 	6.0
+Jalan Gotong Royong 	Jalan 	Gotong Royong 	1 	6.0
+Jalan Greja 	Jalan 	Greja 	1 	5.0
+Jalan Grisek 	Jalan 	Grisek 	1 	6.0
+Jalan Gumilang 	Jalan 	Gumilang 	1 	8.0
+Jalan Haji Alias 	Jalan 	Haji Alias 	1 	4.5
+Jalan Haji Salam 	Jalan 	Haji Salam 	1 	4.5
+Jalan Hajijah 	Jalan 	Hajijah 	1 	7.0
+Jalan Hang Jebat 	Jalan 	Hang Jebat 	1 	4.5
+Jalan Hari Raya 	Jalan 	Hari Raya 	1 	4.0
+Jalan Harom Setangkai 	Jalan 	Harom Setangkai 	1 	7.0
+Jalan Harum 	Jalan 	Harum 	1 	5.0
+Jalan Hiboran 	Jalan 	Hiboran 	1 	7.0
+Jalan Hikayat 	Jalan 	Hikayat 	1 	7.0
+Jalan Hitam Manis 	Jalan 	Hitam Manis 	1 	5.0
+Jalan Hock Chye 	Jalan 	Hock Chye 	1 	4.0
+Jalan Hussein 	Jalan 	Hussein 	1 	7.0
+Jalan Hwi Yoh 	Jalan 	Hwi Yoh 	1 	3.0
+Jalan Ibadat 	Jalan 	Ibadat 	1 	6.0
+Jalan Ikan Merah 	Jalan 	Ikan Merah 	1 	4.5
+Jalan Ilmu 	Jalan 	Ilmu 	1 	4.0
+Jalan Inggu 	Jalan 	Inggu 	1 	5.0
+Jalan Insaf 	Jalan 	Insaf 	1 	5.0
+Jalan Intan 	Jalan 	Intan 	1 	5.0
+Jalan Ishak 	Jalan 	Ishak 	1 	5.0
+Jalan Ismail 	Jalan 	Ismail 	1 	6.0
+Jalan Isnin 	Jalan 	Isnin 	1 	5.0
+Jalan Istimewa 	Jalan 	Istimewa 	1 	8.0
+Jalan Jamal 	Jalan 	Jamal 	1 	5.0
+Jalan Jambu Ayer 	Jalan 	Jambu Ayer 	1 	4.5
+Jalan Jambu Batu 	Jalan 	Jambu Batu 	1 	4.5
+Jalan Jambu Mawar 	Jalan 	Jambu Mawar 	1 	5.0
+Jalan Janggus 	Jalan 	Janggus 	1 	7.0
+Jalan Jarak 	Jalan 	Jarak 	1 	5.0
+Jalan Jati 	Jalan 	Jati 	1 	4.0
+Jalan Jelita 	Jalan 	Jelita 	1 	6.0
+Jalan Jendela 	Jalan 	Jendela 	1 	7.0
+Jalan Jentera 	Jalan 	Jentera 	1 	7.0
+Jalan Jermin 	Jalan 	Jermin 	1 	6.0
+Jalan Jeruju 	Jalan 	Jeruju 	1 	6.0
+Jalan Jintan 	Jalan 	Jintan 	1 	6.0
+Jalan Jitong 	Jalan 	Jitong 	1 	6.0
+Jalan Jong 	Jalan 	Jong 	1 	4.0
+Jalan Joran 	Jalan 	Joran 	1 	5.0
+Jalan Jurong Kechil 	Jalan 	Jurong Kechil 	1 	6.0
+Jalan Kakatua 	Jalan 	Kakatua 	1 	7.0
+Jalan Kampong Chantek 	Jalan 	Kampong Chantek 	1 	7.0
+Jalan Kampong Siglap 	Jalan 	Kampong Siglap 	1 	6.5
+Jalan Kandis 	Jalan 	Kandis 	1 	6.0
+Jalan Kapal 	Jalan 	Kapal 	1 	5.0
+Jalan Kasau 	Jalan 	Kasau 	1 	5.0
+Jalan Kathi 	Jalan 	Kathi 	1 	5.0
+Jalan Kayu 	Jalan 	Kayu 	1 	4.0
+Jalan Kayu Manis 	Jalan 	Kayu Manis 	1 	4.5
+Jalan Kebaya 	Jalan 	Kebaya 	1 	6.0
+Jalan Kebun Limau 	Jalan 	Kebun Limau 	1 	5.0
+Jalan Kechil 	Jalan 	Kechil 	1 	6.0
+Jalan Kechot 	Jalan 	Kechot 	1 	6.0
+Jalan Kechubong 	Jalan 	Kechubong 	1 	9.0
+Jalan Kelabu Asap 	Jalan 	Kelabu Asap 	1 	5.0
+Jalan Kelawar 	Jalan 	Kelawar 	1 	7.0
+Jalan Kelempong 	Jalan 	Kelempong 	1 	9.0
+Jalan Keli 	Jalan 	Keli 	1 	4.0
+Jalan Kelichap 	Jalan 	Kelichap 	1 	8.0
+Jalan Kelulut 	Jalan 	Kelulut 	1 	7.0
+Jalan Kemajuan 	Jalan 	Kemajuan 	1 	8.0
+Jalan Kemaman 	Jalan 	Kemaman 	1 	7.0
+Jalan Kembang Melati 	Jalan 	Kembang Melati 	1 	6.5
+Jalan Kembangan 	Jalan 	Kembangan 	1 	9.0
+Jalan Kemboja 	Jalan 	Kemboja 	1 	7.0
+Jalan Kemuning 	Jalan 	Kemuning 	1 	8.0
+Jalan Kenarah 	Jalan 	Kenarah 	1 	7.0
+Jalan Kerayong 	Jalan 	Kerayong 	1 	8.0
+Jalan Keria 	Jalan 	Keria 	1 	5.0
+Jalan Keris 	Jalan 	Keris 	1 	5.0
+Jalan Keruing 	Jalan 	Keruing 	1 	7.0
+Jalan Kesoma 	Jalan 	Kesoma 	1 	6.0
+Jalan Ketuka 	Jalan 	Ketuka 	1 	6.0
+Jalan Ketumbit 	Jalan 	Ketumbit 	1 	8.0
+Jalan Khairuddin 	Jalan 	Khairuddin 	1 	10.0
+Jalan Khamis 	Jalan 	Khamis 	1 	6.0
+Jalan Kilang 	Jalan 	Kilang 	1 	6.0
+Jalan Kilang Barat 	Jalan 	Kilang Barat 	1 	5.5
+Jalan Kilang Timor 	Jalan 	Kilang Timor 	1 	5.5
+Jalan Klapa 	Jalan 	Klapa 	1 	5.0
+Jalan Kledek 	Jalan 	Kledek 	1 	6.0
+Jalan Klinik 	Jalan 	Klinik 	1 	6.0
+Jalan Korban 	Jalan 	Korban 	1 	6.0
+Jalan Korma 	Jalan 	Korma 	1 	5.0
+Jalan Krian 	Jalan 	Krian 	1 	5.0
+Jalan Kuak 	Jalan 	Kuak 	1 	4.0
+Jalan Kuang 	Jalan 	Kuang 	1 	5.0
+Jalan Kubor 	Jalan 	Kubor 	1 	5.0
+Jalan kukoh 	Jalan 	kukoh 	1 	5.0
+Jalan Kumia 	Jalan 	Kumia 	1 	5.0
+Jalan Kuning 	Jalan 	Kuning 	1 	6.0
+Jalan Kupang 	Jalan 	Kupang 	1 	6.0
+Jalan Kuras 	Jalan 	Kuras 	1 	5.0
+Jalan Kwok Min 	Jalan 	Kwok Min 	1 	3.5
+Jalan Labu Ayer 	Jalan 	Labu Ayer 	1 	4.0
+Jalan Labu Manis 	Jalan 	Labu Manis 	1 	4.5
+Jalan Labu Merah 	Jalan 	Labu Merah 	1 	4.5
+Jalan Labu Puteh 	Jalan 	Labu Puteh 	1 	4.5
+Jalan Lakum 	Jalan 	Lakum 	1 	5.0
+Jalan Lam Huat 	Jalan 	Lam Huat 	1 	3.5
+Jalan Lam Sam 	Jalan 	Lam Sam 	1 	3.0
+Jalan Lana 	Jalan 	Lana 	1 	4.0
+Jalan Langgar Bedok 	Jalan 	Langgar Bedok 	1 	6.0
+Jalan Lanjut 	Jalan 	Lanjut 	1 	6.0
+Jalan Lapang 	Jalan 	Lapang 	1 	6.0
+Jalan Lateh 	Jalan 	Lateh 	1 	5.0
+Jalan Layang Layang 	Jalan 	Layang Layang 	1 	6.0
+Jalan Leban 	Jalan 	Leban 	1 	5.0
+Jalan Lebat Daun 	Jalan 	Lebat Daun 	1 	4.5
+Jalan Legundi 	Jalan 	Legundi 	1 	7.0
+Jalan Lekar 	Jalan 	Lekar 	1 	5.0
+Jalan Lekub 	Jalan 	Lekub 	1 	5.0
+Jalan Lembah Bedok 	Jalan 	Lembah Bedok 	1 	5.5
+Jalan Lembah Kallang 	Jalan 	Lembah Kallang 	1 	6.5
+Jalan Lembah Thomson 	Jalan 	Lembah Thomson 	1 	6.5
+Jalan Lempeng 	Jalan 	Lempeng 	1 	7.0
+Jalan Lengkok Sembawang 	Jalan 	Lengkok Sembawang 	1 	8.0
+Jalan Lepas 	Jalan 	Lepas 	1 	5.0
+Jalan Lim Tai See 	Jalan 	Lim Tai See 	1 	3.0
+Jalan Limau Balli 	Jalan 	Limau Balli 	1 	5.0
+Jalan Limau Kasturi 	Jalan 	Limau Kasturi 	1 	6.0
+Jalan Limau Manis 	Jalan 	Limau Manis 	1 	5.0
+Jalan Limau Nipis 	Jalan 	Limau Nipis 	1 	5.0
+Jalan Limau Purut 	Jalan 	Limau Purut 	1 	5.0
+Jalan Limbok 	Jalan 	Limbok 	1 	6.0
+Jalan Lokam 	Jalan 	Lokam 	1 	5.0
+Jalan Loyang Besar 	Jalan 	Loyang Besar 	1 	5.5
+Jalan Lye Kwee 	Jalan 	Lye Kwee 	1 	3.5
+Jalan Ma'mor 	Jalan 	Ma'mor 	1 	6.0
+Jalan Machang 	Jalan 	Machang 	1 	7.0
+Jalan Mahir 	Jalan 	Mahir 	1 	5.0
+Jalan Majapahit 	Jalan 	Majapahit 	1 	9.0
+Jalan Malu-Malu 	Jalan 	Malu-Malu 	1 	9.0
+Jalan Manis 	Jalan 	Manis 	1 	5.0
+Jalan Mariam 	Jalan 	Mariam 	1 	6.0
+Jalan Mas Kuning 	Jalan 	Mas Kuning 	1 	4.5
+Jalan Mas Puteh 	Jalan 	Mas Puteh 	1 	4.0
+Jalan Mashhor 	Jalan 	Mashhor 	1 	7.0
+Jalan Masjid 	Jalan 	Masjid 	1 	6.0
+Jalan Mastuli 	Jalan 	Mastuli 	1 	7.0
+Jalan Mat Jambol 	Jalan 	Mat Jambol 	1 	4.5
+Jalan Mata Ayer 	Jalan 	Mata Ayer 	1 	4.0
+Jalan Mawar 	Jalan 	Mawar 	1 	5.0
+Jalan Mayaanam 	Jalan 	Mayaanam 	1 	8.0
+Jalan Melati 	Jalan 	Melati 	1 	6.0
+Jalan Melor 	Jalan 	Melor 	1 	5.0
+Jalan Membina 	Jalan 	Membina 	1 	7.0
+Jalan Membina Barat 	Jalan 	Membina Barat 	1 	6.0
+Jalan Mempurong 	Jalan 	Mempurong 	1 	9.0
+Jalan Menarong 	Jalan 	Menarong 	1 	8.0
+Jalan Mendong 	Jalan 	Mendong 	1 	7.0
+Jalan Mengkudu 	Jalan 	Mengkudu 	1 	8.0
+Jalan Merah Saga 	Jalan 	Merah Saga 	1 	4.5
+Jalan Merbok 	Jalan 	Merbok 	1 	6.0
+Jalan Merdu 	Jalan 	Merdu 	1 	5.0
+Jalan Merlimau 	Jalan 	Merlimau 	1 	8.0
+Jalan Mesin 	Jalan 	Mesin 	1 	5.0
+Jalan Mesra 	Jalan 	Mesra 	1 	5.0
+Jalan Minggu 	Jalan 	Minggu 	1 	6.0
+Jalan Minyak 	Jalan 	Minyak 	1 	6.0
+Jalan Muhibbah 	Jalan 	Muhibbah 	1 	8.0
+Jalan Mulia 	Jalan 	Mulia 	1 	5.0
+Jalan Murai 	Jalan 	Murai 	1 	5.0
+Jalan Mutiara 	Jalan 	Mutiara 	1 	7.0
+Jalan Naga Sari 	Jalan 	Naga Sari 	1 	4.0
+Jalan Nam Seng 	Jalan 	Nam Seng 	1 	3.5
+Jalan Naung 	Jalan 	Naung 	1 	5.0
+Jalan Nipah 	Jalan 	Nipah 	1 	5.0
+Jalan Nira 	Jalan 	Nira 	1 	4.0
+Jalan Novena 	Jalan 	Novena 	1 	6.0
+Jalan Novena Barat 	Jalan 	Novena Barat 	1 	5.5
+Jalan Novena Selatan 	Jalan 	Novena Selatan 	1 	6.5
+Jalan Novena Timor 	Jalan 	Novena Timor 	1 	5.5
+Jalan Novena Utara 	Jalan 	Novena Utara 	1 	5.5
+Jalan Nuri 	Jalan 	Nuri 	1 	4.0
+Jalan Pacheli 	Jalan 	Pacheli 	1 	7.0
+Jalan Pakis 	Jalan 	Pakis 	1 	5.0
+Jalan Pandan 	Jalan 	Pandan 	1 	6.0
+Jalan Papan 	Jalan 	Papan 	1 	5.0
+Jalan Paras 	Jalan 	Paras 	1 	5.0
+Jalan Pari Burong 	Jalan 	Pari Burong 	1 	5.0
+Jalan Pari Dedap 	Jalan 	Pari Dedap 	1 	4.5
+Jalan Pari Kikis 	Jalan 	Pari Kikis 	1 	4.5
+Jalan Pari Unak 	Jalan 	Pari Unak 	1 	4.0
+Jalan Pasar Baru 	Jalan 	Pasar Baru 	1 	4.5
+Jalan Pasir Ria 	Jalan 	Pasir Ria 	1 	4.0
+Jalan Pasiran 	Jalan 	Pasiran 	1 	7.0
+Jalan Payoh Lai 	Jalan 	Payoh Lai 	1 	4.0
+Jalan Pelajau 	Jalan 	Pelajau 	1 	7.0
+Jalan Pelangi 	Jalan 	Pelangi 	1 	7.0
+Jalan Pelatina 	Jalan 	Pelatina 	1 	8.0
+Jalan Pelatok 	Jalan 	Pelatok 	1 	7.0
+Jalan Pelepah 	Jalan 	Pelepah 	1 	7.0
+Jalan Pelikat 	Jalan 	Pelikat 	1 	7.0
+Jalan Pemimpin 	Jalan 	Pemimpin 	1 	8.0
+Jalan Penjara 	Jalan 	Penjara 	1 	7.0
+Jalan Perahu 	Jalan 	Perahu 	1 	6.0
+Jalan Pergam 	Jalan 	Pergam 	1 	6.0
+Jalan Pernama 	Jalan 	Pernama 	1 	7.0
+Jalan Pesawat 	Jalan 	Pesawat 	1 	7.0
+Jalan Piala 	Jalan 	Piala 	1 	5.0
+Jalan Pinang 	Jalan 	Pinang 	1 	6.0
+Jalan Pintau 	Jalan 	Pintau 	1 	6.0
+Jalan Piring 	Jalan 	Piring 	1 	6.0
+Jalan Pisang 	Jalan 	Pisang 	1 	6.0
+Jalan Pokok Serunai 	Jalan 	Pokok Serunai 	1 	6.0
+Jalan Punai 	Jalan 	Punai 	1 	5.0
+Jalan Puteh Jerneh 	Jalan 	Puteh Jerneh 	1 	5.5
+Jalan Puteh Jula Juli 	Jalan 	Puteh Jula Juli 	1 	4.33333333333
+Jalan Puyoh 	Jalan 	Puyoh 	1 	5.0
+Jalan Quee Chew 	Jalan 	Quee Chew 	1 	4.0
+Jalan Rabu 	Jalan 	Rabu 	1 	4.0
+Jalan Rahmat 	Jalan 	Rahmat 	1 	6.0
+Jalan Raja Udang 	Jalan 	Raja Udang 	1 	4.5
+Jalan Rajah 	Jalan 	Rajah 	1 	5.0
+Jalan Rajawali 	Jalan 	Rajawali 	1 	8.0
+Jalan Rakit 	Jalan 	Rakit 	1 	5.0
+Jalan Rama Rama 	Jalan 	Rama Rama 	1 	4.0
+Jalan Rasok 	Jalan 	Rasok 	1 	5.0
+Jalan Raya 	Jalan 	Raya 	1 	4.0
+Jalan Rebana 	Jalan 	Rebana 	1 	6.0
+Jalan Redop 	Jalan 	Redop 	1 	5.0
+Jalan Remaja 	Jalan 	Remaja 	1 	6.0
+Jalan Remis 	Jalan 	Remis 	1 	5.0
+Jalan Rendang 	Jalan 	Rendang 	1 	7.0
+Jalan Rengas 	Jalan 	Rengas 	1 	6.0
+Jalan Rengkam 	Jalan 	Rengkam 	1 	7.0
+Jalan Resak 	Jalan 	Resak 	1 	5.0
+Jalan Ria 	Jalan 	Ria 	1 	3.0
+Jalan Riang 	Jalan 	Riang 	1 	5.0
+Jalan Rimau 	Jalan 	Rimau 	1 	5.0
+Jalan Rindu 	Jalan 	Rindu 	1 	5.0
+Jalan Rukam 	Jalan 	Rukam 	1 	5.0
+Jalan Rumah Tinggi 	Jalan 	Rumah Tinggi 	1 	5.5
+Jalan Rumbia 	Jalan 	Rumbia 	1 	6.0
+Jalan Rumia 	Jalan 	Rumia 	1 	5.0
+Jalan Sabit 	Jalan 	Sabit 	1 	5.0
+Jalan Sahabat 	Jalan 	Sahabat 	1 	7.0
+Jalan Sajak 	Jalan 	Sajak 	1 	5.0
+Jalan Salang 	Jalan 	Salang 	1 	6.0
+Jalan Sam Kongsi 	Jalan 	Sam Kongsi 	1 	4.5
+Jalan Samarinda 	Jalan 	Samarinda 	1 	9.0
+Jalan Sampurna 	Jalan 	Sampurna 	1 	8.0
+Jalan Samulun 	Jalan 	Samulun 	1 	7.0
+Jalan Sankam 	Jalan 	Sankam 	1 	6.0
+Jalan Sappan 	Jalan 	Sappan 	1 	6.0
+Jalan Satu 	Jalan 	Satu 	1 	4.0
+Jalan Saudara Ku 	Jalan 	Saudara Ku 	1 	4.5
+Jalan Sayang 	Jalan 	Sayang 	1 	6.0
+Jalan Seaview 	Jalan 	Seaview 	1 	7.0
+Jalan Sedap 	Jalan 	Sedap 	1 	5.0
+Jalan Segam 	Jalan 	Segam 	1 	5.0
+Jalan Seh Chuan 	Jalan 	Seh Chuan 	1 	4.0
+Jalan Sejarah 	Jalan 	Sejarah 	1 	7.0
+Jalan Selamat 	Jalan 	Selamat 	1 	7.0
+Jalan Selanting 	Jalan 	Selanting 	1 	9.0
+Jalan Selaseh 	Jalan 	Selaseh 	1 	7.0
+Jalan Selendang Delima 	Jalan 	Selendang Delima 	1 	7.5
+Jalan Selimang 	Jalan 	Selimang 	1 	8.0
+Jalan Sembilang 	Jalan 	Sembilang 	1 	9.0
+Jalan Semerbak 	Jalan 	Semerbak 	1 	8.0
+Jalan Sempadan 	Jalan 	Sempadan 	1 	8.0
+Jalan Senandong 	Jalan 	Senandong 	1 	9.0
+Jalan Senang 	Jalan 	Senang 	1 	6.0
+Jalan Sendudok 	Jalan 	Sendudok 	1 	8.0
+Jalan Seni 	Jalan 	Seni 	1 	4.0
+Jalan Sentosa 	Jalan 	Sentosa 	1 	7.0
+Jalan Senyum 	Jalan 	Senyum 	1 	6.0
+Jalan Seranggong Kechil 	Jalan 	Seranggong Kechil 	1 	8.0
+Jalan Serene 	Jalan 	Serene 	1 	6.0
+Jalan Serengam 	Jalan 	Serengam 	1 	8.0
+Jalan Seruling 	Jalan 	Seruling 	1 	8.0
+Jalan Setia 	Jalan 	Setia 	1 	5.0
+Jalan Shaer 	Jalan 	Shaer 	1 	5.0
+Jalan Siantan 	Jalan 	Siantan 	1 	7.0
+Jalan Siap 	Jalan 	Siap 	1 	4.0
+Jalan Sikudangan 	Jalan 	Sikudangan 	1 	10.0
+Jalan Simpang Bedok 	Jalan 	Simpang Bedok 	1 	6.0
+Jalan Sinar Bintang 	Jalan 	Sinar Bintang 	1 	6.0
+Jalan Sinar Bulan 	Jalan 	Sinar Bulan 	1 	5.0
+Jalan Sindor 	Jalan 	Sindor 	1 	6.0
+Jalan Singa 	Jalan 	Singa 	1 	5.0
+Jalan Songket 	Jalan 	Songket 	1 	7.0
+Jalan Soo Bee 	Jalan 	Soo Bee 	1 	3.0
+Jalan Sotong 	Jalan 	Sotong 	1 	6.0
+Jalan Suasa 	Jalan 	Suasa 	1 	5.0
+Jalan Suka 	Jalan 	Suka 	1 	4.0
+Jalan Sukachita 	Jalan 	Sukachita 	1 	9.0
+Jalan Sultan 	Jalan 	Sultan 	1 	6.0
+Jalan Sungei 	Jalan 	Sungei 	1 	6.0
+Jalan Sungei Belang 	Jalan 	Sungei Belang 	1 	6.0
+Jalan Sungei Poyan 	Jalan 	Sungei Poyan 	1 	5.5
+Jalan Surau 	Jalan 	Surau 	1 	5.0
+Jalan Taman 	Jalan 	Taman 	1 	5.0
+Jalan Tamban 	Jalan 	Tamban 	1 	6.0
+Jalan Tambur 	Jalan 	Tambur 	1 	6.0
+Jalan Tampang 	Jalan 	Tampang 	1 	7.0
+Jalan Tan Tock Seng 	Jalan 	Tan Tock Seng 	1 	3.66666666667
+Jalan Tanah Puteh 	Jalan 	Tanah Puteh 	1 	5.0
+Jalan Tanah Rata 	Jalan 	Tanah Rata 	1 	4.5
+Jalan Tani 	Jalan 	Tani 	1 	4.0
+Jalan Tanjong 	Jalan 	Tanjong 	1 	7.0
+Jalan Tapisan 	Jalan 	Tapisan 	1 	7.0
+Jalan Tari Dulang 	Jalan 	Tari Dulang 	1 	5.0
+Jalan Tari Lilin 	Jalan 	Tari Lilin 	1 	4.5
+Jalan Tari Payong 	Jalan 	Tari Payong 	1 	5.0
+Jalan Tari Piring 	Jalan 	Tari Piring 	1 	5.0
+Jalan Tari Serimpi 	Jalan 	Tari Serimpi 	1 	5.5
+Jalan Tari Zapin 	Jalan 	Tari Zapin 	1 	4.5
+Jalan Tarum 	Jalan 	Tarum 	1 	5.0
+Jalan Teban 	Jalan 	Teban 	1 	5.0
+Jalan Teck Kee 	Jalan 	Teck Kee 	1 	3.5
+Jalan Teck Whye 	Jalan 	Teck Whye 	1 	4.0
+Jalan Tekad 	Jalan 	Tekad 	1 	5.0
+Jalan Tekukor 	Jalan 	Tekukor 	1 	7.0
+Jalan Telang 	Jalan 	Telang 	1 	6.0
+Jalan Telawi 	Jalan 	Telawi 	1 	6.0
+Jalan Telipok 	Jalan 	Telipok 	1 	7.0
+Jalan Teliti 	Jalan 	Teliti 	1 	6.0
+Jalan Tembusu 	Jalan 	Tembusu 	1 	7.0
+Jalan Tempua 	Jalan 	Tempua 	1 	6.0
+Jalan Tenaga 	Jalan 	Tenaga 	1 	6.0
+Jalan Tenang 	Jalan 	Tenang 	1 	6.0
+Jalan Tenggiri 	Jalan 	Tenggiri 	1 	8.0
+Jalan Tenon 	Jalan 	Tenon 	1 	5.0
+Jalan Tenteram 	Jalan 	Tenteram 	1 	8.0
+Jalan Tepong 	Jalan 	Tepong 	1 	6.0
+Jalan Terang Bulan 	Jalan 	Terang Bulan 	1 	5.5
+Jalan Terap 	Jalan 	Terap 	1 	5.0
+Jalan Terentang 	Jalan 	Terentang 	1 	9.0
+Jalan Terubok 	Jalan 	Terubok 	1 	7.0
+Jalan Terusan 	Jalan 	Terusan 	1 	7.0
+Jalan Tiga 	Jalan 	Tiga 	1 	4.0
+Jalan Tiga Ratus 	Jalan 	Tiga Ratus 	1 	4.5
+Jalan Tiong 	Jalan 	Tiong 	1 	5.0
+Jalan Toa Payoh 	Jalan 	Toa Payoh 	1 	4.0
+Jalan Todak 	Jalan 	Todak 	1 	5.0
+Jalan Tua Kong 	Jalan 	Tua Kong 	1 	3.5
+Jalan Tukang 	Jalan 	Tukang 	1 	6.0
+Jalan Tumpu 	Jalan 	Tumpu 	1 	5.0
+Jalan Tupai 	Jalan 	Tupai 	1 	5.0
+Jalan Turi 	Jalan 	Turi 	1 	4.0
+Jalan Ubi 	Jalan 	Ubi 	1 	3.0
+Jalan Uji 	Jalan 	Uji 	1 	3.0
+Jalan Ulu Seletar 	Jalan 	Ulu Seletar 	1 	5.0
+Jalan Ulu Sembawang 	Jalan 	Ulu Sembawang 	1 	6.0
+Jalan Ulu Siglap 	Jalan 	Ulu Siglap 	1 	4.5
+Jalan Unggas 	Jalan 	Unggas 	1 	6.0
+Jalan Usaha 	Jalan 	Usaha 	1 	5.0
+Jalan Wajek 	Jalan 	Wajek 	1 	5.0
+Jalan Wak Selat 	Jalan 	Wak Selat 	1 	4.0
+Jalan Wakaff 	Jalan 	Wakaff 	1 	6.0
+Jalan Wangi 	Jalan 	Wangi 	1 	5.0
+Jalan Waringin 	Jalan 	Waringin 	1 	8.0
+Jalan Woodbridge 	Jalan 	Woodbridge 	1 	10.0
+Jalan Yasin 	Jalan 	Yasin 	1 	5.0
+Jalan Zamrud 	Jalan 	Zamrud 	1 	6.0
+Jambol Place 	Place 	Jambol 	0 	6.0
+Jambol Walk 	Walk 	Jambol 	0 	6.0
+Jansen Close 	Close 	Jansen 	0 	6.0
+Jansen Road 	Road 	Jansen 	0 	6.0
+Japanese Garden Road 	Garden Road 	Japanese 	0 	8.0
+Jasmine Road 	Road 	Jasmine 	0 	7.0
+Java Road 	Road 	Java 	0 	4.0
+Jedburgh Gardens 	Gardens 	Jedburgh 	0 	8.0
+Jelapang Road 	Road 	Jelapang 	0 	8.0
+Jelebu Road 	Road 	Jelebu 	0 	6.0
+Jellicoe Road 	Road 	Jellicoe 	0 	8.0
+Jervois Close 	Close 	Jervois 	0 	7.0
+Jervois Hill 	Hill 	Jervois 	0 	7.0
+Jervois Lane 	Lane 	Jervois 	0 	7.0
+Jervois Road 	Road 	Jervois 	0 	7.0
+Jetty Road 	Road 	Jetty 	0 	5.0
+Jiak Chuan Road 	Road 	Jiak Chuan 	0 	4.5
+Jiak Kim Street 	Street 	Jiak Kim 	0 	3.5
+Joan Road 	Road 	Joan 	0 	4.0
+John Road 	Road 	John 	0 	4.0
+Johore Road 	Road 	Johore 	0 	6.0
+Joo Avenue 	Avenue 	Joo 	0 	3.0
+Joo Chiat Avenue 	Avenue 	Joo Chiat 	0 	4.0
+Joo Chiat Lane 	Lane 	Joo Chiat 	0 	4.0
+Joo Chiat Place 	Place 	Joo Chiat 	0 	4.0
+Joo Chiat Road 	Road 	Joo Chiat 	0 	4.0
+Joo Chiat Terrace 	Terrace 	Joo Chiat 	0 	4.0
+Joo Chiat Walk 	Walk 	Joo Chiat 	0 	4.0
+Joo Hong Road 	Road 	Joo Hong 	0 	3.5
+Joo Koon Circle 	Circle 	Joo Koon 	0 	3.5
+Joo Koon Crescent 	Crescent 	Joo Koon 	0 	3.5
+Joo Koon Road 	Road 	Joo Koon 	0 	3.5
+Joo Koon Way 	Way 	Joo Koon 	0 	3.5
+Joo Seng Road 	Road 	Joo Seng 	0 	3.5
+Joo Yee Road 	Road 	Joo Yee 	0 	3.0
+Joon Hiang Road 	Road 	Joon Hiang 	0 	4.5
+Jubilee Road 	Road 	Jubilee 	0 	7.0
+Jupiter Road 	Road 	Jupiter 	0 	7.0
+Jurong East Avenue 1 	Avenue 	Jurong 	0 	6.0
+Jurong East Central 	 	Jurong 	0 	6.0
+Jurong East Street 11 	Street 	Jurong 	0 	6.0
+Jurong East Street 12 	Street 	Jurong 	0 	6.0
+Jurong East Street 13 	Street 	Jurong 	0 	6.0
+Jurong East Street 21 	Street 	Jurong 	0 	6.0
+Jurong East Street 24 	Street 	Jurong 	0 	6.0
+Jurong East Street 31 	Street 	Jurong 	0 	6.0
+Jurong East Street 32 	Street 	Jurong 	0 	6.0
+Jurong Hill 	Hill 	Jurong 	0 	6.0
+Jurong Island Highway 	Island Highway 	Jurong 	0 	6.0
+Jurong Pier Road 	Road 	Jurong Pier 	0 	5.0
+Jurong Pier Way 	Way 	Jurong Pier 	0 	5.0
+Jurong Port Road 	Road 	Jurong Port 	0 	5.0
+Jurong Road 	Road 	Jurong 	0 	6.0
+Jurong Road Track 18 	Road Track 	Jurong 	0 	6.0
+Jurong Road Track 20 	Road Track 	Jurong 	0 	6.0
+Jurong Road Track 22 	Road Track 	Jurong 	0 	6.0
+Jurong Town Hall Road 	Road 	Jurong Town Hall 	0 	4.66666666667
+Jurong West Avenue 1 	Avenue 	Jurong 	0 	6.0
+Jurong West Avenue 2 	Avenue 	Jurong 	0 	6.0
+Jurong West Avenue 4 	Avenue 	Jurong 	0 	6.0
+Jurong West Avenue 5 	Avenue 	Jurong 	0 	6.0
+Jurong West Central 1 	 	Jurong 	0 	6.0
+Jurong West Central 2 	 	Jurong 	0 	6.0
+Jurong West Central 3 	 	Jurong 	0 	6.0
+Jurong West Street 41 	Street 	Jurong 	0 	6.0
+Jurong West Street 42 	Street 	Jurong 	0 	6.0
+Jurong West Street 51 	Street 	Jurong 	0 	6.0
+Jurong West Street 52 	Street 	Jurong 	0 	6.0
+Jurong West Street 61 	Street 	Jurong 	0 	6.0
+Jurong West Street 62 	Street 	Jurong 	0 	6.0
+Jurong West Street 64 	Street 	Jurong 	0 	6.0
+Jurong West Street 71 	Street 	Jurong 	0 	6.0
+Jurong West Street 72 	Street 	Jurong 	0 	6.0
+Jurong West Street 73 	Street 	Jurong 	0 	6.0
+Jurong West Street 74 	Street 	Jurong 	0 	6.0
+Jurong West Street 75 	Street 	Jurong 	0 	6.0
+Jurong West Street 76 	Street 	Jurong 	0 	6.0
+Jurong West Street 81 	Street 	Jurong 	0 	6.0
+Jurong West Street 82 	Street 	Jurong 	0 	6.0
+Jurong West Street 91 	Street 	Jurong 	0 	6.0
+Jurong West Street 92 	Street 	Jurong 	0 	6.0
+Jurong West Street 93 	Street 	Jurong 	0 	6.0
+Kadayanallur Street 	Street 	Kadayanallur 	0 	12.0
+Kaki Bukit Avenue 1 	Avenue 	Kaki Bukit 	0 	4.5
+Kaki Bukit Avenue 2 	Avenue 	Kaki Bukit 	0 	4.5
+Kaki Bukit Avenue 3 	Avenue 	Kaki Bukit 	0 	4.5
+Kaki Bukit Avenue 4 	Avenue 	Kaki Bukit 	0 	4.5
+Kaki Bukit Avenue 5 	Avenue 	Kaki Bukit 	0 	4.5
+Kaki Bukit Avenue 6 	Avenue 	Kaki Bukit 	0 	4.5
+Kaki Bukit Crescent 	Crescent 	Kaki Bukit 	0 	4.5
+Kaki Bukit Industrial Estate 	Industrial Estate 	Kaki Bukit 	0 	4.5
+Kaki Bukit Industrial Terrace 	Industrial Terrace 	Kaki Bukit 	0 	4.5
+Kaki Bukit Place 	Place 	Kaki Bukit 	0 	4.5
+Kaki Bukit Road 	Road 	Kaki Bukit 	0 	4.5
+Kaki Bukit Road 1 	Road 	Kaki Bukit 	0 	4.5
+Kaki Bukit Road 2 	Road 	Kaki Bukit 	0 	4.5
+Kaki Bukit Road 3 	Road 	Kaki Bukit 	0 	4.5
+Kaki Bukit Road 4 	Road 	Kaki Bukit 	0 	4.5
+Kaki Bukit Road 5 	Road 	Kaki Bukit 	0 	4.5
+Kalidasa Avenue 	Avenue 	Kalidasa 	0 	8.0
+Kallang Avenue 	Avenue 	Kallang 	0 	7.0
+Kallang Bahru 	 	Kallang Bahru 	0 	6.0
+Kallang Junction 	Junction 	Kallang 	0 	7.0
+Kallang Place 	Place 	Kallang 	0 	7.0
+Kallang Pudding Road 	Road 	Kallang Pudding 	0 	7.0
+Kallang Road 	Road 	Kallang 	0 	7.0
+Kallang Sector 	Sector 	Kallang 	0 	7.0
+Kallang Tengah 	 	Kallang Tengah 	0 	6.5
+Kallang Walk 	Walk 	Kallang 	0 	7.0
+Kallang Way 	Way 	Kallang 	0 	7.0
+Kallang Way 1 	Way 	Kallang 	0 	7.0
+Kallang Way 2 	Way 	Kallang 	0 	7.0
+Kallang Way 2A 	Way 	Kallang 	0 	7.0
+Kallang Way 3 	Way 	Kallang 	0 	7.0
+Kallang Way 4 	Way 	Kallang 	0 	7.0
+Kallang Way 5 	Way 	Kallang 	0 	7.0
+Kampong Ampat 	 	Kampong Ampat 	0 	6.0
+Kampong Arang Road 	Road 	Kampong Arang 	0 	6.0
+Kampong Bahru Road 	Road 	Kampong Bahru 	0 	6.0
+Kampong Bugis 	 	Kampong Bugis 	0 	6.0
+Kampong Eunos 	 	Kampong Eunos 	0 	6.0
+Kampong Java Road 	Road 	Kampong Java 	0 	5.5
+Kampong Kapor Road 	Road 	Kampong Kapor 	0 	6.0
+Kampong Kayu Road 	Road 	Kampong Kayu 	0 	5.5
+Kampong Sireh 	 	Kampong Sireh 	0 	6.0
+Kampong Wak Hassan 	 	Kampong Wak Hassan 	0 	5.33333333333
+Kandahar Street 	Street 	Kandahar 	0 	8.0
+Kang Ching Road 	Road 	Kang Ching 	0 	4.5
+Kang Choo Bin Road 	Road 	Kang Choo Bin 	0 	3.66666666667
+Kang Choo Bin Walk 	Walk 	Kang Choo Bin 	0 	3.66666666667
+Kanisha Marican Road 	Road 	Kanisha Marican 	0 	7.0
+Karikal Lane 	Lane 	Karikal 	0 	7.0
+Kasai Road 	Road 	Kasai 	0 	5.0
+Katmandu Road 	Road 	Katmandu 	0 	8.0
+Kay Poh Road 	Road 	Kay Poh 	0 	3.0
+Kay Siang Road 	Road 	Kay Siang 	0 	4.0
+Kee Choe Avenue 	Avenue 	Kee Choe 	0 	3.5
+Kee Seng Street 	Street 	Kee Seng 	0 	3.5
+Kee Sun Avenue 	Avenue 	Kee Sun 	0 	3.0
+Kelantan Lane 	Lane 	Kelantan 	0 	8.0
+Kelantan Road 	Road 	Kelantan 	0 	8.0
+Kellock Road 	Road 	Kellock 	0 	7.0
+Kelopak Road 	Road 	Kelopak 	0 	7.0
+Kelulut Hill 	Hill 	Kelulut 	0 	7.0
+Kempas Road 	Road 	Kempas 	0 	6.0
+Kenanga Avenue 	Avenue 	Kenanga 	0 	7.0
+Keng Cheow Street 	Street 	Keng Cheow 	0 	4.5
+Keng Chin Road 	Road 	Keng Chin 	0 	4.0
+Keng Kiat Street 	Street 	Keng Kiat 	0 	4.0
+Keng Lee Road 	Road 	Keng Lee 	0 	3.5
+Kensington Park Drive 	Park Drive 	Kensington 	0 	10.0
+Kensington Park Road 	Park Road 	Kensington 	0 	10.0
+Kent Ridge Crescent 	Ridge Crescent 	Kent 	0 	4.0
+Kent Ridge Drive 	Ridge Drive 	Kent 	0 	4.0
+Kent Ridge Road 	Ridge Road 	Kent 	0 	4.0
+Kent Road 	Road 	Kent 	0 	4.0
+Kenya Crescent 	Crescent 	Kenya 	0 	5.0
+Keong Saik Road 	Road 	Keong Saik 	0 	4.5
+Keppel Hill 	Hill 	Keppel 	0 	6.0
+Keppel Road 	Road 	Keppel 	0 	6.0
+Keppel Terminal Avenue 	Terminal Avenue 	Keppel 	0 	6.0
+Keramat Road 	Road 	Keramat 	0 	7.0
+Kerbau Road 	Road 	Kerbau 	0 	6.0
+Keris Drive 	Drive 	Keris 	0 	5.0
+Kew Avenue 	Avenue 	Kew 	0 	3.0
+Kew Crescent 	Crescent 	Kew 	0 	3.0
+Kew Drive 	Drive 	Kew 	0 	3.0
+Kew Heights 	Heights 	Kew 	0 	3.0
+Kew Lane 	Lane 	Kew 	0 	3.0
+Kew Terrace 	Terrace 	Kew 	0 	3.0
+Kew Walk 	Walk 	Kew 	0 	3.0
+Khalsa Crescent 	Crescent 	Khalsa 	0 	6.0
+Kheam Hock Road 	Road 	Kheam Hock 	0 	4.5
+Khiang Guan Avenue 	Avenue 	Khiang Guan 	0 	5.0
+Kian Teck Avenue 	Avenue 	Kian Teck 	0 	4.0
+Kian Teck Crescent 	Crescent 	Kian Teck 	0 	4.0
+Kian Teck Drive 	Drive 	Kian Teck 	0 	4.0
+Kian Teck Road 	Road 	Kian Teck 	0 	4.0
+Kian Teck Way 	Way 	Kian Teck 	0 	4.0
+Killiney Road 	Road 	Killiney 	0 	8.0
+Kim Cheng Street 	Street 	Kim Cheng 	0 	4.0
+Kim Chuan Avenue 	Avenue 	Kim Chuan 	0 	4.0
+Kim Chuan Drive 	Drive 	Kim Chuan 	0 	4.0
+Kim Chuan Lane 	Lane 	Kim Chuan 	0 	4.0
+Kim Chuan Road 	Road 	Kim Chuan 	0 	4.0
+Kim Chuan Terrace 	Terrace 	Kim Chuan 	0 	4.0
+Kim Keat Avenue 	Avenue 	Kim Keat 	0 	3.5
+Kim Keat Close 	Close 	Kim Keat 	0 	3.5
+Kim Keat Lane 	Lane 	Kim Keat 	0 	3.5
+Kim Keat Link 	Link 	Kim Keat 	0 	3.5
+Kim Keat Road 	Road 	Kim Keat 	0 	3.5
+Kim Pong Road 	Road 	Kim Pong 	0 	3.5
+Kim Seng Promenade 	Promenade 	Kim Seng 	0 	3.5
+Kim Seng Road 	Road 	Kim Seng 	0 	3.5
+Kim Seng Walk 	Walk 	Kim Seng 	0 	3.5
+Kim Tian Place 	Place 	Kim Tian 	0 	3.5
+Kim Tian Road 	Road 	Kim Tian 	0 	3.5
+Kim Yam Road 	Road 	Kim Yam 	0 	3.0
+King Albert Park 	Park 	King Albert 	0 	5.0
+King George's Avenue 	Avenue 	King George's 	0 	6.0
+King's Avenue 	Avenue 	King's 	0 	6.0
+King's Close 	Close 	King's 	0 	6.0
+King's Drive 	Drive 	King's 	0 	6.0
+King's Road 	Road 	King's 	0 	6.0
+King's Way 	Way 	King's 	0 	6.0
+Kingsmead Road 	Road 	Kingsmead 	0 	9.0
+Kingswear Avenue 	Avenue 	Kingswear 	0 	9.0
+Kinta Road 	Road 	Kinta 	0 	5.0
+Kirk Terrace 	Terrace 	Kirk 	0 	4.0
+Kismis Avenue 	Avenue 	Kismis 	0 	6.0
+Kismis Green 	Green 	Kismis 	0 	6.0
+Kismis Place 	Place 	Kismis 	0 	6.0
+Kismis Road 	Road 	Kismis 	0 	6.0
+Kitchener Road 	Road 	Kitchener 	0 	9.0
+Klang Lane 	Lane 	Klang 	0 	5.0
+Klang Road 	Road 	Klang 	0 	5.0
+Kloof Road 	Road 	Kloof 	0 	5.0
+Knights Bridge 	Bridge 	Knights 	0 	7.0
+Koek Road 	Road 	Koek 	0 	4.0
+Koh Sek Lim Road 	Road 	Koh Sek Lim 	0 	3.0
+Koon Seng Road 	Road 	Koon Seng 	0 	4.0
+Kovan Close 	Close 	Kovan 	0 	5.0
+Kovan Road 	Road 	Kovan 	0 	5.0
+Kramat Lane 	Lane 	Kramat 	0 	6.0
+Kramat Road 	Road 	Kramat 	0 	6.0
+Kranji Loop 	Loop 	Kranji 	0 	6.0
+Kranji Road 	Road 	Kranji 	0 	6.0
+Kranji Way 	Way 	Kranji 	0 	6.0
+Kreta Ayer Road 	Road 	Kreta Ayer 	0 	4.5
+Kuala Loyang Road 	Road 	Kuala Loyang 	0 	5.5
+Kung Chong Road 	Road 	Kung Chong 	0 	4.5
+Kuo Chuan Avenue 	Avenue 	Kuo Chuan 	0 	4.0
+Kurau Grove 	Grove 	Kurau 	0 	5.0
+Kurau Place 	Place 	Kurau 	0 	5.0
+Kurau Terrace 	Terrace 	Kurau 	0 	5.0
+Kwong Avenue 	Avenue 	Kwong 	0 	5.0
+Kwong Min Road 	Road 	Kwong Min 	0 	4.0
+La Salle Street 	Street 	La Salle 	0 	3.5
+Labrador Villa Road 	Road 	Labrador Villa 	0 	6.5
+Lady Hill Road 	Hill Road 	Lady 	0 	4.0
+Lagos Circle 	Circle 	Lagos 	0 	5.0
+Laguna Golf Green 	Green 	Laguna Golf 	0 	5.0
+Lakepoint Drive 	Drive 	Lakepoint 	0 	9.0
+Lakeshore View 	View 	Lakeshore 	0 	9.0
+Lakme Street 	Street 	Lakme 	0 	5.0
+Lakme Terrace 	Terrace 	Lakme 	0 	5.0
+Lambeth Walk 	Walk 	Lambeth 	0 	7.0
+Lancaster Gate 	Gate 	Lancaster 	0 	9.0
+Lange Road 	Road 	Lange 	0 	5.0
+Langsat Road 	Road 	Langsat 	0 	7.0
+Lantana Avenue 	Avenue 	Lantana 	0 	7.0
+Larkhill Road 	Road 	Larkhill 	0 	8.0
+Larut Road 	Road 	Larut 	0 	5.0
+Lasia Avenue 	Avenue 	Lasia 	0 	5.0
+Lavender Street 	Street 	Lavender 	0 	8.0
+Law Link 	Link 	Law 	0 	3.0
+Leedon Heights 	Heights 	Leedon 	0 	6.0
+Leedon Park 	Park 	Leedon 	0 	6.0
+Leedon Road 	Road 	Leedon 	0 	6.0
+Leicester Road 	Road 	Leicester 	0 	9.0
+Leith Park 	Park 	Leith 	0 	5.0
+Leith Road 	Road 	Leith 	0 	5.0
+Lembu Road 	Road 	Lembu 	0 	5.0
+Lemon Avenue 	Avenue 	Lemon 	0 	5.0
+Lempeng Drive 	Drive 	Lempeng 	0 	7.0
+Leng Kee Road 	Road 	Leng Kee 	0 	3.5
+Lengkok Angsa 	Lengkok 	Angsa 	1 	5.0
+Lengkok Bahru 	Lengkok 	Bahru 	1 	5.0
+Lengkok Dua 	Lengkok 	Dua 	1 	3.0
+Lengkok Empat 	Lengkok 	Empat 	1 	5.0
+Lengkok Enam 	Lengkok 	Enam 	1 	4.0
+Lengkok Lima 	Lengkok 	Lima 	1 	4.0
+Lengkok Mariam 	Lengkok 	Mariam 	1 	6.0
+Lengkok Merak 	Lengkok 	Merak 	1 	5.0
+Lengkok Saga 	Lengkok 	Saga 	1 	4.0
+Lengkok Satu 	Lengkok 	Satu 	1 	4.0
+Lengkok Tiga 	Lengkok 	Tiga 	1 	4.0
+Lengkok Tujoh 	Lengkok 	Tujoh 	1 	5.0
+Lentor Avenue 	Avenue 	Lentor 	0 	6.0
+Lentor Crescent 	Crescent 	Lentor 	0 	6.0
+Lentor Drive 	Drive 	Lentor 	0 	6.0
+Lentor Green 	Green 	Lentor 	0 	6.0
+Lentor Grove 	Grove 	Lentor 	0 	6.0
+Lentor Lane 	Lane 	Lentor 	0 	6.0
+Lentor Link 	Link 	Lentor 	0 	6.0
+Lentor Loop 	Loop 	Lentor 	0 	6.0
+Lentor Place 	Place 	Lentor 	0 	6.0
+Lentor Road 	Road 	Lentor 	0 	6.0
+Lentor Street 	Street 	Lentor 	0 	6.0
+Lentor Terrace 	Terrace 	Lentor 	0 	6.0
+Lentor Vale 	Vale 	Lentor 	0 	6.0
+Lentor Walk 	Walk 	Lentor 	0 	6.0
+Lentor Way 	Way 	Lentor 	0 	6.0
+Leo Drive 	Drive 	Leo 	0 	3.0
+Leonie Hill 	Hill 	Leonie 	0 	6.0
+Leonie Hill Road 	Hill Road 	Leonie 	0 	6.0
+Lermit Road 	Road 	Lermit 	0 	6.0
+Leuchars Road 	Road 	Leuchars 	0 	8.0
+Lew Lian Vale 	Vale 	Lew Lian 	0 	3.5
+Lewin Terrace 	Terrace 	Lewin 	0 	5.0
+Lewis Road 	Road 	Lewis 	0 	5.0
+Leyden Hill 	Hill 	Leyden 	0 	6.0
+Li Hwan Close 	Close 	Li Hwan 	0 	3.0
+Li Hwan Drive 	Drive 	Li Hwan 	0 	3.0
+Li Hwan Place 	Place 	Li Hwan 	0 	3.0
+Li Hwan Terrace 	Terrace 	Li Hwan 	0 	3.0
+Li Hwan View 	View 	Li Hwan 	0 	3.0
+Li Hwan Walk 	Walk 	Li Hwan 	0 	3.0
+Li Po Avenue 	Avenue 	Li Po 	0 	2.0
+Liane Road 	Road 	Liane 	0 	5.0
+Liang Seah Street 	Street 	Liang Seah 	0 	4.5
+Libra Drive 	Drive 	Libra 	0 	5.0
+Lichfield Road 	Road 	Lichfield 	0 	9.0
+Lichi Avenue 	Avenue 	Lichi 	0 	5.0
+Lighthouse Beach Walk 	Beach Walk 	Lighthouse 	0 	10.0
+Lilac Drive 	Drive 	Lilac 	0 	5.0
+Lilac Road 	Road 	Lilac 	0 	5.0
+Lilac Walk 	Walk 	Lilac 	0 	5.0
+Lily Avenue 	Avenue 	Lily 	0 	4.0
+Lim Ah Pin Road 	Road 	Lim Ah Pin 	0 	2.66666666667
+Lim Ah Woo Road 	Road 	Lim Ah Woo 	0 	2.66666666667
+Lim Chu Kang Lane 1 	Lane 	Lim Chu Kang 	0 	3.33333333333
+Lim Chu Kang Lane 1A 	Lane 	Lim Chu Kang 	0 	3.33333333333
+Lim Chu Kang Lane 2 	Lane 	Lim Chu Kang 	0 	3.33333333333
+Lim Chu Kang Lane 3 	Lane 	Lim Chu Kang 	0 	3.33333333333
+Lim Chu Kang Lane 3A 	Lane 	Lim Chu Kang 	0 	3.33333333333
+Lim Chu Kang Lane 4 	Lane 	Lim Chu Kang 	0 	3.33333333333
+Lim Chu Kang Lane 5 	Lane 	Lim Chu Kang 	0 	3.33333333333
+Lim Chu Kang Lane 5A 	Lane 	Lim Chu Kang 	0 	3.33333333333
+Lim Chu Kang Lane 6 	Lane 	Lim Chu Kang 	0 	3.33333333333
+Lim Chu Kang Lane 6C 	Lane 	Lim Chu Kang 	0 	3.33333333333
+Lim Chu Kang Lane 6D 	Lane 	Lim Chu Kang 	0 	3.33333333333
+Lim Chu Kang Lane 6F 	Lane 	Lim Chu Kang 	0 	3.33333333333
+Lim Chu Kang Lane 8 	Lane 	Lim Chu Kang 	0 	3.33333333333
+Lim Chu Kang Lane 8A 	Lane 	Lim Chu Kang 	0 	3.33333333333
+Lim Chu Kang Lane 9 	Lane 	Lim Chu Kang 	0 	3.33333333333
+Lim Chu Kang Lane 9A 	Lane 	Lim Chu Kang 	0 	3.33333333333
+Lim Chu Kang Road 	Road 	Lim Chu Kang 	0 	3.33333333333
+Lim Chu Kang Track 11 	Track 	Lim Chu Kang 	0 	3.33333333333
+Lim Chu Kang Track 13 	Track 	Lim Chu Kang 	0 	3.33333333333
+Lim Liak Street 	Street 	Lim Liak 	0 	3.5
+Lim Tai See Walk 	Walk 	Lim Tai See 	0 	3.0
+Lim Teck Boo Road 	Road 	Lim Teck Boo 	0 	3.33333333333
+Lim Teck Kim Road 	Road 	Lim Teck Kim 	0 	3.33333333333
+Lim Tua Tow Road 	Road 	Lim Tua Tow 	0 	3.0
+Limau Garden 	Garden 	Limau 	0 	5.0
+Limau Grove 	Grove 	Limau 	0 	5.0
+Limau Rise 	Rise 	Limau 	0 	5.0
+Limau Terrace 	Terrace 	Limau 	0 	5.0
+Limau Walk 	Walk 	Limau 	0 	5.0
+Lincoln Road 	Road 	Lincoln 	0 	7.0
+Linden Drive 	Drive 	Linden 	0 	6.0
+Link Road 	Road 	Link 	0 	4.0
+Little India 	 	Little India 	0 	5.5
+Little Road 	Road 	Little 	0 	6.0
+Liu Fang Road 	Road 	Liu Fang 	0 	3.5
+Lloyd Road 	Road 	Lloyd 	0 	5.0
+Lock Road 	Road 	Lock 	0 	4.0
+Loewen Road 	Road 	Loewen 	0 	6.0
+Lok Yang Way 	Way 	Lok Yang 	0 	3.5
+Loke Yew Street 	Street 	Loke Yew 	0 	3.5
+Lompang Road 	Road 	Lompang 	0 	7.0
+Lornie Road 	Road 	Lornie 	0 	6.0
+Lornie Walk 	Walk 	Lornie 	0 	6.0
+Lorong 1 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 1 Realty Park 	Park 	Lorong Realty 	0 	6.0
+Lorong 1 Toa Payoh 	Lorong 	Toa Payoh 	1 	4.0
+Lorong 10 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 101 Changi 	Lorong 	Changi 	1 	6.0
+Lorong 102 Changi 	Lorong 	Changi 	1 	6.0
+Lorong 104 Changi 	Lorong 	Changi 	1 	6.0
+Lorong 105 Changi 	Lorong 	Changi 	1 	6.0
+Lorong 106 Changi 	Lorong 	Changi 	1 	6.0
+Lorong 107 Changi 	Lorong 	Changi 	1 	6.0
+Lorong 108 Changi 	Lorong 	Changi 	1 	6.0
+Lorong 11 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 110 Changi 	Lorong 	Changi 	1 	6.0
+Lorong 12 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 13 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 14 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 15 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 16 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 17 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 18 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 19 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 1A Toa Payoh 	Lorong 	Toa Payoh 	1 	4.0
+Lorong 2 Realty Park 	Park 	Lorong Realty 	0 	6.0
+Lorong 2 Toa Payoh 	Lorong 	Toa Payoh 	1 	4.0
+Lorong 20 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 21 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 21A Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 22 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 23 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 24 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 24A Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 25 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 25A Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 26 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 27 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 27A Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 28 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 29 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 3 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 3 Realty Park 	Park 	Lorong Realty 	0 	6.0
+Lorong 3 Toa Payoh 	Lorong 	Toa Payoh 	1 	4.0
+Lorong 30 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 31 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 32 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 33 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 34 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 35 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 36 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 37 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 38 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 39 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 4 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 4 Realty Park 	Park 	Lorong Realty 	0 	6.0
+Lorong 4 Toa Payoh 	Lorong 	Toa Payoh 	1 	4.0
+Lorong 40 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 41 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 42 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 5 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 5 Realty Park 	Park 	Lorong Realty 	0 	6.0
+Lorong 5 Toa Payoh 	Lorong 	Toa Payoh 	1 	4.0
+Lorong 6 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 6 Realty Park 	Park 	Lorong Realty 	0 	6.0
+Lorong 6 Toa Payoh 	Lorong 	Toa Payoh 	1 	4.0
+Lorong 7 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 7 Realty Park 	Park 	Lorong Realty 	0 	6.0
+Lorong 7 Toa Payoh 	Lorong 	Toa Payoh 	1 	4.0
+Lorong 8 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong 8 Toa Payoh 	Lorong 	Toa Payoh 	1 	4.0
+Lorong 8A Toa Payoh 	Lorong 	Toa Payoh 	1 	4.0
+Lorong 9 Geylang 	Lorong 	Geylang 	1 	7.0
+Lorong Abu Talib 	Lorong 	Abu Talib 	1 	4.0
+Lorong Ah Soo 	Lorong 	Ah Soo 	1 	2.5
+Lorong Ah Thia 	Lorong 	Ah Thia 	1 	3.0
+Lorong Ampas 	Lorong 	Ampas 	1 	5.0
+Lorong Asrama 	Lorong 	Asrama 	1 	6.0
+Lorong Ayam Hutan 	Lorong 	Ayam Hutan 	1 	4.5
+Lorong Ayam Katek 	Lorong 	Ayam Katek 	1 	4.5
+Lorong Bachok 	Lorong 	Bachok 	1 	6.0
+Lorong Bakar Batu 	Lorong 	Bakar Batu 	1 	4.5
+Lorong Baling 	Lorong 	Baling 	1 	6.0
+Lorong Bandang 	Lorong 	Bandang 	1 	7.0
+Lorong Batawi 	Lorong 	Batawi 	1 	6.0
+Lorong Bekukong 	Lorong 	Bekukong 	1 	8.0
+Lorong Bengkok 	Lorong 	Bengkok 	1 	7.0
+Lorong Biawak 	Lorong 	Biawak 	1 	6.0
+Lorong Buang Kok 	Lorong 	Buang Kok 	1 	4.0
+Lorong Bunga 	Lorong 	Bunga 	1 	5.0
+Lorong Chamar 	Lorong 	Chamar 	1 	6.0
+Lorong Chencharu 	Lorong 	Chencharu 	1 	9.0
+Lorong Chengai 	Lorong 	Chengai 	1 	7.0
+Lorong Chuan 	Lorong 	Chuan 	1 	5.0
+Lorong Chuntum 	Lorong 	Chuntum 	1 	7.0
+Lorong Danau 	Lorong 	Danau 	1 	5.0
+Lorong Dangai 	Lorong 	Dangai 	1 	6.0
+Lorong G Telok Kurau 	Lorong 	Telok Kurau 	1 	5.0
+Lorong Gambas 	Lorong 	Gambas 	1 	6.0
+Lorong Gambir 	Lorong 	Gambir 	1 	6.0
+Lorong Gimbul 	Lorong 	Gimbul 	1 	6.0
+Lorong H Telok Kurau 	Lorong 	Telok Kurau 	1 	5.0
+Lorong Halus 	Lorong 	Halus 	1 	5.0
+Lorong Halwa 	Lorong 	Halwa 	1 	5.0
+Lorong Handalan 	Lorong 	Handalan 	1 	8.0
+Lorong How Sun 	Lorong 	How Sun 	1 	3.0
+Lorong J Telok Kurau 	Lorong 	Telok Kurau 	1 	5.0
+Lorong K Telok Kurau 	Lorong 	Telok Kurau 	1 	5.0
+Lorong Kabong 	Lorong 	Kabong 	1 	6.0
+Lorong Kebasi 	Lorong 	Kebasi 	1 	6.0
+Lorong Kembagan 	Lorong 	Kembagan 	1 	8.0
+Lorong Kembang 	Lorong 	Kembang 	1 	7.0
+Lorong Kemunchup 	Lorong 	Kemunchup 	1 	9.0
+Lorong Kerepek 	Lorong 	Kerepek 	1 	7.0
+Lorong Kesudian 	Lorong 	Kesudian 	1 	8.0
+Lorong Kesum 	Lorong 	Kesum 	1 	5.0
+Lorong Kilat 	Lorong 	Kilat 	1 	5.0
+Lorong Kismis 	Lorong 	Kismis 	1 	6.0
+Lorong L Telok Kurau 	Lorong 	Telok Kurau 	1 	5.0
+Lorong Lada Hitam 	Lorong 	Lada Hitam 	1 	4.5
+Lorong Lada Merah 	Lorong 	Lada Merah 	1 	4.5
+Lorong Lada Pati 	Lorong 	Lada Pati 	1 	4.0
+Lorong Lew Lian 	Lorong 	Lew Lian 	1 	3.5
+Lorong Limau 	Lorong 	Limau 	1 	5.0
+Lorong Liput 	Lorong 	Liput 	1 	5.0
+Lorong Low Koon 	Lorong 	Low Koon 	1 	3.5
+Lorong M Telok Kurau 	Lorong 	Telok Kurau 	1 	5.0
+Lorong Malai 	Lorong 	Malai 	1 	5.0
+Lorong Mambong 	Lorong 	Mambong 	1 	7.0
+Lorong Marican 	Lorong 	Marican 	1 	7.0
+Lorong Marzuki 	Lorong 	Marzuki 	1 	7.0
+Lorong Mega 	Lorong 	Mega 	1 	4.0
+Lorong Melayu 	Lorong 	Melayu 	1 	6.0
+Lorong Melukut 	Lorong 	Melukut 	1 	7.0
+Lorong Mydin 	Lorong 	Mydin 	1 	5.0
+Lorong N Telok Kurau 	Lorong 	Telok Kurau 	1 	5.0
+Lorong Nangka 	Lorong 	Nangka 	1 	6.0
+Lorong Napiri 	Lorong 	Napiri 	1 	6.0
+Lorong Ong Lye 	Lorong 	Ong Lye 	1 	3.0
+Lorong Panchar 	Lorong 	Panchar 	1 	7.0
+Lorong Pasu 	Lorong 	Pasu 	1 	4.0
+Lorong Paya Lebar 	Lorong 	Paya Lebar 	1 	4.5
+Lorong Payah 	Lorong 	Payah 	1 	5.0
+Lorong Penchalak 	Lorong 	Penchalak 	1 	9.0
+Lorong Pendek 	Lorong 	Pendek 	1 	6.0
+Lorong Pisang Asam 	Lorong 	Pisang Asam 	1 	5.0
+Lorong Pisang Batu 	Lorong 	Pisang Batu 	1 	5.0
+Lorong Pisang Emas 	Lorong 	Pisang Emas 	1 	5.0
+Lorong Pisang Hijau 	Lorong 	Pisang Hijau 	1 	5.5
+Lorong Pisang Raja 	Lorong 	Pisang Raja 	1 	5.0
+Lorong Pisang Udang 	Lorong 	Pisang Udang 	1 	5.5
+Lorong Puntong 	Lorong 	Puntong 	1 	7.0
+Lorong Rusuk 	Lorong 	Rusuk 	1 	5.0
+Lorong Sahad 	Lorong 	Sahad 	1 	5.0
+Lorong Salleh 	Lorong 	Salleh 	1 	6.0
+Lorong Samak 	Lorong 	Samak 	1 	5.0
+Lorong Sari 	Lorong 	Sari 	1 	4.0
+Lorong Sarina 	Lorong 	Sarina 	1 	6.0
+Lorong Selangat 	Lorong 	Selangat 	1 	8.0
+Lorong Semangka 	Lorong 	Semangka 	1 	8.0
+Lorong Serambi 	Lorong 	Serambi 	1 	7.0
+Lorong Sesuai 	Lorong 	Sesuai 	1 	6.0
+Lorong Siglap 	Lorong 	Siglap 	1 	6.0
+Lorong Sinaran 	Lorong 	Sinaran 	1 	7.0
+Lorong Sireh Pinang 	Lorong 	Sireh Pinang 	1 	5.5
+Lorong Stangee 	Lorong 	Stangee 	1 	7.0
+Lorong Tahar 	Lorong 	Tahar 	1 	5.0
+Lorong Tai Seng 	Lorong 	Tai Seng 	1 	3.5
+Lorong Tanggam 	Lorong 	Tanggam 	1 	7.0
+Lorong Tawas 	Lorong 	Tawas 	1 	5.0
+Lorong Telok 	Lorong 	Telok 	1 	5.0
+Lorong Temechut 	Lorong 	Temechut 	1 	8.0
+Lorong Terigu 	Lorong 	Terigu 	1 	6.0
+Lorong Tongkol 	Lorong 	Tongkol 	1 	7.0
+Lorong Tukang Dua 	Lorong 	Tukang Dua 	1 	4.5
+Lorong Tukang Empat 	Lorong 	Tukang Empat 	1 	5.5
+Lorong Tukang Lima 	Lorong 	Tukang Lima 	1 	5.0
+Lorong Tukang Satu 	Lorong 	Tukang Satu 	1 	5.0
+Lorong Tukang Tiga 	Lorong 	Tukang Tiga 	1 	5.0
+Lorong Tukol 	Lorong 	Tukol 	1 	5.0
+Lothian Terrace 	Terrace 	Lothian 	0 	7.0
+Lotus Avenue 	Avenue 	Lotus 	0 	5.0
+Lower Delta Road 	Road 	Lower Delta 	0 	5.0
+Lower Kent Ridge Road 	Ridge Road 	Lower Kent 	0 	4.5
+Lower Ring Road 	Ring Road 	Lower 	0 	5.0
+Lowland Road 	Road 	Lowland 	0 	7.0
+Loyang Avenue 	Avenue 	Loyang 	0 	6.0
+Loyang Besar Close 	Close 	Loyang Besar 	0 	5.5
+Loyang Crescent 	Crescent 	Loyang 	0 	6.0
+Loyang Drive 	Drive 	Loyang 	0 	6.0
+Loyang Lane 	Lane 	Loyang 	0 	6.0
+Loyang Link 	Link 	Loyang 	0 	6.0
+Loyang Place 	Place 	Loyang 	0 	6.0
+Loyang Rise 	Rise 	Loyang 	0 	6.0
+Loyang Street 	Street 	Loyang 	0 	6.0
+Loyang View 	View 	Loyang 	0 	6.0
+Loyang Walk 	Walk 	Loyang 	0 	6.0
+Loyang Way 	Way 	Loyang 	0 	6.0
+Loyang Way 1 	Way 	Loyang 	0 	6.0
+Loyang Way 2 	Way 	Loyang 	0 	6.0
+Loyang Way 4 	Way 	Loyang 	0 	6.0
+Loyang Way 6 	Way 	Loyang 	0 	6.0
+Lucky Crescent 	Crescent 	Lucky 	0 	5.0
+Lucky Gardens 	Gardens 	Lucky 	0 	5.0
+Lucky Heights 	Heights 	Lucky 	0 	5.0
+Lucky Rise 	Rise 	Lucky 	0 	5.0
+Lucky View 	View 	Lucky 	0 	5.0
+Ludlow Place 	Place 	Ludlow 	0 	6.0
+Lutheran Road 	Road 	Lutheran 	0 	8.0
+Lyndhurst Road 	Road 	Lyndhurst 	0 	9.0
+Lynwood Grove 	Grove 	Lynwood 	0 	7.0
+MacAlister Road 	Road 	MacAlister 	0 	10.0
+MacKenzie Road 	Road 	MacKenzie 	0 	9.0
+MacKerrow Road 	Road 	MacKerrow 	0 	9.0
+MacPherson Lane 	Lane 	MacPherson 	0 	10.0
+MacPherson Road 	Road 	MacPherson 	0 	10.0
+MacTaggart Road 	Road 	MacTaggart 	0 	10.0
+Madras Street 	Street 	Madras 	0 	6.0
+Magazine Road 	Road 	Magazine 	0 	8.0
+Maida Vale 	Vale 	Maida 	0 	5.0
+Maidstone Road 	Road 	Maidstone 	0 	9.0
+Main Gate Road 	Gate Road 	Main 	0 	4.0
+Maju Avenue 	Avenue 	Maju 	0 	4.0
+Maju Drive 	Drive 	Maju 	0 	4.0
+Makepeace Road 	Road 	Makepeace 	0 	9.0
+Makeway Avenue 	Avenue 	Makeway 	0 	7.0
+Malabar Street 	Street 	Malabar 	0 	7.0
+Malacca Street 	Street 	Malacca 	0 	7.0
+Malan Road 	Road 	Malan 	0 	5.0
+Malan Street 	Street 	Malan 	0 	5.0
+Malcolm Park 	Park 	Malcolm 	0 	7.0
+Malcolm Road 	Road 	Malcolm 	0 	7.0
+Malta Crescent 	Crescent 	Malta 	0 	5.0
+Mandai Avenue 	Avenue 	Mandai 	0 	6.0
+Mandai Estate 	Estate 	Mandai 	0 	6.0
+Mandai Lake Road 	Road 	Mandai Lake 	0 	5.0
+Mandai Lake Road Track 15 	Road Track 	Mandai Lake 	0 	5.0
+Mandai Lake Road Track 9 	Road Track 	Mandai Lake 	0 	5.0
+Mandai Road 	Road 	Mandai 	0 	6.0
+Mandai Road Track 16 	Road Track 	Mandai 	0 	6.0
+Mandai Road Track 3 	Road Track 	Mandai 	0 	6.0
+Mandai Road Track 7 	Road Track 	Mandai 	0 	6.0
+Mandalay Road 	Road 	Mandalay 	0 	8.0
+Mangis Road 	Road 	Mangis 	0 	6.0
+Manila Street 	Street 	Manila 	0 	6.0
+Manston Road 	Road 	Manston 	0 	7.0
+Maple Avenue 	Avenue 	Maple 	0 	5.0
+Maple Lane 	Lane 	Maple 	0 	5.0
+Mar Thoma Road 	Road 	Mar Thoma 	0 	4.0
+Marang Road 	Road 	Marang 	0 	6.0
+Maranta Avenue 	Avenue 	Maranta 	0 	7.0
+Margaret Drive 	Drive 	Margaret 	0 	8.0
+Margate Road 	Road 	Margate 	0 	7.0
+Margoliouth Road 	Road 	Margoliouth 	0 	11.0
+Maria Avenue 	Avenue 	Maria 	0 	5.0
+Mariam Close 	Close 	Mariam 	0 	6.0
+Mariam Walk 	Walk 	Mariam 	0 	6.0
+Mariam Way 	Way 	Mariam 	0 	6.0
+Marigold Drive 	Drive 	Marigold 	0 	8.0
+Marina Bay Promenade 	Promenade 	Marina Bay 	0 	4.5
+Marina Boulevard 	Boulevard 	Marina 	0 	6.0
+Marina Coastal Drive 	Drive 	Marina Coastal 	0 	6.5
+Marina Green 	Green 	Marina 	0 	6.0
+Marina Grove 	Grove 	Marina 	0 	6.0
+Marina Mall 	Mall 	Marina 	0 	6.0
+Marina Park 	Park 	Marina 	0 	6.0
+Marina Place 	Place 	Marina 	0 	6.0
+Marina Station Road 	Road 	Marina Station 	0 	6.5
+Marina Street 	Street 	Marina 	0 	6.0
+Marina Way 	Way 	Marina 	0 	6.0
+Marine Crescent 	Crescent 	Marine 	0 	6.0
+Marine Drive 	Drive 	Marine 	0 	6.0
+Marine Parade Central 	 	Marine Parade 	0 	6.0
+Marine Parade Road 	Road 	Marine Parade 	0 	6.0
+Marine Terrace 	Terrace 	Marine 	0 	6.0
+Marine Vista 	Vista 	Marine 	0 	6.0
+Maritime Avenue 	Avenue 	Maritime 	0 	8.0
+Maritime Square 	Square 	Maritime 	0 	8.0
+Market Street 	Street 	Market 	0 	6.0
+Marlene Avenue 	Avenue 	Marlene 	0 	7.0
+Marne Road 	Road 	Marne 	0 	5.0
+Marshall Lane 	Lane 	Marshall 	0 	8.0
+Marshall Road 	Road 	Marshall 	0 	8.0
+Marsiling Crescent 	Crescent 	Marsiling 	0 	9.0
+Marsiling Drive 	Drive 	Marsiling 	0 	9.0
+Marsiling Industrial Estate Road 1 	Industrial Estate Road 	Marsiling 	0 	9.0
+Marsiling Industrial Estate Road 10 	Industrial Estate Road 	Marsiling 	0 	9.0
+Marsiling Industrial Estate Road 2 	Industrial Estate Road 	Marsiling 	0 	9.0
+Marsiling Industrial Estate Road 3 	Industrial Estate Road 	Marsiling 	0 	9.0
+Marsiling Industrial Estate Road 4 	Industrial Estate Road 	Marsiling 	0 	9.0
+Marsiling Industrial Estate Road 5 	Industrial Estate Road 	Marsiling 	0 	9.0
+Marsiling Industrial Estate Road 6 	Industrial Estate Road 	Marsiling 	0 	9.0
+Marsiling Industrial Estate Road 7 	Industrial Estate Road 	Marsiling 	0 	9.0
+Marsiling Industrial Estate Road 8 	Industrial Estate Road 	Marsiling 	0 	9.0
+Marsiling Industrial Estate Road 9 	Industrial Estate Road 	Marsiling 	0 	9.0
+Marsiling Lane 	Lane 	Marsiling 	0 	9.0
+Marsiling Rise 	Rise 	Marsiling 	0 	9.0
+Marsiling Road 	Road 	Marsiling 	0 	9.0
+Martaban Road 	Road 	Martaban 	0 	8.0
+Martia Road 	Road 	Martia 	0 	6.0
+Martin Road 	Road 	Martin 	0 	6.0
+Martlesham Road 	Road 	Martlesham 	0 	10.0
+Maryland Drive 	Drive 	Maryland 	0 	8.0
+Marymount Lane 	Lane 	Marymount 	0 	9.0
+Marymount Road 	Road 	Marymount 	0 	9.0
+Marymount Terrace 	Terrace 	Marymount 	0 	9.0
+Mata Road 	Road 	Mata 	0 	4.0
+Matlock Rise 	Rise 	Matlock 	0 	7.0
+Mattar Road 	Road 	Mattar 	0 	6.0
+Maude Road 	Road 	Maude 	0 	5.0
+Maxwell Link 	Link 	Maxwell 	0 	7.0
+Maxwell Road 	Road 	Maxwell 	0 	7.0
+May Road 	Road 	May 	0 	3.0
+Mayfield Avenue 	Avenue 	Mayfield 	0 	8.0
+Mayflower Avenue 	Avenue 	Mayflower 	0 	9.0
+Mayflower Crescent 	Crescent 	Mayflower 	0 	9.0
+Mayflower Drive 	Drive 	Mayflower 	0 	9.0
+Mayflower Lane 	Lane 	Mayflower 	0 	9.0
+Mayflower Place 	Place 	Mayflower 	0 	9.0
+Mayflower Rise 	Rise 	Mayflower 	0 	9.0
+Mayflower Road 	Road 	Mayflower 	0 	9.0
+Mayflower Terrace 	Terrace 	Mayflower 	0 	9.0
+Mayflower Way 	Way 	Mayflower 	0 	9.0
+Mayne Road 	Road 	Mayne 	0 	5.0
+Mayo Street 	Street 	Mayo 	0 	4.0
+McCallum Street 	Street 	McCallum 	0 	8.0
+McNair Road 	Road 	McNair 	0 	6.0
+Medical Drive 	Drive 	Medical 	0 	7.0
+Medway Drive 	Drive 	Medway 	0 	6.0
+Mei Chin Road 	Road 	Mei Chin 	0 	3.5
+Mei Hwan Crescent 	Crescent 	Mei Hwan 	0 	3.5
+Mei Hwan Drive 	Drive 	Mei Hwan 	0 	3.5
+Mei Hwan Road 	Road 	Mei Hwan 	0 	3.5
+Mei Hwan View 	View 	Mei Hwan 	0 	3.5
+Melrose Drive 	Drive 	Melrose 	0 	7.0
+Meng Suan Road 	Road 	Meng Suan 	0 	4.0
+Meragi Close 	Close 	Meragi 	0 	6.0
+Meragi Road 	Road 	Meragi 	0 	6.0
+Meragi Terrace 	Terrace 	Meragi 	0 	6.0
+Merbau Road 	Road 	Merbau 	0 	6.0
+Merbok Crescent 	Crescent 	Merbok 	0 	6.0
+Merchant Road 	Road 	Merchant 	0 	8.0
+Mergui Road 	Road 	Mergui 	0 	6.0
+Merino Crescent 	Crescent 	Merino 	0 	6.0
+Merpati Road 	Road 	Merpati 	0 	7.0
+Merryn Avenue 	Avenue 	Merryn 	0 	6.0
+Merryn Close 	Close 	Merryn 	0 	6.0
+Merryn Drive 	Drive 	Merryn 	0 	6.0
+Merryn Road 	Road 	Merryn 	0 	6.0
+Merryn Terrace 	Terrace 	Merryn 	0 	6.0
+Metropole Drive 	Drive 	Metropole 	0 	9.0
+Meyappa Chettiar Road 	Road 	Meyappa Chettiar 	0 	7.5
+Meyer Place 	Place 	Meyer 	0 	5.0
+Meyer Road 	Road 	Meyer 	0 	5.0
+Middle Road 	Road 	Middle 	0 	6.0
+Middlesex Road 	Road 	Middlesex 	0 	9.0
+Miller Street 	Street 	Miller 	0 	6.0
+Mimosa Crescent 	Crescent 	Mimosa 	0 	6.0
+Mimosa Drive 	Drive 	Mimosa 	0 	6.0
+Mimosa Place 	Place 	Mimosa 	0 	6.0
+Mimosa Road 	Road 	Mimosa 	0 	6.0
+Mimosa Terrace 	Terrace 	Mimosa 	0 	6.0
+Mimosa Vale 	Vale 	Mimosa 	0 	6.0
+Mimosa View 	View 	Mimosa 	0 	6.0
+Mimosa Walk 	Walk 	Mimosa 	0 	6.0
+Minbu Road 	Road 	Minbu 	0 	5.0
+Minden Road 	Road 	Minden 	0 	6.0
+Ming Teck Park 	Park 	Ming Teck 	0 	4.0
+Minto Road 	Road 	Minto 	0 	5.0
+Mistri Road 	Road 	Mistri 	0 	6.0
+Moh Guan Terrace 	Terrace 	Moh Guan 	0 	3.5
+Mohamad Ali Lane 	Lane 	Mohamad Ali 	0 	5.0
+Mohamad Sultan Road 	Road 	Mohamad Sultan 	0 	6.5
+Monk's Hill Road 	Hill Road 	Monk's 	0 	6.0
+Monk's Hill Terrace 	Hill Terrace 	Monk's 	0 	6.0
+Montreal Drive 	Drive 	Montreal 	0 	8.0
+Montreal Road 	Road 	Montreal 	0 	8.0
+Moon Crescent 	Crescent 	Moon 	0 	4.0
+Moonbeam Drive 	Drive 	Moonbeam 	0 	8.0
+Moonbeam Terrace 	Terrace 	Moonbeam 	0 	8.0
+Moonbeam View 	View 	Moonbeam 	0 	8.0
+Moonbeam Walk 	Walk 	Moonbeam 	0 	8.0
+Moonstone Lane 	Lane 	Moonstone 	0 	9.0
+Moreton Close 	Close 	Moreton 	0 	7.0
+Mornington Crescent 	Crescent 	Mornington 	0 	10.0
+Morley Road 	Road 	Morley 	0 	6.0
+Morse Road 	Road 	Morse 	0 	5.0
+Mosque Street 	Street 	Mosque 	0 	6.0
+Moulmein Rise 	Rise 	Moulmein 	0 	8.0
+Moulmein Road 	Road 	Moulmein 	0 	8.0
+Mount Echo Park 	Park 	Mount Echo 	0 	4.5
+Mount Elizabeth 	 	Mount Elizabeth 	0 	7.0
+Mount Elizabeth Link 	Link 	Mount Elizabeth 	0 	7.0
+Mount Emily Road 	Road 	Mount Emily 	0 	5.0
+Mount Faber Loop 	Loop 	Mount Faber 	0 	5.0
+Mount Faber Road 	Road 	Mount Faber 	0 	5.0
+Mount Pleasant Drive 	Drive 	Mount Pleasant 	0 	6.5
+Mount Pleasant Road 	Road 	Mount Pleasant 	0 	6.5
+Mount Rosie Road 	Road 	Mount Rosie 	0 	5.0
+Mount Rosie Terrace 	Terrace 	Mount Rosie 	0 	5.0
+Mount Sinai Avenue 	Avenue 	Mount Sinai 	0 	5.0
+Mount Sinai Crescent 	Crescent 	Mount Sinai 	0 	5.0
+Mount Sinai Drive 	Drive 	Mount Sinai 	0 	5.0
+Mount Sinai Lane 	Lane 	Mount Sinai 	0 	5.0
+Mount Sinai Plain 	Plain 	Mount Sinai 	0 	5.0
+Mount Sinai Rise 	Rise 	Mount Sinai 	0 	5.0
+Mount Sinai Road 	Road 	Mount Sinai 	0 	5.0
+Mount Sinai View 	View 	Mount Sinai 	0 	5.0
+Mount Sinai Walk 	Walk 	Mount Sinai 	0 	5.0
+Mount Sophia 	 	Mount Sophia 	0 	5.5
+Mount Vernon Road 	Road 	Mount Vernon 	0 	5.5
+Mountbatten Road 	Road 	Mountbatten 	0 	11.0
+Mugliston Gardens 	Gardens 	Mugliston 	0 	9.0
+Mugliston Park 	Park 	Mugliston 	0 	9.0
+Mugliston Road 	Road 	Mugliston 	0 	9.0
+Mugliston Walk 	Walk 	Mugliston 	0 	9.0
+Mulberry Avenue 	Avenue 	Mulberry 	0 	8.0
+Munshi Abdullah Avenue 	Avenue 	Munshi Abdullah 	0 	7.0
+Munshi Abdullah Walk 	Walk 	Munshi Abdullah 	0 	7.0
+Murai Farmway 	Farmway 	Murai 	0 	5.0
+Murray Street 	Street 	Murray 	0 	6.0
+Murray Terrace 	Terrace 	Murray 	0 	6.0
+Muscat Street 	Street 	Muscat 	0 	6.0
+Muswell Hill 	Hill 	Muswell 	0 	7.0
+Muthuraman Chetty Road 	Road 	Muthuraman Chetty 	0 	8.0
+Nallur Road 	Road 	Nallur 	0 	6.0
+Namly Avenue 	Avenue 	Namly 	0 	5.0
+Namly Close 	Close 	Namly 	0 	5.0
+Namly Crescent 	Crescent 	Namly 	0 	5.0
+Namly Drive 	Drive 	Namly 	0 	5.0
+Namly Garden 	Garden 	Namly 	0 	5.0
+Namly Grove 	Grove 	Namly 	0 	5.0
+Namly Hill 	Hill 	Namly 	0 	5.0
+Namly Place 	Place 	Namly 	0 	5.0
+Namly Rise 	Rise 	Namly 	0 	5.0
+Namly View 	View 	Namly 	0 	5.0
+Nankin Street 	Street 	Nankin 	0 	6.0
+Nanson Drive 	Drive 	Nanson 	0 	6.0
+Nanson Road 	Road 	Nanson 	0 	6.0
+Nanyang Avenue 	Avenue 	Nanyang 	0 	7.0
+Nanyang Circle 	Circle 	Nanyang 	0 	7.0
+Nanyang Crescent 	Crescent 	Nanyang 	0 	7.0
+Nanyang Drive 	Drive 	Nanyang 	0 	7.0
+Nanyang Green 	Green 	Nanyang 	0 	7.0
+Nanyang Hill 	Hill 	Nanyang 	0 	7.0
+Nanyang Link 	Link 	Nanyang 	0 	7.0
+Nanyang Terrace 	Terrace 	Nanyang 	0 	7.0
+Nanyang Valley 	Valley 	Nanyang 	0 	7.0
+Nanyang View 	View 	Nanyang 	0 	7.0
+Nanyang Walk 	Walk 	Nanyang 	0 	7.0
+Napier Road 	Road 	Napier 	0 	6.0
+Narayanan Chetty Road 	Road 	Narayanan Chetty 	0 	7.5
+Narooma Road 	Road 	Narooma 	0 	7.0
+Nassim Hill 	Hill 	Nassim 	0 	6.0
+Nassim Road 	Road 	Nassim 	0 	6.0
+Nathan Road 	Road 	Nathan 	0 	6.0
+Nee Soon Road 	Road 	Nee Soon 	0 	3.5
+Neil Road 	Road 	Neil 	0 	4.0
+Nemesu Avenue 	Avenue 	Nemesu 	0 	6.0
+Neo Pee Teck Lane 	Lane 	Neo Pee Teck 	0 	3.33333333333
+Neo Tiew Crescent 	Crescent 	Neo Tiew 	0 	3.5
+Neo Tiew Lane 	Lane 	Neo Tiew 	0 	3.5
+Neo Tiew Lane 1 	Lane 	Neo Tiew 	0 	3.5
+Neo Tiew Lane 2 	Lane 	Neo Tiew 	0 	3.5
+Neo Tiew Road 	Road 	Neo Tiew 	0 	3.5
+Neram Crescent 	Crescent 	Neram 	0 	5.0
+Neram Road 	Road 	Neram 	0 	5.0
+Netheravon Road 	Road 	Netheravon 	0 	10.0
+New Bridge Road 	Bridge Road 	New 	0 	3.0
+New Bugis Street 	Street 	New Bugis 	0 	4.0
+New Industrial Road 	Industrial Road 	New 	0 	3.0
+New Loyang Link 	Link 	New Loyang 	0 	4.5
+New Market Road 	Road 	New Market 	0 	4.5
+New Upper Changi Road 	Road 	New Changi 	0 	4.5
+Newton Circus 	Circus 	Newton 	0 	6.0
+Newton Road 	Road 	Newton 	0 	6.0
+Neythal Road 	Road 	Neythal 	0 	7.0
+Nicoll Drive 	Drive 	Nicoll 	0 	6.0
+Nicoll Highway 	Highway 	Nicoll 	0 	6.0
+Nile Road 	Road 	Nile 	0 	4.0
+Nim Crescent 	Crescent 	Nim 	0 	3.0
+Nim Drive 	Drive 	Nim 	0 	3.0
+Nim Green 	Green 	Nim 	0 	3.0
+Nim Road 	Road 	Nim 	0 	3.0
+Niven Road 	Road 	Niven 	0 	5.0
+Noordin Lane 	Lane 	Noordin 	0 	7.0
+Norfolk Road 	Road 	Norfolk 	0 	7.0
+Norma Terrace 	Terrace 	Norma 	0 	5.0
+Normanton Park 	Park 	Normanton 	0 	9.0
+Norris Road 	Road 	Norris 	0 	6.0
+North Boat Quay 	Quay 	Boat 	0 	4.0
+North Bridge Road 	Road 	Bridge 	0 	6.0
+North Buona Vista Road 	Vista Road 	Buona 	0 	5.0
+North Canal Road 	Road 	Canal 	0 	5.0
+North Perimeter Road 	Road 	Perimeter 	0 	9.0
+North Road 	 	Road 	0 	4.0
+North Woodlands Drive 	Drive 	Woodlands 	0 	9.0
+North Woodlands Link 	Link 	Woodlands 	0 	9.0
+North Woodlands Way 	Way 	Woodlands 	0 	9.0
+Northolt Road 	Road 	Northolt 	0 	8.0
+Northumberland Road 	Road 	Northumberland 	0 	14.0
+Northwood Drive 	Drive 	Northwood 	0 	9.0
+Northwood Lane 	Lane 	Northwood 	0 	9.0
+Northwood Walk 	Walk 	Northwood 	0 	9.0
+Novena Rise 	Rise 	Novena 	0 	6.0
+Novena Terrace 	Terrace 	Novena 	0 	6.0
+Nutmeg Road 	Road 	Nutmeg 	0 	6.0
+Oak Avenue 	Avenue 	Oak 	0 	3.0
+Oakwood Grove 	Grove 	Oakwood 	0 	7.0
+Ocean Drive 	Drive 	Ocean 	0 	5.0
+Ocean Way 	Way 	Ocean 	0 	5.0
+Oei Tiong Ham Park 	Park 	Oei Tiong Ham 	0 	3.66666666667
+Office Gate Road 	Gate Road 	Office 	0 	6.0
+Office Ring Road 	Ring Road 	Office 	0 	6.0
+Office Road 	Road 	Office 	0 	6.0
+Old Airport Road 	Road 	Airport 	0 	7.0
+Old Birdcage Walk 	Walk 	Birdcage 	0 	8.0
+Old Jurong Road 	Road 	Jurong 	0 	6.0
+Old Lim Chu Kang Road 	Road 	Lim Chu Kang 	0 	3.33333333333
+Old Middle Road 	Road 	Middle 	0 	6.0
+Old Nelson Road 	Road 	Nelson 	0 	6.0
+Old Pier Road 	Road 	Pier 	0 	4.0
+Old Sarum Road 	Road 	Sarum 	0 	5.0
+Old Tampines Road 	Road 	Tampines 	0 	8.0
+Old Toh Tuck Road 	Road 	Toh Tuck 	0 	3.5
+Old Upper Thomson Road 	Road 	Thomson 	0 	7.0
+Old Yio Chu Kang Road 	Road 	Yio Chu Kang 	0 	3.33333333333
+Oldham Lane 	Lane 	Oldham 	0 	6.0
+Olive Road 	Road 	Olive 	0 	5.0
+Omar Khayyam Avenue 	Avenue 	Omar Khayyam 	0 	5.5
+Onan Road 	Road 	Onan 	0 	4.0
+One Tree Hill 	Hill 	One Tree 	0 	3.5
+Onraet Road 	Road 	Onraet 	0 	6.0
+Ontario Avenue 	Avenue 	Ontario 	0 	7.0
+Opal Crescent 	Crescent 	Opal 	0 	4.0
+Ophir Road 	Road 	Ophir 	0 	5.0
+Orange Grove Road 	Grove Road 	Orange 	0 	6.0
+Orchard Boulevard 	Boulevard 	Orchard 	0 	7.0
+Orchard Link 	Link 	Orchard 	0 	7.0
+Orchard Road 	Road 	Orchard 	0 	7.0
+Orchard Spring Lane 	Lane 	Orchard Spring 	0 	6.5
+Orchard Turn 	Turn 	Orchard 	0 	7.0
+Orchid Club Road 	Road 	Orchid Club 	0 	5.0
+Orchid Drive 	Drive 	Orchid 	0 	6.0
+Ord Road 	Road 	Ord 	0 	3.0
+Oriole Crescent 	Crescent 	Oriole 	0 	6.0
+Ottawa Road 	Road 	Ottawa 	0 	6.0
+Outram Hill 	Hill 	Outram 	0 	6.0
+Outram Park 	Park 	Outram 	0 	6.0
+Outram Road 	Road 	Outram 	0 	6.0
+Owen Road 	Road 	Owen 	0 	4.0
+Oxford Road 	Road 	Oxford 	0 	6.0
+Oxford Street 	Street 	Oxford 	0 	6.0
+Oxley Garden 	Garden 	Oxley 	0 	5.0
+Oxley Rise 	Rise 	Oxley 	0 	5.0
+Oxley Road 	Road 	Oxley 	0 	5.0
+Oxley Walk 	Walk 	Oxley 	0 	5.0
+Padang Chancery 	 	Padang Chancery 	0 	7.0
+Padang Jeringau 	 	Padang Jeringau 	0 	7.0
+Pagoda Street 	Street 	Pagoda 	0 	6.0
+Pahang Street 	Street 	Pahang 	0 	6.0
+Pakistan Road 	Road 	Pakistan 	0 	8.0
+Palm Avenue 	Avenue 	Palm 	0 	4.0
+Palm Drive 	Drive 	Palm 	0 	4.0
+Palm Grove Avenue 	Grove Avenue 	Palm 	0 	4.0
+Palm Road 	Road 	Palm 	0 	4.0
+Palm Valley Road 	Valley Road 	Palm 	0 	4.0
+Palmer Road 	Road 	Palmer 	0 	6.0
+Pandan Avenue 	Avenue 	Pandan 	0 	6.0
+Pandan Crescent 	Crescent 	Pandan 	0 	6.0
+Pandan Gardens 	Gardens 	Pandan 	0 	6.0
+Pandan Loop 	Loop 	Pandan 	0 	6.0
+Pandan Road 	Road 	Pandan 	0 	6.0
+Pandan Valley 	Valley 	Pandan 	0 	6.0
+Pang Seng Road 	Road 	Pang Seng 	0 	4.0
+Paradise Island 	Island 	Paradise 	0 	8.0
+Paranakan Place 	Place 	Paranakan 	0 	9.0
+Parbury Avenue 	Avenue 	Parbury 	0 	7.0
+Park Crescent 	Crescent 	Park 	0 	4.0
+Park Lane 	Lane 	Park 	0 	4.0
+Park Road 	Road 	Park 	0 	4.0
+Park Vale 	Vale 	Park 	0 	4.0
+Park Villas Green 	Green 	Park Villas 	0 	5.0
+Park Villas Rise 	Rise 	Park Villas 	0 	5.0
+Park Villas Terrace 	Terrace 	Park Villas 	0 	5.0
+Parkstone Road 	Road 	Parkstone 	0 	9.0
+Parliament Lane 	Lane 	Parliament 	0 	10.0
+Parry Avenue 	Avenue 	Parry 	0 	5.0
+Parry Road 	Road 	Parry 	0 	5.0
+Parry Terrace 	Terrace 	Parry 	0 	5.0
+Parry View 	View 	Parry 	0 	5.0
+Parry Walk 	Walk 	Parry 	0 	5.0
+Parsi Road 	Road 	Parsi 	0 	5.0
+Pasar Lane 	Lane 	Pasar 	0 	5.0
+Pasir Laba Road 	Road 	Pasir Laba 	0 	4.5
+Pasir Panjang Close 	Close 	Pasir Panjang 	0 	6.0
+Pasir Panjang Drive 	Drive 	Pasir Panjang 	0 	6.0
+Pasir Panjang Hill 	Hill 	Pasir Panjang 	0 	6.0
+Pasir Panjang RoadView 	 	Pasir Panjang RoadView 	0 	6.66666666667
+Pasir Panjang Terminal Avenue 1 	Terminal Avenue 	Pasir Panjang 	0 	6.0
+Pasir Panjang Terminal Avenue 2 	Terminal Avenue 	Pasir Panjang 	0 	6.0
+Pasir Panjang Terminal Avenue 3 	Terminal Avenue 	Pasir Panjang 	0 	6.0
+Pasir Panjang Terminal Drive 1 	Terminal Drive 	Pasir Panjang 	0 	6.0
+Pasir Panjang Terminal Drive 10 	Terminal Drive 	Pasir Panjang 	0 	6.0
+Pasir Panjang Terminal Drive 11 	Terminal Drive 	Pasir Panjang 	0 	6.0
+Pasir Panjang Terminal Drive 12 	Terminal Drive 	Pasir Panjang 	0 	6.0
+Pasir Panjang Terminal Drive 14 	Terminal Drive 	Pasir Panjang 	0 	6.0
+Pasir Panjang Terminal Drive 2 	Terminal Drive 	Pasir Panjang 	0 	6.0
+Pasir Panjang Terminal Drive 3 	Terminal Drive 	Pasir Panjang 	0 	6.0
+Pasir Panjang Terminal Drive 4 	Terminal Drive 	Pasir Panjang 	0 	6.0
+Pasir Panjang Terminal Drive 5 	Terminal Drive 	Pasir Panjang 	0 	6.0
+Pasir Panjang Terminal Drive 6 	Terminal Drive 	Pasir Panjang 	0 	6.0
+Pasir Panjang Terminal Drive 7 	Terminal Drive 	Pasir Panjang 	0 	6.0
+Pasir Panjang Terminal Drive 8 	Terminal Drive 	Pasir Panjang 	0 	6.0
+Pasir Panjang Terminal Drive 9 	Terminal Drive 	Pasir Panjang 	0 	6.0
+Pasir Panjang Terminal Road A 	Terminal Road 	Pasir Panjang 	0 	6.0
+Pasir Panjang Terminal Road B 	Terminal Road 	Pasir Panjang 	0 	6.0
+Pasir Panjang Terminal Road C 	Terminal Road 	Pasir Panjang 	0 	6.0
+Pasir Panjang Terminal Road D 	Terminal Road 	Pasir Panjang 	0 	6.0
+Pasir Panjang Terminal Road E 	Terminal Road 	Pasir Panjang 	0 	6.0
+Pasir Panjang Terminal Road F 	Terminal Road 	Pasir Panjang 	0 	6.0
+Pasir Panjang Terminal Road G 	Terminal Road 	Pasir Panjang 	0 	6.0
+Pasir Panjang Terminal Road H 	Terminal Road 	Pasir Panjang 	0 	6.0
+Pasir Panjang Terminal Road J 	Terminal Road 	Pasir Panjang 	0 	6.0
+Pasir Panjang Terminal Road K 	Terminal Road 	Pasir Panjang 	0 	6.0
+Pasir Panjang Terminal Road L 	Terminal Road 	Pasir Panjang 	0 	6.0
+Pasir Ris Avenue 	Avenue 	Pasir Ris 	0 	4.0
+Pasir Ris Central 	 	Pasir Ris 	0 	4.0
+Pasir Ris Close 	Close 	Pasir Ris 	0 	4.0
+Pasir Ris Coast Ind Park 1 	Coast Ind Park 	Pasir Ris 	0 	4.0
+Pasir Ris Coast Ind Park 2 	Coast Ind Park 	Pasir Ris 	0 	4.0
+Pasir Ris Coast Ind Park 3 	Coast Ind Park 	Pasir Ris 	0 	4.0
+Pasir Ris Coast Ind Park 4 	Coast Ind Park 	Pasir Ris 	0 	4.0
+Pasir Ris Coast Ind Park 5 	Coast Ind Park 	Pasir Ris 	0 	4.0
+Pasir Ris Coast Ind Park 6 	Coast Ind Park 	Pasir Ris 	0 	4.0
+Pasir Ris Drive 1 	Drive 	Pasir Ris 	0 	4.0
+Pasir Ris Drive 10 	Drive 	Pasir Ris 	0 	4.0
+Pasir Ris Drive 12 	Drive 	Pasir Ris 	0 	4.0
+Pasir Ris Drive 2 	Drive 	Pasir Ris 	0 	4.0
+Pasir Ris Drive 3 	Drive 	Pasir Ris 	0 	4.0
+Pasir Ris Drive 4 	Drive 	Pasir Ris 	0 	4.0
+Pasir Ris Drive 6 	Drive 	Pasir Ris 	0 	4.0
+Pasir Ris Drive 8 	Drive 	Pasir Ris 	0 	4.0
+Pasir Ris Farmway 1 	Farmway 	Pasir Ris 	0 	4.0
+Pasir Ris Farmway 2 	Farmway 	Pasir Ris 	0 	4.0
+Pasir Ris Green 	Green 	Pasir Ris 	0 	4.0
+Pasir Ris Heights 	Heights 	Pasir Ris 	0 	4.0
+Pasir Ris Lane 	Lane 	Pasir Ris 	0 	4.0
+Pasir Ris Road 	Road 	Pasir Ris 	0 	4.0
+Pasir Ris Street 1 	Street 	Pasir Ris 	0 	4.0
+Pasir Ris Street 11 	Street 	Pasir Ris 	0 	4.0
+Pasir Ris Street 12 	Street 	Pasir Ris 	0 	4.0
+Pasir Ris Street 13 	Street 	Pasir Ris 	0 	4.0
+Pasir Ris Street 21 	Street 	Pasir Ris 	0 	4.0
+Pasir Ris Street 4 	Street 	Pasir Ris 	0 	4.0
+Pasir Ris Street 51 	Street 	Pasir Ris 	0 	4.0
+Pasir Ris Street 52 	Street 	Pasir Ris 	0 	4.0
+Pasir Ris Street 71 	Street 	Pasir Ris 	0 	4.0
+Pasir Ris Street 72 	Street 	Pasir Ris 	0 	4.0
+Pasir Ris Terrace 	Terrace 	Pasir Ris 	0 	4.0
+Pasir Ris View 	View 	Pasir Ris 	0 	4.0
+Pasir Ris Way 	Way 	Pasir Ris 	0 	4.0
+Paterson Hill 	Hill 	Paterson 	0 	8.0
+Paterson Road 	Road 	Paterson 	0 	8.0
+Paya Lebar Close 	Close 	Paya Lebar 	0 	4.5
+Paya Lebar Crescent 	Crescent 	Paya Lebar 	0 	4.5
+Paya Lebar Place 	Place 	Paya Lebar 	0 	4.5
+Paya Lebar Rise 	Rise 	Paya Lebar 	0 	4.5
+Paya Lebar Road 	Road 	Paya Lebar 	0 	4.5
+Paya Lebar Street 	Street 	Paya Lebar 	0 	4.5
+Paya Lebar Walk 	Walk 	Paya Lebar 	0 	4.5
+Paya Lebar Way 	Way 	Paya Lebar 	0 	4.5
+Peach Garden 	Garden 	Peach 	0 	5.0
+Peakville Avenue 	Avenue 	Peakville 	0 	9.0
+Peakville Grove 	Grove 	Peakville 	0 	9.0
+Peakville Terrace 	Terrace 	Peakville 	0 	9.0
+Peakville Walk 	Walk 	Peakville 	0 	9.0
+Pearl Bank 	Bank 	Pearl 	0 	5.0
+Pearl Island 	Island 	Pearl 	0 	5.0
+Pearl's Hill Road 	Hill Road 	Pearl's 	0 	7.0
+Pearl's Hill Terrace 	Hill Terrace 	Pearl's 	0 	7.0
+Pebble Lane 	Lane 	Pebble 	0 	6.0
+Peck Hay Road 	Road 	Peck Hay 	0 	3.5
+Peck Seah Street 	Street 	Peck Seah 	0 	4.0
+Peel Road 	Road 	Peel 	0 	4.0
+Pegu Road 	Road 	Pegu 	0 	4.0
+Pei Wah Avenue 	Avenue 	Pei Wah 	0 	3.0
+Peirce Drive 	Drive 	Peirce 	0 	6.0
+Peirce Hill 	Hill 	Peirce 	0 	6.0
+Peirce Road 	Road 	Peirce 	0 	6.0
+Pekin Street 	Street 	Pekin 	0 	5.0
+Pemimpin Drive 	Drive 	Pemimpin 	0 	8.0
+Pemimpin Place 	Place 	Pemimpin 	0 	8.0
+Pemimpin Terrace 	Terrace 	Pemimpin 	0 	8.0
+Penang Lane 	Lane 	Penang 	0 	6.0
+Penang Road 	Road 	Penang 	0 	6.0
+Pender Road 	Road 	Pender 	0 	6.0
+Pending Road 	Road 	Pending 	0 	7.0
+Peng Nguan Street 	Street 	Peng Nguan 	0 	4.5
+Penhas Road 	Road 	Penhas 	0 	6.0
+Penjuru Close 	Close 	Penjuru 	0 	7.0
+Penjuru Lane 	Lane 	Penjuru 	0 	7.0
+Penjuru Road 	Road 	Penjuru 	0 	7.0
+Pennefather Road 	Road 	Pennefather 	0 	11.0
+Penshurst Place 	Place 	Penshurst 	0 	9.0
+Pepys Road 	Road 	Pepys 	0 	5.0
+Perak Road 	Road 	Perak 	0 	5.0
+Percival Road 	Road 	Percival 	0 	8.0
+Pereira Road 	Road 	Pereira 	0 	7.0
+Perumal Road 	Road 	Perumal 	0 	7.0
+Pesari Walk 	Walk 	Pesari 	0 	6.0
+Petain Road 	Road 	Petain 	0 	6.0
+Petir Road 	Road 	Petir 	0 	5.0
+Pheng Geck Avenue 	Avenue 	Pheng Geck 	0 	4.5
+Philip Street 	Street 	Philip 	0 	6.0
+Phillips Avenue 	Avenue 	Phillips 	0 	8.0
+Phoenix Avenue 	Avenue 	Phoenix 	0 	7.0
+Phoenix Garden 	Garden 	Phoenix 	0 	7.0
+Phoenix Park 	Park 	Phoenix 	0 	7.0
+Phoenix Rise 	Rise 	Phoenix 	0 	7.0
+Phoenix Road 	Road 	Phoenix 	0 	7.0
+Phoenix Walk 	Walk 	Phoenix 	0 	7.0
+Piccadilly 	 	Piccadilly 	0 	10.0
+Piccadilly Circus 	Circus 	Piccadilly 	0 	10.0
+Pickering Street 	Street 	Pickering 	0 	9.0
+Pillai Road 	Road 	Pillai 	0 	6.0
+Pine Close 	Close 	Pine 	0 	4.0
+Pine Grove 	Grove 	Pine 	0 	4.0
+Pine Lane 	Lane 	Pine 	0 	4.0
+Pine Walk 	Walk 	Pine 	0 	4.0
+Pinewood Grove 	Grove 	Pinewood 	0 	8.0
+Pioneer Crescent 	Crescent 	Pioneer 	0 	7.0
+Pioneer Lane 	Lane 	Pioneer 	0 	7.0
+Pioneer Road 	Road 	Pioneer 	0 	7.0
+Pioneer Road North 	Road 	Pioneer 	0 	7.0
+Pioneer Sector 1 	Sector 	Pioneer 	0 	7.0
+Pioneer Sector 2 	Sector 	Pioneer 	0 	7.0
+Pioneer Sector 3 	Sector 	Pioneer 	0 	7.0
+Pioneer Sector Lane 	Sector Lane 	Pioneer 	0 	7.0
+Pioneer Sector Walk 	Sector Walk 	Pioneer 	0 	7.0
+Pipit Road 	Road 	Pipit 	0 	5.0
+Pitt Street 	Street 	Pitt 	0 	4.0
+Plantation Avenue 	Avenue 	Plantation 	0 	10.0
+Platina Road 	Road 	Platina 	0 	7.0
+Playfair Road 	Road 	Playfair 	0 	8.0
+Plumer Road 	Road 	Plumer 	0 	6.0
+Plymouth Avenue 	Avenue 	Plymouth 	0 	8.0
+Poh Huat Crescent 	Crescent 	Poh Huat 	0 	3.5
+Poh Huat Drive 	Drive 	Poh Huat 	0 	3.5
+Poh Huat Road 	Road 	Poh Huat 	0 	3.5
+Poh Huat Terrace 	Terrace 	Poh Huat 	0 	3.5
+Ponggol :Seventeenth Avenue 	Avenue 	Ponggol 	0 	7.0
+Ponggol :Twenty-Fourth Avenue 	Avenue 	Ponggol 	0 	7.0
+Poole Road 	Road 	Poole 	0 	5.0
+Port Road 	Road 	Port 	0 	4.0
+Portchester Avenue 	Avenue 	Portchester 	0 	11.0
+Portsdown Road 	Road 	Portsdown 	0 	9.0
+Potong Pasir Avenue 1 	Avenue 	Potong Pasir 	0 	5.5
+Potong Pasir Avenue 2 	Avenue 	Potong Pasir 	0 	5.5
+Potong Pasir Avenue 3 	Avenue 	Potong Pasir 	0 	5.5
+Preston Road 	Road 	Preston 	0 	7.0
+Primrose Avenue 	Avenue 	Primrose 	0 	8.0
+Prince Charles Crescent 	Crescent 	Prince Charles 	0 	6.5
+Prince Charles Square 	Square 	Prince Charles 	0 	6.5
+Prince Edward Link 	Link 	Prince Edward 	0 	6.0
+Prince Edward Road 	Road 	Prince Edward 	0 	6.0
+Prince George's Park 	Park 	Prince George's 	0 	7.0
+Prince of Wales Road 	Road 	Prince of Wales 	0 	4.33333333333
+Prince Philip Avenue 	Avenue 	Prince Philip 	0 	6.0
+Prince Road 	Road 	Prince 	0 	6.0
+Prinsep Court 	Court 	Prinsep 	0 	7.0
+Prinsep Link 	Link 	Prinsep 	0 	7.0
+Prinsep Street 	Street 	Prinsep 	0 	7.0
+Prome Road 	Road 	Prome 	0 	5.0
+Puay Hee Avenue 	Avenue 	Puay Hee 	0 	3.5
+Pulasan Road 	Road 	Pulasan 	0 	7.0
+Punggol Port Road 	Road 	Punggol Port 	0 	5.5
+Punggol Road 	Road 	Punggol 	0 	7.0
+Punggol Road Track 13 	Road Track 	Punggol 	0 	7.0
+Punggol Road Track 19 	Road Track 	Punggol 	0 	7.0
+Punggol Road Track 24 	Road Track 	Punggol 	0 	7.0
+Purvis Street 	Street 	Purvis 	0 	6.0
+Quality Road 	Road 	Quality 	0 	7.0
+Queen Astrid Gardens 	Gardens 	Queen Astrid 	0 	5.5
+Queen Astrid Park 	Park 	Queen Astrid 	0 	5.5
+Queen Elizabeth Walk 	Walk 	Queen Elizabeth 	0 	7.0
+Queen Street 	Street 	Queen 	0 	5.0
+Queen's Avenue 	Avenue 	Queen's 	0 	7.0
+Queen's Close 	Close 	Queen's 	0 	7.0
+Queen's Crescent 	Crescent 	Queen's 	0 	7.0
+Queen's Row 	 	Queen's Row 	0 	5.0
+Queensway 	 	Queensway 	0 	9.0
+Quemoy Road 	Road 	Quemoy 	0 	6.0
+Race Course Lane 	Lane 	Race Course 	0 	5.0
+Race Course Road 	Road 	Race Course 	0 	5.0
+Raeburn Park 	Park 	Raeburn 	0 	7.0
+Raffles Avenue 	Avenue 	Raffles 	0 	7.0
+Raffles Boulevard 	Boulevard 	Raffles 	0 	7.0
+Raffles Institution Lane 	Lane 	Raffles Institution 	0 	9.0
+Raffles Link 	Link 	Raffles 	0 	7.0
+Raffles Place 	Place 	Raffles 	0 	7.0
+Raffles Quay 	Quay 	Raffles 	0 	7.0
+Raglan Grove 	Grove 	Raglan 	0 	6.0
+Rambai Road 	Road 	Rambai 	0 	6.0
+Rambau Street 	Street 	Rambau 	0 	6.0
+Rambutan Road 	Road 	Rambutan 	0 	8.0
+Ramsgate Road 	Road 	Ramsgate 	0 	8.0
+Rangoon Lane 	Lane 	Rangoon 	0 	7.0
+Rangoon Road 	Road 	Rangoon 	0 	7.0
+Ratus Road 	Road 	Ratus 	0 	5.0
+Read Crescent 	Crescent 	Read 	0 	4.0
+Read Street 	Street 	Read 	0 	4.0
+Rebecca Road 	Road 	Rebecca 	0 	7.0
+Recreation Lane 	Lane 	Recreation 	0 	10.0
+Recreation Road 	Road 	Recreation 	0 	10.0
+Redhill Close 	Close 	Redhill 	0 	7.0
+Redhill Lane 	Lane 	Redhill 	0 	7.0
+Redhill Road 	Road 	Redhill 	0 	7.0
+Redwood Avenue 	Avenue 	Redwood 	0 	7.0
+Redwood Grove 	Grove 	Redwood 	0 	7.0
+Refinery Road 	Road 	Refinery 	0 	8.0
+Regent Street 	Street 	Regent 	0 	6.0
+Republic Avenue 	Avenue 	Republic 	0 	8.0
+Republic Boulevard 	Boulevard 	Republic 	0 	8.0
+Reservoir Road 	Road 	Reservoir 	0 	9.0
+Rhu Cross 	Cross 	Rhu 	0 	3.0
+Richards Avenue 	Avenue 	Richards 	0 	8.0
+Richards Place 	Place 	Richards 	0 	8.0
+Ridgewood Close 	Close 	Ridgewood 	0 	9.0
+Ridley Park 	Park 	Ridley 	0 	6.0
+Ridout Road 	Road 	Ridout 	0 	6.0
+Rienzi Street 	Street 	Rienzi 	0 	6.0
+Rifle Range Road 	Road 	Rifle Range 	0 	5.0
+Ring Road 	Road 	Ring 	0 	4.0
+Ringwood Road 	Road 	Ringwood 	0 	8.0
+Ripley Crescent 	Crescent 	Ripley 	0 	6.0
+River Valley Close 	Valley Close 	River 	0 	5.0
+River Valley Grove 	Valley Grove 	River 	0 	5.0
+River Valley Road 	Valley Road 	River 	0 	5.0
+Riverina Crescent 	Crescent 	Riverina 	0 	8.0
+Riverina View 	View 	Riverina 	0 	8.0
+Riverina Walk 	Walk 	Riverina 	0 	8.0
+Riverside Crescent 	Crescent 	Riverside 	0 	9.0
+Riverside Drive 	Drive 	Riverside 	0 	9.0
+Riverside Lane 	Lane 	Riverside 	0 	9.0
+Riverside Link 	Link 	Riverside 	0 	9.0
+Riverside Road 	Road 	Riverside 	0 	9.0
+Riverside Street 	Street 	Riverside 	0 	9.0
+Riverside Walk 	Walk 	Riverside 	0 	9.0
+Riviera Drive 	Drive 	Riviera 	0 	7.0
+Roberts Lane 	Lane 	Roberts 	0 	7.0
+Robertson Quay 	Quay 	Robertson 	0 	9.0
+Robey Crescent 	Crescent 	Robey 	0 	5.0
+Robin Close 	Close 	Robin 	0 	5.0
+Robin Drive 	Drive 	Robin 	0 	5.0
+Robin Lane 	Lane 	Robin 	0 	5.0
+Robin Road 	Road 	Robin 	0 	5.0
+Robin Walk 	Walk 	Robin 	0 	5.0
+Robinson Road 	Road 	Robinson 	0 	8.0
+Rochalie Drive 	Drive 	Rochalie 	0 	8.0
+Rochdale Road 	Road 	Rochdale 	0 	8.0
+Rochester Park 	Park 	Rochester 	0 	9.0
+Rochor Canal Road 	Road 	Rochor Canal 	0 	5.5
+Rochor Road 	Road 	Rochor 	0 	6.0
+Rodyk Street 	Street 	Rodyk 	0 	5.0
+Rose Lane 	Lane 	Rose 	0 	4.0
+Roseburn Avenue 	Avenue 	Roseburn 	0 	8.0
+Rosewood Close 	Close 	Rosewood 	0 	8.0
+Rosewood Drive 	Drive 	Rosewood 	0 	8.0
+Rosewood Grove 	Grove 	Rosewood 	0 	8.0
+Ross Avenue 	Avenue 	Ross 	0 	4.0
+Rosyth Avenue 	Avenue 	Rosyth 	0 	6.0
+Rosyth Road 	Road 	Rosyth 	0 	6.0
+Rosyth Terrace 	Terrace 	Rosyth 	0 	6.0
+Rotan Lane 	Lane 	Rotan 	0 	5.0
+Rowell Road 	Road 	Rowell 	0 	6.0
+Royal Road 	Road 	Royal 	0 	5.0
+Ruby Lane 	Lane 	Ruby 	0 	4.0
+Russels Road 	Road 	Russels 	0 	7.0
+Rutland Road 	Road 	Rutland 	0 	7.0
+Sago Street 	Street 	Sago 	0 	4.0
+Saiboo Street 	Street 	Saiboo 	0 	6.0
+Sakra Avenue 	Avenue 	Sakra 	0 	5.0
+Sakra Road 	Road 	Sakra 	0 	5.0
+Salam Walk 	Walk 	Salam 	0 	5.0
+Sallim Road 	Road 	Sallim 	0 	6.0
+Sam Leong Road 	Road 	Sam Leong 	0 	4.0
+Sampan Place 	Place 	Sampan 	0 	6.0
+Sandilands Road 	Road 	Sandilands 	0 	10.0
+Sandown Place 	Place 	Sandown 	0 	7.0
+Sandwich Road 	Road 	Sandwich 	0 	8.0
+Sandy Island 	Island 	Sandy 	0 	5.0
+Sandy Lane 	Lane 	Sandy 	0 	5.0
+Saraca Drive 	Drive 	Saraca 	0 	6.0
+Saraca Hill 	Hill 	Saraca 	0 	6.0
+Saraca Place 	Place 	Saraca 	0 	6.0
+Saraca Road 	Road 	Saraca 	0 	6.0
+Saraca View 	View 	Saraca 	0 	6.0
+Saraca Walk 	Walk 	Saraca 	0 	6.0
+Sarkies Road 	Road 	Sarkies 	0 	7.0
+Saujana Road 	Road 	Saujana 	0 	7.0
+Saunders Road 	Road 	Saunders 	0 	8.0
+Science Centre Road 	Centre Road 	Science 	0 	7.0
+Science Park Drive 	Park Drive 	Science 	0 	7.0
+Science Park Road 	Park Road 	Science 	0 	7.0
+Scotts Road 	Road 	Scotts 	0 	6.0
+Sea Avenue 	Avenue 	Sea 	0 	3.0
+Sea Breeze Avenue 	Avenue 	Sea Breeze 	0 	4.5
+Sea Breeze Grove 	Grove 	Sea Breeze 	0 	4.5
+Sea Breeze Road 	Road 	Sea Breeze 	0 	4.5
+Sea Breeze Walk 	Walk 	Sea Breeze 	0 	4.5
+Seagull Walk 	Walk 	Seagull 	0 	7.0
+Seah Im Road 	Road 	Seah Im 	0 	3.0
+Seah Street 	Street 	Seah 	0 	4.0
+Sealand Road 	Road 	Sealand 	0 	7.0
+Second Avenue 	Avenue 	Second 	0 	6.0
+Second Chin Bee Road 	Road 	Second Chin Bee 	0 	4.33333333333
+Second Hospital Avenue 	Avenue 	Second Hospital 	0 	7.0
+Second Lok Yang Road 	Road 	Second Lok Yang 	0 	4.33333333333
+Second Street 	Street 	Second 	0 	6.0
+Selarang Park Road 	Park Road 	Selarang 	0 	8.0
+Selarang Ring Road 	Ring Road 	Selarang 	0 	8.0
+Selarang Way 	Way 	Selarang 	0 	8.0
+Selegie Road 	Road 	Selegie 	0 	7.0
+Seletar Close 	Close 	Seletar 	0 	7.0
+Seletar Club Road 	Road 	Seletar Club 	0 	5.5
+Seletar Court 	Court 	Seletar 	0 	7.0
+Seletar Crescent 	Crescent 	Seletar 	0 	7.0
+Seletar East Farmway 1 	Farmway 	Seletar 	0 	7.0
+Seletar East Farmway 2 	Farmway 	Seletar 	0 	7.0
+Seletar East Farmway 3 	Farmway 	Seletar 	0 	7.0
+Seletar East Farmway 4 	Farmway 	Seletar 	0 	7.0
+Seletar East Farmway 5 	Farmway 	Seletar 	0 	7.0
+Seletar Hills Drive 	Drive 	Seletar Hills 	0 	6.0
+Seletar Road 	Road 	Seletar 	0 	7.0
+Seletar Satellite Station Road 	Road 	Seletar Satellite Station 	0 	7.66666666667
+Seletar Terrace 	Terrace 	Seletar 	0 	7.0
+Seletar West Farmway 1 	Farmway 	Seletar 	0 	7.0
+Seletar West Farmway 10 	Farmway 	Seletar 	0 	7.0
+Seletar West Farmway 2 	Farmway 	Seletar 	0 	7.0
+Seletar West Farmway 3 	Farmway 	Seletar 	0 	7.0
+Seletar West Farmway 4 	Farmway 	Seletar 	0 	7.0
+Seletar West Farmway 5 	Farmway 	Seletar 	0 	7.0
+Seletar West Farmway 6 	Farmway 	Seletar 	0 	7.0
+Seletar West Farmway 7 	Farmway 	Seletar 	0 	7.0
+Seletar West Farmway 8 	Farmway 	Seletar 	0 	7.0
+Seletar West Farmway 9 	Farmway 	Seletar 	0 	7.0
+Sembawang Avenue 	Avenue 	Sembawang 	0 	9.0
+Sembawang Close 	Close 	Sembawang 	0 	9.0
+Sembawang Crescent 	Crescent 	Sembawang 	0 	9.0
+Sembawang Drive 	Drive 	Sembawang 	0 	9.0
+Sembawang Hills Drive 	Drive 	Sembawang Hills 	0 	7.0
+Sembawang Lane 	Lane 	Sembawang 	0 	9.0
+Sembawang Link 	Link 	Sembawang 	0 	9.0
+Sembawang Place 	Place 	Sembawang 	0 	9.0
+Sembawang Road 	Road 	Sembawang 	0 	9.0
+Sembawang Street 	Street 	Sembawang 	0 	9.0
+Sembawang Terminal Avenue 1 	Terminal Avenue 	Sembawang 	0 	9.0
+Sembawang Terminal Avenue 2 	Terminal Avenue 	Sembawang 	0 	9.0
+Sembawang Terminal Avenue 3 	Terminal Avenue 	Sembawang 	0 	9.0
+Sembawang Terminal Road A 	Terminal Road 	Sembawang 	0 	9.0
+Sembawang Terminal Road B 	Terminal Road 	Sembawang 	0 	9.0
+Sembawang Terminal Road C 	Terminal Road 	Sembawang 	0 	9.0
+Sembawang Terminal Road D 	Terminal Road 	Sembawang 	0 	9.0
+Sembawang Terminal Road E 	Terminal Road 	Sembawang 	0 	9.0
+Sembawang Terminal Road F 	Terminal Road 	Sembawang 	0 	9.0
+Sembawang Terminal Road G 	Terminal Road 	Sembawang 	0 	9.0
+Sembawang Terminal Road H 	Terminal Road 	Sembawang 	0 	9.0
+Sembawang Vista 	Vista 	Sembawang 	0 	9.0
+Sembawang Walk 	Walk 	Sembawang 	0 	9.0
+Sembawang Way 	Way 	Sembawang 	0 	9.0
+Sembong Road 	Road 	Sembong 	0 	7.0
+Senang Crescent 	Crescent 	Senang 	0 	6.0
+Seng Poh Lane 	Lane 	Seng Poh 	0 	3.5
+Seng Poh Road 	Road 	Seng Poh 	0 	3.5
+Sengkang Central 	 	Sengkang 	0 	8.0
+Sengkang East Avenue 	Avenue 	Sengkang 	0 	8.0
+Sengkang East Avenue 6 	Avenue 	Sengkang 	0 	8.0
+Sengkang East Drive 	Drive 	Sengkang 	0 	8.0
+Sengkang East Road 	Road 	Sengkang 	0 	8.0
+Sengkang East Way 	Way 	Sengkang 	0 	8.0
+Senja Link 	Link 	Senja 	0 	5.0
+Senja Road 	Road 	Senja 	0 	5.0
+Sennett Avenue 	Avenue 	Sennett 	0 	7.0
+Sennett Close 	Close 	Sennett 	0 	7.0
+Sennett Drive 	Drive 	Sennett 	0 	7.0
+Sennett Lane 	Lane 	Sennett 	0 	7.0
+Sennett Place 	Place 	Sennett 	0 	7.0
+Sennett Road 	Road 	Sennett 	0 	7.0
+Sennett Terrace 	Terrace 	Sennett 	0 	7.0
+Senoko Avenue 	Avenue 	Senoko 	0 	6.0
+Senoko Crescent 	Crescent 	Senoko 	0 	6.0
+Senoko Drive 	Drive 	Senoko 	0 	6.0
+Senoko Link 	Link 	Senoko 	0 	6.0
+Senoko Loop 	Loop 	Senoko 	0 	6.0
+Senoko Road 	Road 	Senoko 	0 	6.0
+Senoko South Road 	Road 	Senoko 	0 	6.0
+Senoko Way 	Way 	Senoko 	0 	6.0
+Sentosa East Mall 	Mall 	Sentosa 	0 	7.0
+Serangoon Avenue 1 	Avenue 	Serangoon 	0 	9.0
+Serangoon Avenue 2 	Avenue 	Serangoon 	0 	9.0
+Serangoon Avenue 3 	Avenue 	Serangoon 	0 	9.0
+Serangoon Avenue 4 	Avenue 	Serangoon 	0 	9.0
+Serangoon Central 	 	Serangoon 	0 	9.0
+Serangoon Central Drive 	Drive 	Serangoon 	0 	9.0
+Serangoon Garden Circus 	Garden Circus 	Serangoon 	0 	9.0
+Serangoon Garden Way 	Garden Way 	Serangoon 	0 	9.0
+Serangoon Lane 	Lane 	Serangoon 	0 	9.0
+Serangoon North Avenue 1 	Avenue 	Serangoon 	0 	9.0
+Serangoon North Avenue 2 	Avenue 	Serangoon 	0 	9.0
+Serangoon North Avenue 3 	Avenue 	Serangoon 	0 	9.0
+Serangoon North Avenue 4 	Avenue 	Serangoon 	0 	9.0
+Serangoon North Avenue 5 	Avenue 	Serangoon 	0 	9.0
+Serangoon North Avenue 6 	Avenue 	Serangoon 	0 	9.0
+Serangoon Road 	Road 	Serangoon 	0 	9.0
+Serangoon Terrace 	Terrace 	Serangoon 	0 	9.0
+Serapong Course Road 	Road 	Serapong Course 	0 	7.0
+Serapong Hill Road 	Hill Road 	Serapong 	0 	8.0
+Seraya Avenue 	Avenue 	Seraya 	0 	6.0
+Seraya Crescent 	Crescent 	Seraya 	0 	6.0
+Seraya Lane 	Lane 	Seraya 	0 	6.0
+Seraya Road 	Road 	Seraya 	0 	6.0
+Serenade Walk 	Walk 	Serenade 	0 	8.0
+Seton Close 	Close 	Seton 	0 	5.0
+Shamah Terrace 	Terrace 	Shamah 	0 	6.0
+Shan Road 	Road 	Shan 	0 	4.0
+Shanghai Road 	Road 	Shanghai 	0 	8.0
+Shangri-La Close 	Close 	Shangri-La 	0 	10.0
+Shangri-La Walk 	Walk 	Shangri-La 	0 	10.0
+Shaw Road 	Road 	Shaw 	0 	4.0
+Shelford Road 	Road 	Shelford 	0 	8.0
+Shenton Way 	Way 	Shenton 	0 	7.0
+Shepherd's Drive 	Drive 	Shepherd's 	0 	10.0
+Sherwood Road 	Road 	Sherwood 	0 	8.0
+Shipyard Road 	Road 	Shipyard 	0 	8.0
+Short Street 	Street 	Short 	0 	5.0
+Shrewsbury Road 	Road 	Shrewsbury 	0 	10.0
+Shunfu Road 	Road 	Shunfu 	0 	6.0
+Siak Kew Avenue 	Avenue 	Siak Kew 	0 	3.5
+Sian Tuan Avenue 	Avenue 	Sian Tuan 	0 	4.0
+Siang Kuang Avenue 	Avenue 	Siang Kuang 	0 	5.0
+Siang Lim Park 	Park 	Siang Lim 	0 	4.0
+Siglap Avenue 	Avenue 	Siglap 	0 	6.0
+Siglap Avenue South 	Avenue 	Siglap 	0 	6.0
+Siglap Bank 	Bank 	Siglap 	0 	6.0
+Siglap Close 	Close 	Siglap 	0 	6.0
+Siglap Drive 	Drive 	Siglap 	0 	6.0
+Siglap Gardens 	Gardens 	Siglap 	0 	6.0
+Siglap Hill 	Hill 	Siglap 	0 	6.0
+Siglap Link 	Link 	Siglap 	0 	6.0
+Siglap Plain 	Plain 	Siglap 	0 	6.0
+Siglap Rise 	Rise 	Siglap 	0 	6.0
+Siglap Road 	Road 	Siglap 	0 	6.0
+Siglap Terrace 	Terrace 	Siglap 	0 	6.0
+Siglap Valley 	Valley 	Siglap 	0 	6.0
+Siglap View 	View 	Siglap 	0 	6.0
+Siglap Walk 	Walk 	Siglap 	0 	6.0
+Silat Avenue 	Avenue 	Silat 	0 	5.0
+Silat Road 	Road 	Silat 	0 	5.0
+Silat Walk 	Walk 	Silat 	0 	5.0
+Silosa Beach 	Beach 	Silosa 	0 	6.0
+Siloso Road 	Road 	Siloso 	0 	6.0
+Sime Park Hill 	Park Hill 	Sime 	0 	4.0
+Sime Road 	Road 	Sime 	0 	4.0
+Simei Avenue 	Avenue 	Simei 	0 	5.0
+Simei Road 	Road 	Simei 	0 	5.0
+Simei Street 1 	Street 	Simei 	0 	5.0
+Simei Street 2 	Street 	Simei 	0 	5.0
+Simei Street 3 	Street 	Simei 	0 	5.0
+Simei Street 4 	Street 	Simei 	0 	5.0
+Simei Street 5 	Street 	Simei 	0 	5.0
+Simei Street 6 	Street 	Simei 	0 	5.0
+Simon Lane 	Lane 	Simon 	0 	5.0
+Simon Place 	Place 	Simon 	0 	5.0
+Simon Road 	Road 	Simon 	0 	5.0
+Simon Walk 	Walk 	Simon 	0 	5.0
+Sims Avenue 	Avenue 	Sims 	0 	4.0
+Sims Avenue East 	Avenue 	Sims 	0 	4.0
+Sims Drive 	Drive 	Sims 	0 	4.0
+Sims Lane 	Lane 	Sims 	0 	4.0
+Sims Place 	Place 	Sims 	0 	4.0
+Sims View 	View 	Sims 	0 	4.0
+Sin Ming Avenue 	Avenue 	Sin Ming 	0 	3.5
+Sin Ming Drive 	Drive 	Sin Ming 	0 	3.5
+Sin Ming Industrial Estate Sector A 	Industrial Estate Sector 	Sin Ming 	0 	3.5
+Sin Ming Industrial Estate Sector B 	Industrial Estate Sector 	Sin Ming 	0 	3.5
+Sin Ming Industrial Estate Sector C 	Industrial Estate Sector 	Sin Ming 	0 	3.5
+Sin Ming Industrial Estate Sector D 	Industrial Estate Sector 	Sin Ming 	0 	3.5
+Sin Ming Road 	Road 	Sin Ming 	0 	3.5
+Sin Ming Walk 	Walk 	Sin Ming 	0 	3.5
+Sing Avenue 	Avenue 	Sing 	0 	4.0
+Sing Joo Walk 	Walk 	Sing Joo 	0 	3.5
+Siok Wan Close 	Close 	Siok Wan 	0 	3.5
+Sirat Place 	Place 	Sirat 	0 	5.0
+Sirat Road 	Road 	Sirat 	0 	5.0
+Sit Wah Road 	Road 	Sit Wah 	0 	3.0
+Sixth Avenue 	Avenue 	Sixth 	0 	5.0
+Sixth Crescent 	Crescent 	Sixth 	0 	5.0
+Sixth Lok Yang Road 	Road 	Sixth Lok Yang 	0 	4.0
+Smith Street 	Street 	Smith 	0 	5.0
+Solomon Street 	Street 	Solomon 	0 	7.0
+Somerset Road 	Road 	Somerset 	0 	8.0
+Somme Road 	Road 	Somme 	0 	5.0
+Sommerville Estate 	Estate 	Sommerville 	0 	11.0
+Sommerville Estate Road 	Estate Road 	Sommerville 	0 	11.0
+Sommerville Road 	Road 	Sommerville 	0 	11.0
+Sommerville Walk 	Walk 	Sommerville 	0 	11.0
+Soo Chow Drive 	Drive 	Soo Chow 	0 	3.5
+Soo Chow Garden Road 	Garden Road 	Soo Chow 	0 	3.5
+Soo Chow Rise 	Rise 	Soo Chow 	0 	3.5
+Soo Chow View 	View 	Soo Chow 	0 	3.5
+Soo Chow Walk 	Walk 	Soo Chow 	0 	3.5
+Soo Chow Way 	Way 	Soo Chow 	0 	3.5
+Soon Lee Road 	Road 	Soon Lee 	0 	3.5
+Soon Wing Road 	Road 	Soon Wing 	0 	4.0
+Sophia Road 	Road 	Sophia 	0 	6.0
+South Bridge Road 	Road 	Bridge 	0 	6.0
+South Buona Vista Road 	Vista Road 	Buona 	0 	5.0
+South Canal Road 	Road 	Canal 	0 	5.0
+South Perimeter Road 	Road 	Perimeter 	0 	9.0
+South Woodlands Drive 	Drive 	Woodlands 	0 	9.0
+Spooner Road 	Road 	Spooner 	0 	7.0
+Sports Drive 1 	Drive 	Sports 	0 	6.0
+Sports Drive 2 	Drive 	Sports 	0 	6.0
+Spottiswoode Park Road 	Park Road 	Spottiswoode 	0 	12.0
+Spring Street 	Street 	Spring 	0 	6.0
+Springleaf Avenue 	Avenue 	Springleaf 	0 	10.0
+Springleaf Crescent 	Crescent 	Springleaf 	0 	10.0
+Springleaf Drive 	Drive 	Springleaf 	0 	10.0
+Springleaf Garden 	Garden 	Springleaf 	0 	10.0
+Springleaf Height 	Height 	Springleaf 	0 	10.0
+Springleaf Lane 	Lane 	Springleaf 	0 	10.0
+Springleaf Link 	Link 	Springleaf 	0 	10.0
+Springleaf Rise 	Rise 	Springleaf 	0 	10.0
+Springleaf Road 	Road 	Springleaf 	0 	10.0
+Springleaf View 	View 	Springleaf 	0 	10.0
+Springleaf Walk 	Walk 	Springleaf 	0 	10.0
+Springside Avenue 	Avenue 	Springside 	0 	10.0
+Springside Drive 	Drive 	Springside 	0 	10.0
+Springside Green 	Green 	Springside 	0 	10.0
+Springside Link 	Link 	Springside 	0 	10.0
+Springside Walk 	Walk 	Springside 	0 	10.0
+Springwood Avenue 	Avenue 	Springwood 	0 	10.0
+Springwood Close 	Close 	Springwood 	0 	10.0
+Springwood Crescent 	Crescent 	Springwood 	0 	10.0
+Springwood Height 	Height 	Springwood 	0 	10.0
+Springwood Terrace 	Terrace 	Springwood 	0 	10.0
+Springwood Walk 	Walk 	Springwood 	0 	10.0
+St. Andrew's Road 	Road 	St. Andrew's 	0 	5.5
+St. Anne's Wood 	Wood 	St. Anne's 	0 	4.5
+St. Barnabas Lane 	Lane 	St. Barnabas 	0 	5.5
+St. Francis Road 	Road 	St. Francis 	0 	5.0
+St. George's Lane 	Lane 	St. George's 	0 	5.5
+St. George's Road 	Road 	St. George's 	0 	5.5
+St. Gregory's Place 	Place 	St. Gregory's 	0 	6.0
+St. Helena Road 	Road 	St. Helena 	0 	4.5
+St. Helier's Avenue 	Avenue 	St. Helier's 	0 	5.5
+St. John's Crescent 	Crescent 	St. John's 	0 	4.5
+St. John's Road 	Road 	St. John's 	0 	4.5
+St. Margaret's Road 	Road 	St. Margaret's 	0 	6.5
+St. Martin's Drive 	Drive 	St. Martin's 	0 	5.5
+St. Martin's Lane 	Lane 	St. Martin's 	0 	5.5
+St. Michael's Road 	Road 	St. Michael's 	0 	6.0
+St. Nicholas View 	View 	St. Nicholas 	0 	5.5
+St. Patrick's Road 	Road 	St. Patrick's 	0 	6.0
+St. Thomas Walk 	Walk 	St. Thomas 	0 	4.5
+St. Wilfred Road 	Road 	St. Wilfred 	0 	5.0
+St. Xavier's Lane 	Lane 	St. Xavier's 	0 	5.5
+Stadium Boulevard 	Boulevard 	Stadium 	0 	7.0
+Stadium Crescent 	Crescent 	Stadium 	0 	7.0
+Stadium Drive 	Drive 	Stadium 	0 	7.0
+Stadium Lane 	Lane 	Stadium 	0 	7.0
+Stadium Link 	Link 	Stadium 	0 	7.0
+Stadium Road 	Road 	Stadium 	0 	7.0
+Stadium Walk 	Walk 	Stadium 	0 	7.0
+Stagmont Ring 	Ring 	Stagmont 	0 	8.0
+Stagmont Road 	Road 	Stagmont 	0 	8.0
+Stamford Road 	Road 	Stamford 	0 	8.0
+Stangee Close 	Close 	Stangee 	0 	7.0
+Stangee Place 	Place 	Stangee 	0 	7.0
+Stanley Street 	Street 	Stanley 	0 	7.0
+Starlight Road 	Road 	Starlight 	0 	9.0
+Starlight Terrace 	Terrace 	Starlight 	0 	9.0
+Stephen Lee Road 	Road 	Stephen Lee 	0 	5.0
+Stevens Close 	Close 	Stevens 	0 	7.0
+Stevens Drive 	Drive 	Stevens 	0 	7.0
+Stevens Road 	Road 	Stevens 	0 	7.0
+Still Lane 	Lane 	Still 	0 	5.0
+Still Road 	Road 	Still 	0 	5.0
+Still Road South 	Road 	Still 	0 	5.0
+Stirling Road 	Road 	Stirling 	0 	8.0
+Stockport Road 	Road 	Stockport 	0 	9.0
+Stokesay Drive 	Drive 	Stokesay 	0 	8.0
+Stone Avenue 	Avenue 	Stone 	0 	5.0
+Stores Road 	Road 	Stores 	0 	6.0
+Strathmore Avenue 	Avenue 	Strathmore 	0 	10.0
+Stratton Drive 	Drive 	Stratton 	0 	8.0
+Stratton Place 	Place 	Stratton 	0 	8.0
+Stratton Road 	Road 	Stratton 	0 	8.0
+Stratton Walk 	Walk 	Stratton 	0 	8.0
+Students Walk 	Walk 	Students 	0 	8.0
+Sturdee Road 	Road 	Sturdee 	0 	7.0
+Sudan Road 	Road 	Sudan 	0 	5.0
+Suffolk Road 	Road 	Suffolk 	0 	7.0
+Sultan Gate 	Gate 	Sultan 	0 	6.0
+Sum Wah Chee Drive 	Drive 	Sum Wah Chee 	0 	3.33333333333
+Summer Place 	Place 	Summer 	0 	6.0
+Sunbird Avenue 	Avenue 	Sunbird 	0 	7.0
+Sunbird Circle 	Circle 	Sunbird 	0 	7.0
+Sunbird Road 	Road 	Sunbird 	0 	7.0
+Sundrige Park Road 	Park Road 	Sundrige 	0 	8.0
+Sungei Gedong Road 	Road 	Sungei Gedong 	0 	6.0
+Sungei Kadut Avenue 	Avenue 	Sungei Kadut 	0 	5.5
+Sungei Kadut Crescent 	Crescent 	Sungei Kadut 	0 	5.5
+Sungei Kadut Drive 	Drive 	Sungei Kadut 	0 	5.5
+Sungei Kadut Loop 	Loop 	Sungei Kadut 	0 	5.5
+Sungei Kadut Street 1 	Street 	Sungei Kadut 	0 	5.5
+Sungei Kadut Street 2 	Street 	Sungei Kadut 	0 	5.5
+Sungei Kadut Street 3 	Street 	Sungei Kadut 	0 	5.5
+Sungei Kadut Street 4 	Street 	Sungei Kadut 	0 	5.5
+Sungei Kadut Street 5 	Street 	Sungei Kadut 	0 	5.5
+Sungei Kadut Street 6 	Street 	Sungei Kadut 	0 	5.5
+Sungei Kadut Way 	Way 	Sungei Kadut 	0 	5.5
+Sungei Road 	Road 	Sungei 	0 	6.0
+Sungei Tengah Road 	Road 	Sungei Tengah 	0 	6.0
+Sunrise Avenue 	Avenue 	Sunrise 	0 	7.0
+Sunrise Close 	Close 	Sunrise 	0 	7.0
+Sunrise Drive 	Drive 	Sunrise 	0 	7.0
+Sunrise Lane 	Lane 	Sunrise 	0 	7.0
+Sunrise Place 	Place 	Sunrise 	0 	7.0
+Sunrise Terrace 	Terrace 	Sunrise 	0 	7.0
+Sunrise Villa Estate 	Estate 	Sunrise Villa 	0 	6.0
+Sunrise Way 	Way 	Sunrise 	0 	7.0
+Sunset Avenue 	Avenue 	Sunset 	0 	6.0
+Sunset Close 	Close 	Sunset 	0 	6.0
+Sunset Crescent 	Crescent 	Sunset 	0 	6.0
+Sunset Drive 	Drive 	Sunset 	0 	6.0
+Sunset Grove 	Grove 	Sunset 	0 	6.0
+Sunset Heights 	Heights 	Sunset 	0 	6.0
+Sunset Lane 	Lane 	Sunset 	0 	6.0
+Sunset Place 	Place 	Sunset 	0 	6.0
+Sunset Square 	Square 	Sunset 	0 	6.0
+Sunset Terrace 	Terrace 	Sunset 	0 	6.0
+Sunset Vale 	Vale 	Sunset 	0 	6.0
+Sunset View 	View 	Sunset 	0 	6.0
+Sunset Walk 	Walk 	Sunset 	0 	6.0
+Sunset Way 	Way 	Sunset 	0 	6.0
+Sunshine Terrace 	Terrace 	Sunshine 	0 	8.0
+Surin Avenue 	Avenue 	Surin 	0 	5.0
+Surin Lane 	Lane 	Surin 	0 	5.0
+Surin Road 	Road 	Surin 	0 	5.0
+Surrey Road 	Road 	Surrey 	0 	6.0
+Sussex Garden 	Garden 	Sussex 	0 	6.0
+Swallow Street 	Street 	Swallow 	0 	7.0
+Swan Lake Avenue 	Avenue 	Swan Lake 	0 	4.0
+Swanage Road 	Road 	Swanage 	0 	7.0
+Swettenham Close 	Close 	Swettenham 	0 	10.0
+Swettenham Road 	Road 	Swettenham 	0 	10.0
+Swiss Club Avenue 	Avenue 	Swiss Club 	0 	4.5
+Swiss Club Lane 	Lane 	Swiss Club 	0 	4.5
+Swiss Club Link 	Link 	Swiss Club 	0 	4.5
+Swiss Club Road 	Road 	Swiss Club 	0 	4.5
+Swiss Cottage Estate 	Estate 	Swiss Cottage 	0 	6.0
+Swiss View 	View 	Swiss 	0 	5.0
+Syed Alwi Road 	Road 	Syed Alwi 	0 	4.0
+Synagogue Street 	Street 	Synagogue 	0 	9.0
+Tagore Avenue 	Avenue 	Tagore 	0 	6.0
+Tagore Drive 	Drive 	Tagore 	0 	6.0
+Tagore Industrial Avenue 	Industrial Avenue 	Tagore 	0 	6.0
+Tagore Industrial Estate 	Industrial Estate 	Tagore 	0 	6.0
+Tagore Lane 	Lane 	Tagore 	0 	6.0
+Tagore Road 	Road 	Tagore 	0 	6.0
+Tah Ching Road 	Road 	Tah Ching 	0 	4.0
+Tai Gin Road 	Road 	Tai Gin 	0 	3.0
+Tai Hwan Avenue 	Avenue 	Tai Hwan 	0 	3.5
+Tai Hwan Close 	Close 	Tai Hwan 	0 	3.5
+Tai Hwan Crescent 	Crescent 	Tai Hwan 	0 	3.5
+Tai Hwan Drive 	Drive 	Tai Hwan 	0 	3.5
+Tai Hwan Grove 	Grove 	Tai Hwan 	0 	3.5
+Tai Hwan Heights 	Heights 	Tai Hwan 	0 	3.5
+Tai Hwan Lane 	Lane 	Tai Hwan 	0 	3.5
+Tai Hwan Place 	Place 	Tai Hwan 	0 	3.5
+Tai Hwan Terrace 	Terrace 	Tai Hwan 	0 	3.5
+Tai Hwan Walk 	Walk 	Tai Hwan 	0 	3.5
+Tai Keng Avenue 	Avenue 	Tai Keng 	0 	3.5
+Tai Keng Gardens 	Gardens 	Tai Keng 	0 	3.5
+Tai Keng Lane 	Lane 	Tai Keng 	0 	3.5
+Tai Keng Place 	Place 	Tai Keng 	0 	3.5
+Tai Keng Terrace 	Terrace 	Tai Keng 	0 	3.5
+Tai Seng Avenue 	Avenue 	Tai Seng 	0 	3.5
+Tai Seng Drive 	Drive 	Tai Seng 	0 	3.5
+Tai Seng Industrial Estate 	Industrial Estate 	Tai Seng 	0 	3.5
+Tai Thong Crescent 	Crescent 	Tai Thong 	0 	4.0
+Tai Yuan Heights 	Heights 	Tai Yuan 	0 	3.5
+Talma Road 	Road 	Talma 	0 	5.0
+Taman Bedok 	Taman 	Bedok 	1 	5.0
+Taman Ho Swee 	Taman 	Ho Swee 	1 	3.0
+Taman Kembangan 	Taman 	Kembangan 	1 	9.0
+Taman Mas Merah 	Taman 	Mas Merah 	1 	4.0
+Taman Nakhoda 	Taman 	Nakhoda 	1 	7.0
+Taman Permata 	Taman 	Permata 	1 	7.0
+Taman Selamat 	Taman 	Selamat 	1 	7.0
+Taman Siglap 	Taman 	Siglap 	1 	6.0
+Taman Sireh 	Taman 	Sireh 	1 	5.0
+Taman Warna 	Taman 	Warna 	1 	5.0
+Tamarind Avenue 	Avenue 	Tamarind 	0 	8.0
+Tamarind Place 	Place 	Tamarind 	0 	8.0
+Tamarind Road 	Road 	Tamarind 	0 	8.0
+Tampines Avenue 1 	Avenue 	Tampines 	0 	8.0
+Tampines Avenue 10 	Avenue 	Tampines 	0 	8.0
+Tampines Avenue 12 	Avenue 	Tampines 	0 	8.0
+Tampines Avenue 2 	Avenue 	Tampines 	0 	8.0
+Tampines Avenue 3 	Avenue 	Tampines 	0 	8.0
+Tampines Avenue 4 	Avenue 	Tampines 	0 	8.0
+Tampines Avenue 5 	Avenue 	Tampines 	0 	8.0
+Tampines Avenue 6 	Avenue 	Tampines 	0 	8.0
+Tampines Avenue 7 	Avenue 	Tampines 	0 	8.0
+Tampines Avenue 8 	Avenue 	Tampines 	0 	8.0
+Tampines Avenue 9 	Avenue 	Tampines 	0 	8.0
+Tampines Central 1 	 	Tampines 	0 	8.0
+Tampines Central 2 	 	Tampines 	0 	8.0
+Tampines Central 3 	 	Tampines 	0 	8.0
+Tampines Central 4 	 	Tampines 	0 	8.0
+Tampines Central 5 	 	Tampines 	0 	8.0
+Tampines Central 6 	 	Tampines 	0 	8.0
+Tampines Ind Avenue 1 	Ind Avenue 	Tampines 	0 	8.0
+Tampines Ind Avenue 2 	Ind Avenue 	Tampines 	0 	8.0
+Tampines Ind Avenue 3 	Ind Avenue 	Tampines 	0 	8.0
+Tampines Ind Avenue 4 	Ind Avenue 	Tampines 	0 	8.0
+Tampines Ind Avenue 5 	Ind Avenue 	Tampines 	0 	8.0
+Tampines Ind Crescent 	Ind Crescent 	Tampines 	0 	8.0
+Tampines Street 11 	Street 	Tampines 	0 	8.0
+Tampines Street 12 	Street 	Tampines 	0 	8.0
+Tampines Street 21 	Street 	Tampines 	0 	8.0
+Tampines Street 22 	Street 	Tampines 	0 	8.0
+Tampines Street 23 	Street 	Tampines 	0 	8.0
+Tampines Street 24 	Street 	Tampines 	0 	8.0
+Tampines Street 31 	Street 	Tampines 	0 	8.0
+Tampines Street 32 	Street 	Tampines 	0 	8.0
+Tampines Street 33 	Street 	Tampines 	0 	8.0
+Tampines Street 34 	Street 	Tampines 	0 	8.0
+Tampines Street 41 	Street 	Tampines 	0 	8.0
+Tampines Street 42 	Street 	Tampines 	0 	8.0
+Tampines Street 43 	Street 	Tampines 	0 	8.0
+Tampines Street 44 	Street 	Tampines 	0 	8.0
+Tampines Street 45 	Street 	Tampines 	0 	8.0
+Tampines Street 71 	Street 	Tampines 	0 	8.0
+Tampines Street 72 	Street 	Tampines 	0 	8.0
+Tampines Street 73 	Street 	Tampines 	0 	8.0
+Tampines Street 81 	Street 	Tampines 	0 	8.0
+Tampines Street 82 	Street 	Tampines 	0 	8.0
+Tampines Street 83 	Street 	Tampines 	0 	8.0
+Tampines Street 84 	Street 	Tampines 	0 	8.0
+Tampines Street 9 	Street 	Tampines 	0 	8.0
+Tampines Street 91 	Street 	Tampines 	0 	8.0
+Tampines Street 92 	Street 	Tampines 	0 	8.0
+Tampines Street 93 	Street 	Tampines 	0 	8.0
+Tan Boon Chong Avenue 	Avenue 	Tan Boon Chong 	0 	4.0
+Tan Kim Cheng Road 	Road 	Tan Kim Cheng 	0 	3.66666666667
+Tan Quee Lan Street 	Street 	Tan Quee Lan 	0 	3.33333333333
+Tan Sim Boh Road 	Road 	Tan Sim Boh 	0 	3.0
+Tan Tye Place 	Place 	Tan Tye 	0 	3.0
+Tanah Merah Besar Lane 	Lane 	Tanah Merah Besar 	0 	5.0
+Tanah Merah Besar Road 	Road 	Tanah Merah Besar 	0 	5.0
+Tanah Merah Ferry Road 	Road 	Tanah Merah Ferry 	0 	5.0
+Tanah Merah Kechil Avenue 	Avenue 	Tanah Merah Kechil 	0 	5.33333333333
+Tanah Merah Kechil Link 	Link 	Tanah Merah Kechil 	0 	5.33333333333
+Tanah Merah Kechil Rise 	Rise 	Tanah Merah Kechil 	0 	5.33333333333
+Tanah Merah Kechil Road 	Road 	Tanah Merah Kechil 	0 	5.33333333333
+Tanah Merah Kechil Road South 	Road 	Tanah Merah Kechil 	0 	5.33333333333
+Tanglin Halt Close 	Close 	Tanglin Halt 	0 	5.5
+Tanglin Halt Road 	Road 	Tanglin Halt 	0 	5.5
+Tanglin Hill 	Hill 	Tanglin 	0 	7.0
+Tanglin Rise 	Rise 	Tanglin 	0 	7.0
+Tanglin Road 	Road 	Tanglin 	0 	7.0
+Tanglin Village 	Village 	Tanglin 	0 	7.0
+Tanglin Walk 	Walk 	Tanglin 	0 	7.0
+Tangmere Road 	Road 	Tangmere 	0 	8.0
+Tanjong Beach Walk 	Beach Walk 	Tanjong 	0 	7.0
+Tanjong Katong Road 	Road 	Tanjong Katong 	0 	6.5
+Tanjong Katong Road South 	Road 	Tanjong Katong 	0 	6.5
+Tanjong Kling Road 	Road 	Tanjong Kling 	0 	6.0
+Tanjong Pagar Plaza 	Plaza 	Tanjong Pagar 	0 	6.0
+Tanjong Pagar Road 	Road 	Tanjong Pagar 	0 	6.0
+Tanjong Pagar Terminal Avenue 	Terminal Avenue 	Tanjong Pagar 	0 	6.0
+Tanjong Pagar Terminal Road A 	Terminal Road 	Tanjong Pagar 	0 	6.0
+Tanjong Pagar Terminal Road B 	Terminal Road 	Tanjong Pagar 	0 	6.0
+Tanjong Pagar Terminal Road C 	Terminal Road 	Tanjong Pagar 	0 	6.0
+Tanjong Pagar Terminal Road D 	Terminal Road 	Tanjong Pagar 	0 	6.0
+Tanjong Pagar Terminal Road E 	Terminal Road 	Tanjong Pagar 	0 	6.0
+Tanjong Pagar Terminal Road F 	Terminal Road 	Tanjong Pagar 	0 	6.0
+Tanjong Pagar Terminal Road G 	Terminal Road 	Tanjong Pagar 	0 	6.0
+Tanjong Pagar Terminal Road H 	Terminal Road 	Tanjong Pagar 	0 	6.0
+Tanjong Pagar Terminal Road J 	Terminal Road 	Tanjong Pagar 	0 	6.0
+Tanjong Pagar Terminal Road K 	Terminal Road 	Tanjong Pagar 	0 	6.0
+Tanjong Pagar Terminal Street 1 	Terminal Street 	Tanjong Pagar 	0 	6.0
+Tanjong Pagar Terminal Street 2 	Terminal Street 	Tanjong Pagar 	0 	6.0
+Tanjong Pagar Terminal Street 3 	Terminal Street 	Tanjong Pagar 	0 	6.0
+Tanjong Pagar Terminal Street 4 	Terminal Street 	Tanjong Pagar 	0 	6.0
+Tanjong Pagar Terminal Street 5 	Terminal Street 	Tanjong Pagar 	0 	6.0
+Tanjong Penjuru 	 	Tanjong Penjuru 	0 	7.0
+Tanjong Penjuru Crescent 	Crescent 	Tanjong Penjuru 	0 	7.0
+Tanjong Rhu Lane 	Lane 	Tanjong Rhu 	0 	5.0
+Tanjong Rhu Place 	Place 	Tanjong Rhu 	0 	5.0
+Tanjong Rhu Road 	Road 	Tanjong Rhu 	0 	5.0
+Tanjong Rhu View 	View 	Tanjong Rhu 	0 	5.0
+Tank Road 	Road 	Tank 	0 	4.0
+Tannery Lane 	Lane 	Tannery 	0 	7.0
+Tannery Road 	Road 	Tannery 	0 	7.0
+Tao Ching Road 	Road 	Tao Ching 	0 	4.0
+Tavistock Avenue 	Avenue 	Tavistock 	0 	9.0
+Tay Lian Teck Drive 	Drive 	Tay Lian Teck 	0 	3.66666666667
+Tay Lian Teck Road 	Road 	Tay Lian Teck 	0 	3.66666666667
+Teachers' Housing Estate 	Estate 	Teachers' Housing 	0 	8.0
+Teban Gardens Crescent 	Gardens Crescent 	Teban 	0 	5.0
+Teban Gardens Road 	Gardens Road 	Teban 	0 	5.0
+Tech Park Crescent 	Park Crescent 	Tech 	0 	4.0
+Technology Crescent 	Crescent 	Technology 	0 	10.0
+Teck Chye Terrace 	Terrace 	Teck Chye 	0 	4.0
+Teck Guan Street 	Street 	Teck Guan 	0 	4.0
+Teck Lim Road 	Road 	Teck Lim 	0 	3.5
+Teck Whye Avenue 	Avenue 	Teck Whye 	0 	4.0
+Teck Whye Crescent 	Crescent 	Teck Whye 	0 	4.0
+Teck Whye Lane 	Lane 	Teck Whye 	0 	4.0
+Telegraph Street 	Street 	Telegraph 	0 	9.0
+Telok Ayer Street 	Street 	Telok Ayer 	0 	4.5
+Telok Blangah Crescent 	Crescent 	Telok Blangah 	0 	6.0
+Telok Blangah Drive 	Drive 	Telok Blangah 	0 	6.0
+Telok Blangah Green 	Green 	Telok Blangah 	0 	6.0
+Telok Blangah Heights 	Heights 	Telok Blangah 	0 	6.0
+Telok Blangah Industrial Estate 	Industrial Estate 	Telok Blangah 	0 	6.0
+Telok Blangah Rise 	Rise 	Telok Blangah 	0 	6.0
+Telok Blangah Road 	Road 	Telok Blangah 	0 	6.0
+Telok Blangah Street 31 	Street 	Telok Blangah 	0 	6.0
+Telok Blangah Street 32 	Street 	Telok Blangah 	0 	6.0
+Telok Blangah Way 	Way 	Telok Blangah 	0 	6.0
+Telok Kurau Road 	Road 	Telok Kurau 	0 	5.0
+Telok Paku Road 	Road 	Telok Paku 	0 	4.5
+Temasek Avenue 	Avenue 	Temasek 	0 	7.0
+Temasek Boulevard 	Boulevard 	Temasek 	0 	7.0
+Tembeling Road 	Road 	Tembeling 	0 	9.0
+Temenggong Road 	Road 	Temenggong 	0 	10.0
+Temple Hill Road 	Hill Road 	Temple 	0 	6.0
+Temple Street 	Street 	Temple 	0 	6.0
+Teng Tong Road 	Road 	Teng Tong 	0 	4.0
+Tengah Avenue 	Avenue 	Tengah 	0 	6.0
+Teo Hong Road 	Road 	Teo Hong 	0 	3.5
+Teo Kim Eng Road 	Road 	Teo Kim Eng 	0 	3.0
+Teow Hock Avenue 	Avenue 	Teow Hock 	0 	4.0
+Terang Bulan Avenue 	Avenue 	Terang Bulan 	0 	5.5
+Tessensohn Road 	Road 	Tessensohn 	0 	10.0
+Tew Chew Road 	Road 	Tew Chew 	0 	3.5
+Tham Soong Avenue 	Avenue 	Tham Soong 	0 	4.5
+The Inglewood 	 	The Inglewood 	0 	6.0
+The Oval 	 	The Oval 	0 	3.5
+Thiam Siew Avenue 	Avenue 	Thiam Siew 	0 	4.5
+Third Avenue 	Avenue 	Third 	0 	5.0
+Third Chin Bee Road 	Road 	Third Chin Bee 	0 	4.0
+Third Hospital Avenue 	Avenue 	Third Hospital 	0 	6.5
+Third Lok Yang Road 	Road 	Third Lok Yang 	0 	4.0
+Third Street 	Street 	Third 	0 	5.0
+Thomson Close 	Close 	Thomson 	0 	7.0
+Thomson Garden Estate 	Garden Estate 	Thomson 	0 	7.0
+Thomson Green 	Green 	Thomson 	0 	7.0
+Thomson Heights 	Heights 	Thomson 	0 	7.0
+Thomson Hill 	Hill 	Thomson 	0 	7.0
+Thomson Hill Estate 	Hill Estate 	Thomson 	0 	7.0
+Thomson Hills Drive 	Drive 	Thomson Hills 	0 	6.0
+Thomson Ridge 	Ridge 	Thomson 	0 	7.0
+Thomson Ridge Estate 	Ridge Estate 	Thomson 	0 	7.0
+Thomson Rise Estate 	Rise Estate 	Thomson 	0 	7.0
+Thomson Road 	Road 	Thomson 	0 	7.0
+Thomson Terrace 	Terrace 	Thomson 	0 	7.0
+Thomson View 	View 	Thomson 	0 	7.0
+Thomson Walk 	Walk 	Thomson 	0 	7.0
+Thong Bee Road 	Road 	Thong Bee 	0 	4.0
+Thong Soon Avenue 	Avenue 	Thong Soon 	0 	4.5
+Thong Soon Green 	Green 	Thong Soon 	0 	4.5
+Thong Soon Road 	Road 	Thong Soon 	0 	4.5
+Thrift Drive 	Drive 	Thrift 	0 	6.0
+Tiong Bahru Industrial Estate 	Industrial Estate 	Tiong Bahru 	0 	5.0
+Tiong Bahru Road 	Road 	Tiong Bahru 	0 	5.0
+Tiong Poh Avenue 	Avenue 	Tiong Poh 	0 	4.0
+Tiong Poh Road 	Road 	Tiong Poh 	0 	4.0
+Tiverton Lane 	Lane 	Tiverton 	0 	8.0
+Toa Payoh Central 	 	Toa Payoh 	0 	4.0
+Toa Payoh East 	 	Toa Payoh 	0 	4.0
+Toa Payoh Industrial Estate 	Industrial Estate 	Toa Payoh 	0 	4.0
+Toa Payoh Industrial Park 	Industrial Park 	Toa Payoh 	0 	4.0
+Toa Payoh North 	 	Toa Payoh 	0 	4.0
+Toa Payoh Rise 	Rise 	Toa Payoh 	0 	4.0
+Toa Payoh West 	 	Toa Payoh 	0 	4.0
+Toa Payoh West Industrial Estate 	Industrial Estate 	Toa Payoh 	0 	4.0
+Toh Avenue 	Avenue 	Toh 	0 	3.0
+Toh Close 	Close 	Toh 	0 	3.0
+Toh Crescent 	Crescent 	Toh 	0 	3.0
+Toh Drive 	Drive 	Toh 	0 	3.0
+Toh Guan Road 	Road 	Toh Guan 	0 	3.5
+Toh Heights 	Heights 	Toh 	0 	3.0
+Toh Street 	Street 	Toh 	0 	3.0
+Toh Tuck Avenue 	Avenue 	Toh Tuck 	0 	3.5
+Toh Tuck Close 	Close 	Toh Tuck 	0 	3.5
+Toh Tuck Crescent 	Crescent 	Toh Tuck 	0 	3.5
+Toh Tuck Drive 	Drive 	Toh Tuck 	0 	3.5
+Toh Tuck Hill Estate 	Hill Estate 	Toh Tuck 	0 	3.5
+Toh Tuck Industrial Estate 	Industrial Estate 	Toh Tuck 	0 	3.5
+Toh Tuck Link 	Link 	Toh Tuck 	0 	3.5
+Toh Tuck Place 	Place 	Toh Tuck 	0 	3.5
+Toh Tuck Rise 	Rise 	Toh Tuck 	0 	3.5
+Toh Tuck Road 	Road 	Toh Tuck 	0 	3.5
+Toh Tuck Terrace 	Terrace 	Toh Tuck 	0 	3.5
+Toh Tuck Walk 	Walk 	Toh Tuck 	0 	3.5
+Toh Yi Drive 	Drive 	Toh Yi 	0 	2.5
+Toh Yi Garden 	Garden 	Toh Yi 	0 	2.5
+Toh Yi Road 	Road 	Toh Yi 	0 	2.5
+Tomlinson Road 	Road 	Tomlinson 	0 	9.0
+Tong Lee Road 	Road 	Tong Lee 	0 	3.5
+Tong Watt Road 	Road 	Tong Watt 	0 	4.0
+Topaz Road 	Road 	Topaz 	0 	5.0
+Toronto Road 	Road 	Toronto 	0 	7.0
+Tosca Street 	Street 	Tosca 	0 	5.0
+Tosca Terrace 	Terrace 	Tosca 	0 	5.0
+Towner Road 	Road 	Towner 	0 	6.0
+Townshend Road 	Road 	Townshend 	0 	9.0
+Tractor Road 	Road 	Tractor 	0 	7.0
+Trafalgar Street 	Street 	Trafalgar 	0 	9.0
+Transit Road 	Road 	Transit 	0 	7.0
+Tras Street 	Street 	Tras 	0 	4.0
+Trengganu Street 	Street 	Trengganu 	0 	9.0
+Trevose Crescent 	Crescent 	Trevose 	0 	7.0
+Trevose Place 	Place 	Trevose 	0 	7.0
+Tronoh Road 	Road 	Tronoh 	0 	6.0
+Truro Road 	Road 	Truro 	0 	5.0
+Tu Fu Avenue 	Avenue 	Tu Fu 	0 	2.0
+Tua Kong Green 	Green 	Tua Kong 	0 	3.5
+Tua Kong Place 	Place 	Tua Kong 	0 	3.5
+Tua Kong Terrace 	Terrace 	Tua Kong 	0 	3.5
+Tua Kong Walk 	Walk 	Tua Kong 	0 	3.5
+Tuah Road 	Road 	Tuah 	0 	4.0
+Tuas Avenue 1 	Avenue 	Tuas 	0 	4.0
+Tuas Avenue 10 	Avenue 	Tuas 	0 	4.0
+Tuas Avenue 11 	Avenue 	Tuas 	0 	4.0
+Tuas Avenue 12 	Avenue 	Tuas 	0 	4.0
+Tuas Avenue 13 	Avenue 	Tuas 	0 	4.0
+Tuas Avenue 14 	Avenue 	Tuas 	0 	4.0
+Tuas Avenue 16 	Avenue 	Tuas 	0 	4.0
+Tuas Avenue 18 	Avenue 	Tuas 	0 	4.0
+Tuas Avenue 18A 	Avenue 	Tuas 	0 	4.0
+Tuas Avenue 2 	Avenue 	Tuas 	0 	4.0
+Tuas Avenue 20 	Avenue 	Tuas 	0 	4.0
+Tuas Avenue 3 	Avenue 	Tuas 	0 	4.0
+Tuas Avenue 4 	Avenue 	Tuas 	0 	4.0
+Tuas Avenue 5 	Avenue 	Tuas 	0 	4.0
+Tuas Avenue 6 	Avenue 	Tuas 	0 	4.0
+Tuas Avenue 7 	Avenue 	Tuas 	0 	4.0
+Tuas Avenue 8 	Avenue 	Tuas 	0 	4.0
+Tuas Avenue 9 	Avenue 	Tuas 	0 	4.0
+Tuas Basin Close 	Close 	Tuas Basin 	0 	4.5
+Tuas Basin Link 	Link 	Tuas Basin 	0 	4.5
+Tuas Crescent 	Crescent 	Tuas 	0 	4.0
+Tuas Drive 1 	Drive 	Tuas 	0 	4.0
+Tuas Drive 2 	Drive 	Tuas 	0 	4.0
+Tuas Lane 	Lane 	Tuas 	0 	4.0
+Tuas Link 1 	Link 	Tuas 	0 	4.0
+Tuas Link 2 	Link 	Tuas 	0 	4.0
+Tuas Link 3 	Link 	Tuas 	0 	4.0
+Tuas Link 4 	Link 	Tuas 	0 	4.0
+Tuas Road 	Road 	Tuas 	0 	4.0
+Tuas South Avenue 1 	Avenue 	Tuas 	0 	4.0
+Tuas South Avenue 2 	Avenue 	Tuas 	0 	4.0
+Tuas South Avenue 3 	Avenue 	Tuas 	0 	4.0
+Tuas South Avenue 4 	Avenue 	Tuas 	0 	4.0
+Tuas South Avenue 5 	Avenue 	Tuas 	0 	4.0
+Tuas South Avenue 6 	Avenue 	Tuas 	0 	4.0
+Tuas South Avenue 7 	Avenue 	Tuas 	0 	4.0
+Tuas South Avenue 8 	Avenue 	Tuas 	0 	4.0
+Tuas South Avenue 9 	Avenue 	Tuas 	0 	4.0
+Tuas South Street 1 	Street 	Tuas 	0 	4.0
+Tuas South Street 2 	Street 	Tuas 	0 	4.0
+Tuas South Street 3 	Street 	Tuas 	0 	4.0
+Tuas South Street 5 	Street 	Tuas 	0 	4.0
+Tuas South Street 6 	Street 	Tuas 	0 	4.0
+Tuas South Street 7 	Street 	Tuas 	0 	4.0
+Tuas Street 	Street 	Tuas 	0 	4.0
+Tuas View Link 	View Link 	Tuas 	0 	4.0
+Tuas View Place 	View Place 	Tuas 	0 	4.0
+Tuas West Avenue 	Avenue 	Tuas 	0 	4.0
+Tuas West Drive 	Drive 	Tuas 	0 	4.0
+Tuas West Road 	Road 	Tuas 	0 	4.0
+Tudor Close 	Close 	Tudor 	0 	5.0
+Tung Po Avenue 	Avenue 	Tung Po 	0 	3.0
+Turf Club Avenue 	Avenue 	Turf Club 	0 	4.0
+Turf Club Road 	Road 	Turf Club 	0 	4.0
+Turnhouse Road 	Road 	Turnhouse 	0 	9.0
+Turut Track 	Track 	Turut 	0 	5.0
+Tyersall Avenue 	Avenue 	Tyersall 	0 	8.0
+Tyersall Road 	Road 	Tyersall 	0 	8.0
+Tyrwhitt Road 	Road 	Tyrwhitt 	0 	8.0
+Ubi Avenue 1 	Avenue 	Ubi 	0 	3.0
+Ubi Avenue 2 	Avenue 	Ubi 	0 	3.0
+Ubi Avenue 3 	Avenue 	Ubi 	0 	3.0
+Ubi Avenue 4 	Avenue 	Ubi 	0 	3.0
+Ubi Close 	Close 	Ubi 	0 	3.0
+Ubi Road 1 	Road 	Ubi 	0 	3.0
+Ubi Road 2 	Road 	Ubi 	0 	3.0
+Ubi Road 3 	Road 	Ubi 	0 	3.0
+Ubi Road 4 	Road 	Ubi 	0 	3.0
+Ulu Pandan Road 	Road 	Ulu Pandan 	0 	4.5
+Unity Street 	Street 	Unity 	0 	5.0
+University Road 	Road 	University 	0 	10.0
+University Walk 	Walk 	University 	0 	10.0
+Upavon Road 	Road 	Upavon 	0 	6.0
+Upper Aljunied Lane 	Lane 	Aljunied 	0 	8.0
+Upper Aljunied Link 	Link 	Aljunied 	0 	8.0
+Upper Aljunied Road 	Road 	Aljunied 	0 	8.0
+Upper Bedok Road 	Road 	Bedok 	0 	5.0
+Upper Boon Keng Road 	Road 	Boon Keng 	0 	4.0
+Upper Bukit Timah Road 	Road 	Bukit Timah 	0 	5.0
+Upper Changi Road 	Road 	Changi 	0 	6.0
+Upper Changi Road East 	Road 	Changi 	0 	6.0
+Upper Changi Road North 	Road 	Changi 	0 	6.0
+Upper Changi Road Track 39 	Road Track 	Changi 	0 	6.0
+Upper Circular Road 	Road 	Circular 	0 	8.0
+Upper Cross Street 	Street 	Cross 	0 	5.0
+Upper Dickson Road 	Road 	Dickson 	0 	7.0
+Upper East Coast Road 	Road 	Coast 	0 	5.0
+Upper Hokien Street 	Street 	Hokien 	0 	6.0
+Upper Jurong Road 	Road 	Jurong 	0 	6.0
+Upper Neram Road 	Road 	Neram 	0 	5.0
+Upper Paya Lebar Road 	Road 	Paya Lebar 	0 	4.5
+Upper Pickering Street 	Street 	Pickering 	0 	9.0
+Upper Ring Road 	Road 	Ring 	0 	4.0
+Upper Serangoon Road 	Road 	Serangoon 	0 	9.0
+Upper Thomson Road 	Road 	Thomson 	0 	7.0
+Upper Toh Tuck Terrace 	Terrace 	Toh Tuck 	0 	3.5
+Upper Weld Road 	Road 	Weld 	0 	4.0
+Upper Wilkie Road 	Road 	Wilkie 	0 	6.0
+Valley Road 	Road 	Valley 	0 	6.0
+Vanda Avenue 	Avenue 	Vanda 	0 	5.0
+Vanda Crescent 	Crescent 	Vanda 	0 	5.0
+Vanda Drive 	Drive 	Vanda 	0 	5.0
+Vanda Link 	Link 	Vanda 	0 	5.0
+Vanda Road 	Road 	Vanda 	0 	5.0
+Vaughan Road 	Road 	Vaughan 	0 	7.0
+Veeragoo Close 	Close 	Veeragoo 	0 	8.0
+Veerasamy Road 	Road 	Veerasamy 	0 	9.0
+Venus Drive 	Drive 	Venus 	0 	5.0
+Venus Road 	Road 	Venus 	0 	5.0
+Verdun Road 	Road 	Verdun 	0 	6.0
+Vernon Park 	Park 	Vernon 	0 	6.0
+Victoria Lane 	Lane 	Victoria 	0 	8.0
+Victoria Park Close 	Park Close 	Victoria 	0 	8.0
+Victoria Park Road 	Park Road 	Victoria 	0 	8.0
+Victoria Street 	Street 	Victoria 	0 	8.0
+View Road 	Road 	View 	0 	4.0
+Vigilante Drive 	Drive 	Vigilante 	0 	9.0
+Viking Road 	Road 	Viking 	0 	6.0
+Vista Terrace 	Terrace 	Vista 	0 	5.0
+Wajek Walk 	Walk 	Wajek 	0 	5.0
+Wallace Way 	Way 	Wallace 	0 	7.0
+Wallich Street 	Street 	Wallich 	0 	7.0
+Walmer Drive 	Drive 	Walmer 	0 	6.0
+Walshe Road 	Road 	Walshe 	0 	6.0
+Walton Road 	Road 	Walton 	0 	6.0
+Wan Lee Road 	Road 	Wan Lee 	0 	3.0
+Wan Shih Road 	Road 	Wan Shih 	0 	3.5
+Wan Tho Avenue 	Avenue 	Wan Tho 	0 	3.0
+Wareham Road 	Road 	Wareham 	0 	7.0
+Waringin Park 	Park 	Waringin 	0 	8.0
+Waringin Walk 	Walk 	Waringin 	0 	8.0
+Warwick Road 	Road 	Warwick 	0 	7.0
+Waterloo Street 	Street 	Waterloo 	0 	8.0
+Watten Close 	Close 	Watten 	0 	6.0
+Watten Drive 	Drive 	Watten 	0 	6.0
+Watten Estate 	Estate 	Watten 	0 	6.0
+Watten Estate Road 	Estate Road 	Watten 	0 	6.0
+Watten Heights 	Heights 	Watten 	0 	6.0
+Watten Park 	Park 	Watten 	0 	6.0
+Watten Rise 	Rise 	Watten 	0 	6.0
+Watten Terrace 	Terrace 	Watten 	0 	6.0
+Watten View 	View 	Watten 	0 	6.0
+Wee Nam Road 	Road 	Wee Nam 	0 	3.0
+Weld Road 	Road 	Weld 	0 	4.0
+Wellington Circle 	Circle 	Wellington 	0 	10.0
+Wellington Link 	Link 	Wellington 	0 	10.0
+Wellington Road 	Road 	Wellington 	0 	10.0
+Wessex Estate 	Estate 	Wessex 	0 	6.0
+West Camp Road 	Road 	Camp 	0 	4.0
+West Coast Avenue 	Avenue 	Coast 	0 	5.0
+West Coast Crescent 	Crescent 	Coast 	0 	5.0
+West Coast Drive 	Drive 	Coast 	0 	5.0
+West Coast Ferry Road 	Road 	Coast Ferry 	0 	5.0
+West Coast Green 	Green 	Coast 	0 	5.0
+West Coast Grove 	Grove 	Coast 	0 	5.0
+West Coast Highway 	Highway 	Coast 	0 	5.0
+West Coast Lane 	Lane 	Coast 	0 	5.0
+West Coast Link 	Link 	Coast 	0 	5.0
+West Coast Park 	Park 	Coast 	0 	5.0
+West Coast Place 	Place 	Coast 	0 	5.0
+West Coast Rise 	Rise 	Coast 	0 	5.0
+West Coast Road 	Road 	Coast 	0 	5.0
+West Coast Terrace 	Terrace 	Coast 	0 	5.0
+West Coast View 	View 	Coast 	0 	5.0
+West Coast Way 	Way 	Coast 	0 	5.0
+West Perimeter Road 	Road 	Perimeter 	0 	9.0
+Westbourne Road 	Road 	Westbourne 	0 	10.0
+Westerhout Road 	Road 	Westerhout 	0 	10.0
+Western Avenue 	Avenue 	Western 	0 	7.0
+Westlake Avenue 	Avenue 	Westlake 	0 	8.0
+Westridge Walk 	Walk 	Westridge 	0 	9.0
+Westwood Avenue 	Avenue 	Westwood 	0 	8.0
+Westwood Crescent 	Crescent 	Westwood 	0 	8.0
+Westwood Road 	Road 	Westwood 	0 	8.0
+Westwood Terrace 	Terrace 	Westwood 	0 	8.0
+Westwood Walk 	Walk 	Westwood 	0 	8.0
+Weyhill Close 	Close 	Weyhill 	0 	7.0
+Whampoa Drive 	Drive 	Whampoa 	0 	7.0
+Whampoa East 	 	Whampoa 	0 	7.0
+Whampoa North 	 	Whampoa 	0 	7.0
+Whampoa Road 	Road 	Whampoa 	0 	7.0
+Whampoa South 	 	Whampoa 	0 	7.0
+Whampoa West 	 	Whampoa 	0 	7.0
+Whitchurch Road 	Road 	Whitchurch 	0 	10.0
+White House Park 	Park 	White House 	0 	5.0
+White House Road 	Road 	White House 	0 	5.0
+Whitley Heights 	Heights 	Whitley 	0 	7.0
+Whitley Road 	Road 	Whitley 	0 	7.0
+Wholesale Centre 	Centre 	Wholesale 	0 	9.0
+Wilby Road 	Road 	Wilby 	0 	5.0
+Wilkie Road 	Road 	Wilkie 	0 	6.0
+Wilkie Terrace 	Terrace 	Wilkie 	0 	6.0
+Wilkinson Road 	Road 	Wilkinson 	0 	9.0
+Willow Avenue 	Avenue 	Willow 	0 	6.0
+Wilmonar Avenue 	Avenue 	Wilmonar 	0 	8.0
+Wilton Close 	Close 	Wilton 	0 	6.0
+Wilton Gardens 	Gardens 	Wilton 	0 	6.0
+Wiltshire Road 	Road 	Wiltshire 	0 	9.0
+Wimborne Road 	Road 	Wimborne 	0 	8.0
+Winchester Road 	Road 	Winchester 	0 	10.0
+Windsor Park Estate 	Park Estate 	Windsor 	0 	7.0
+Windsor Park Road 	Park Road 	Windsor 	0 	7.0
+Winsor Park Hill 	Park Hill 	Winsor 	0 	6.0
+Winstedt Drive 	Drive 	Winstedt 	0 	8.0
+Winstedt Road 	Road 	Winstedt 	0 	8.0
+Wishart Road 	Road 	Wishart 	0 	7.0
+Wittering Road 	Road 	Wittering 	0 	9.0
+Woking Road 	Road 	Woking 	0 	6.0
+Wolskel Road 	Road 	Wolskel 	0 	7.0
+Wong Chin Yoke Road 	Road 	Wong Chin Yoke 	0 	4.0
+Woo Mon Chew Road 	Road 	Woo Mon Chew 	0 	3.33333333333
+Woodgrove Avenue 	Avenue 	Woodgrove 	0 	9.0
+Woodgrove Drive 	Drive 	Woodgrove 	0 	9.0
+Woodgrove Estate 	Estate 	Woodgrove 	0 	9.0
+Woodlands Avenue 1 	Avenue 	Woodlands 	0 	9.0
+Woodlands Avenue 2 	Avenue 	Woodlands 	0 	9.0
+Woodlands Avenue 3 	Avenue 	Woodlands 	0 	9.0
+Woodlands Avenue 4 	Avenue 	Woodlands 	0 	9.0
+Woodlands Avenue 5 	Avenue 	Woodlands 	0 	9.0
+Woodlands Avenue 6 	Avenue 	Woodlands 	0 	9.0
+Woodlands Avenue 7 	Avenue 	Woodlands 	0 	9.0
+Woodlands Avenue 8 	Avenue 	Woodlands 	0 	9.0
+Woodlands Avenue 9 	Avenue 	Woodlands 	0 	9.0
+Woodlands Centre Road 	Centre Road 	Woodlands 	0 	9.0
+Woodlands Circle 	Circle 	Woodlands 	0 	9.0
+Woodlands Close 	Close 	Woodlands 	0 	9.0
+Woodlands Crescent 	Crescent 	Woodlands 	0 	9.0
+Woodlands Drive 14 	Drive 	Woodlands 	0 	9.0
+Woodlands Drive 16 	Drive 	Woodlands 	0 	9.0
+Woodlands Drive 40 	Drive 	Woodlands 	0 	9.0
+Woodlands Drive 42 	Drive 	Woodlands 	0 	9.0
+Woodlands Drive 43 	Drive 	Woodlands 	0 	9.0
+Woodlands Drive 44 	Drive 	Woodlands 	0 	9.0
+Woodlands Drive 50 	Drive 	Woodlands 	0 	9.0
+Woodlands Drive 52 	Drive 	Woodlands 	0 	9.0
+Woodlands Drive 53 	Drive 	Woodlands 	0 	9.0
+Woodlands Drive 60 	Drive 	Woodlands 	0 	9.0
+Woodlands Drive 61 	Drive 	Woodlands 	0 	9.0
+Woodlands Drive 62 	Drive 	Woodlands 	0 	9.0
+Woodlands Drive 63 	Drive 	Woodlands 	0 	9.0
+Woodlands Drive 65 	Drive 	Woodlands 	0 	9.0
+Woodlands Drive 70 	Drive 	Woodlands 	0 	9.0
+Woodlands Drive 71 	Drive 	Woodlands 	0 	9.0
+Woodlands Drive 72 	Drive 	Woodlands 	0 	9.0
+Woodlands Drive 73 	Drive 	Woodlands 	0 	9.0
+Woodlands Industrial Park D 	Industrial Park 	Woodlands 	0 	9.0
+Woodlands Industrial Park E 	Industrial Park 	Woodlands 	0 	9.0
+Woodlands Industrial Park E1 	Industrial Park 	Woodlands 	0 	9.0
+Woodlands Industrial Park E2 	Industrial Park 	Woodlands 	0 	9.0
+Woodlands Industrial Park E3 	Industrial Park 	Woodlands 	0 	9.0
+Woodlands Industrial Park E4 	Industrial Park 	Woodlands 	0 	9.0
+Woodlands Industrial Park E5 	Industrial Park 	Woodlands 	0 	9.0
+Woodlands Industrial Park E6 	Industrial Park 	Woodlands 	0 	9.0
+Woodlands Industrial Park E7 	Industrial Park 	Woodlands 	0 	9.0
+Woodlands Industrial Park E8 	Industrial Park 	Woodlands 	0 	9.0
+Woodlands Industrial Park E9 	Industrial Park 	Woodlands 	0 	9.0
+Woodlands Link 	Link 	Woodlands 	0 	9.0
+Woodlands Loop 	Loop 	Woodlands 	0 	9.0
+Woodlands Ring Road 	Ring Road 	Woodlands 	0 	9.0
+Woodlands Road 	Road 	Woodlands 	0 	9.0
+Woodlands Sector 1 	Sector 	Woodlands 	0 	9.0
+Woodlands Sector 3 	Sector 	Woodlands 	0 	9.0
+Woodlands Square 	Square 	Woodlands 	0 	9.0
+Woodlands Street 11 	Street 	Woodlands 	0 	9.0
+Woodlands Street 12 	Street 	Woodlands 	0 	9.0
+Woodlands Street 13 	Street 	Woodlands 	0 	9.0
+Woodlands Street 31 	Street 	Woodlands 	0 	9.0
+Woodlands Street 32 	Street 	Woodlands 	0 	9.0
+Woodlands Street 41 	Street 	Woodlands 	0 	9.0
+Woodlands Street 81 	Street 	Woodlands 	0 	9.0
+Woodlands Street 82 	Street 	Woodlands 	0 	9.0
+Woodlands Street 83 	Street 	Woodlands 	0 	9.0
+Woodlands Terrace 	Terrace 	Woodlands 	0 	9.0
+Woodlands Walk 	Walk 	Woodlands 	0 	9.0
+Woodleigh Close 	Close 	Woodleigh 	0 	9.0
+Woodleigh Park 	Park 	Woodleigh 	0 	9.0
+Woodsville Close 	Close 	Woodsville 	0 	10.0
+Woollerton Drive 	Drive 	Woollerton 	0 	10.0
+Woollerton Park 	Park 	Woollerton 	0 	10.0
+Woolwich Road 	Road 	Woolwich 	0 	8.0
+Worcester Road 	Road 	Worcester 	0 	9.0
+Worthing Road 	Road 	Worthing 	0 	8.0
+Xilin Avenue 	Avenue 	Xilin 	0 	5.0
+Yan Kit Road 	Road 	Yan Kit 	0 	3.0
+Yarrow Gardens 	Gardens 	Yarrow 	0 	6.0
+Yarwood Avenue 	Avenue 	Yarwood 	0 	7.0
+Yee Tee Industrial Estate 	Industrial Estate 	Yee Tee 	0 	3.0
+Yew Siang Road 	Road 	Yew Siang 	0 	4.0
+Yew Tee Close 	Close 	Yew Tee 	0 	3.0
+Yio Chu Kang Gardens 	Gardens 	Yio Chu Kang 	0 	3.33333333333
+Yio Chu Kang Link 	Link 	Yio Chu Kang 	0 	3.33333333333
+Yio Chu Kang Road 	Road 	Yio Chu Kang 	0 	3.33333333333
+Yio Chu Kang Terrace 	Terrace 	Yio Chu Kang 	0 	3.33333333333
+Yio Chu Kang Track 14 	Track 	Yio Chu Kang 	0 	3.33333333333
+Yishun Avenue 1 	Avenue 	Yishun 	0 	6.0
+Yishun Avenue 11 	Avenue 	Yishun 	0 	6.0
+Yishun Avenue 2 	Avenue 	Yishun 	0 	6.0
+Yishun Avenue 3 	Avenue 	Yishun 	0 	6.0
+Yishun Avenue 4 	Avenue 	Yishun 	0 	6.0
+Yishun Avenue 5 	Avenue 	Yishun 	0 	6.0
+Yishun Avenue 6 	Avenue 	Yishun 	0 	6.0
+Yishun Avenue 7 	Avenue 	Yishun 	0 	6.0
+Yishun Avenue 9 	Avenue 	Yishun 	0 	6.0
+Yishun Central 	 	Yishun 	0 	6.0
+Yishun Central 1 	 	Yishun 	0 	6.0
+Yishun Central 2 	 	Yishun 	0 	6.0
+Yishun Industrial Park A 	Industrial Park 	Yishun 	0 	6.0
+Yishun Northview Drive 	Northview Drive 	Yishun 	0 	6.0
+Yishun Ring Road 	Ring Road 	Yishun 	0 	6.0
+Yishun Street 11 	Street 	Yishun 	0 	6.0
+Yishun Street 20 	Street 	Yishun 	0 	6.0
+Yishun Street 21 	Street 	Yishun 	0 	6.0
+Yishun Street 22 	Street 	Yishun 	0 	6.0
+Yishun Street 61 	Street 	Yishun 	0 	6.0
+Yishun Street 71 	Street 	Yishun 	0 	6.0
+Yishun Street 72 	Street 	Yishun 	0 	6.0
+Yishun Street 81 	Street 	Yishun 	0 	6.0
+Yong Siak Street 	Street 	Yong Siak 	0 	4.0
+York Hill 	Hill 	York 	0 	4.0
+York Place 	Place 	York 	0 	4.0
+York Road 	Road 	York 	0 	4.0
+Youngberg Terrace 	Terrace 	Youngberg 	0 	9.0
+Yuan Ching Road 	Road 	Yuan Ching 	0 	4.5
+Yuk Tong Avenue 	Avenue 	Yuk Tong 	0 	3.5
+Yung An Road 	Road 	Yung An 	0 	3.0
+Yung Ho Road 	Road 	Yung Ho 	0 	3.0
+Yung Kuang Road 	Road 	Yung Kuang 	0 	4.5
+Yung Loh Road 	Road 	Yung Loh 	0 	3.5
+Yung Ping Road 	Road 	Yung Ping 	0 	4.0
+Yung Sheng Road 	Road 	Yung Sheng 	0 	4.5
+Yunnan Crescent 	Crescent 	Yunnan 	0 	6.0
+Yunnan Drive 	Drive 	Yunnan 	0 	6.0
+Yunnan Road 	Road 	Yunnan 	0 	6.0
+Yunnan Walk 	Walk 	Yunnan 	0 	6.0
+Zion Road 	Road 	Zion 	0 	4.0
+Zion Close 	Close 	Zion 	0 	4.0
+Zehnder Road 	Road 	Zehnder 	0 	7.0
