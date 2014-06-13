@@ -2418,7 +2418,7 @@ Moonbeam View
 Moonbeam Walk
 Moonstone Lane
 Moreton Close
-Morington Crescent
+Mornington Crescent
 Morley Road
 Morse Road
 Mosque Street
@@ -2449,7 +2449,7 @@ Mountbatten Road
 Mugliston Gardens
 Mugliston Park
 Mugliston Road
-Mugliston walk
+Mugliston Walk
 Mulberry Avenue
 Munshi Abdullah Avenue
 Munshi Abdullah Walk
@@ -2785,8 +2785,8 @@ Poh Huat Crescent
 Poh Huat Drive
 Poh Huat Road
 Poh Huat Terrace
-Ponggol Seventeenth Avenue
-Ponggol Twenty-Fourth Avenue
+Ponggol :Seventeenth Avenue
+Ponggol :Twenty-Fourth Avenue
 Poole Road
 Port Road
 Portchester Avenue
@@ -2824,7 +2824,7 @@ Queen Street
 Queen's Avenue
 Queen's Close
 Queen's Crescent
-Queen's Roa
+Queen's Row
 Queensway
 Quemoy Road
 Race Course Lane
@@ -3520,13 +3520,13 @@ Tiong Poh Avenue
 Tiong Poh Road
 Tiverton Lane
 Toa Payoh Central
-Toa Payoh Ease
+Toa Payoh East
 Toa Payoh Industrial Estate
 Toa Payoh Industrial Park
 Toa Payoh North
 Toa Payoh Rise
 Toa Payoh West
-Toa Payoh West Industiral Estate
+Toa Payoh West Industrial Estate
 Toh Avenue
 Toh Close
 Toh Crescent
@@ -3621,7 +3621,7 @@ Tuas Street
 Tuas View Link
 Tuas View Place
 Tuas West Avenue
-Tuas West Drice
+Tuas West Drive
 Tuas West Road
 Tudor Close
 Tung Po Avenue
