@@ -4,7 +4,7 @@ from glob import glob
 
 freqdict = defaultdict(int)
 
-road_tags = ["Road", "Avenue", "Street", "Drive", "Lorong", "Lane",
+road_tags = ["Road", "Avenue", "Street", "Drive", "Lane",
              "Crescent", "Walk", "Park", "Terrace", "Close", "Link",
              "Place", "Way", "Grove", "Rise", "View", "Hill", "Estate", 
              "Farmway", "Green", "Garden", "Gardens", "Junction", "Boulevard",
