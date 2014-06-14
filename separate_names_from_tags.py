@@ -1,4 +1,4 @@
-from __future__ import division
+from __future__ import division, print_function
 from collections import defaultdict
 from glob import glob
 
@@ -69,9 +69,11 @@ with open('sg_roadnames.txt', 'r') as f:
             all_words_in_dict = all_words_in_dict and word.lower() in dictionary
             
         # print result and some basic features
-        print line.strip(), "\t",               # full road name
-        print ' '.join(reversed(tags)), "\t",   # road tags 
-        print ' '.join(remainder), "\t",        # the actual name of the road
-        print malay_tag, "\t",                  # whether the road tag is Malay
-        print mean_word_length(remainder), "\t",# mean word length of the name
-        print 1 if all_words_in_dict else 0     # are all words in name in dict?
+        print(line.strip(),                     # full road name 
+              ' '.join(reversed(tags)),         # road tags
+              ' '.join(remainder),              # the actual name of the road
+              malay_tag,                        # whether the road tag is Malay
+              mean_word_length(remainder),      # mean word length of the name
+              1 if all_words_in_dict else 0,    # are all words in name in dict?
+              sep="\t")
+
