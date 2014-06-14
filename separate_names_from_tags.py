@@ -1,5 +1,6 @@
 from __future__ import division
 from collections import defaultdict
+from glob import glob
 
 freqdict = defaultdict(int)
 
@@ -20,6 +21,15 @@ def mean_word_length(name):
     assert type(name) == list
     lengths = [len(word) for word in name]
     return sum(lengths) / len(lengths)
+
+# open dictionary
+dictionary = dict()
+for dictfile in glob('resources/scowl-7.1/final/english-words*'):
+    if dictfile.endswith('95'):
+        continue
+    with open(dictfile, 'r') as g:
+        for line in g.readlines():
+            dictionary[line.strip()] = 1
 
 with open('sg_roadnames.txt', 'r') as f:
     for line in f:
@@ -54,9 +64,14 @@ with open('sg_roadnames.txt', 'r') as f:
                 tags = [""]
                 remainder = words
             
+        all_words_in_dict = True
+        for word in remainder:
+            all_words_in_dict = all_words_in_dict and word.lower() in dictionary
+            
         # print result and some basic features
         print line.strip(), "\t",               # full road name
         print ' '.join(reversed(tags)), "\t",   # road tags 
         print ' '.join(remainder), "\t",        # the actual name of the road
         print malay_tag, "\t",                  # whether the road tag is Malay
-        print mean_word_length(remainder)       # mean word length of the name
+        print mean_word_length(remainder), "\t",# mean word length of the name
+        print 1 if all_words_in_dict else 0     # are all words in name in dict?
