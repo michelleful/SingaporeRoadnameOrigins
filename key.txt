@@ -1,0 +1,17 @@
+Column 1. Full road name.
+Column 2. Road tag.
+Column 3. Name only, excludes tag, numbers, "North/South/etc"
+Column 4. Has Malay road tag?
+          1 = True
+          0 = False
+Column 5. Mean length of words in name (column 3).
+Column 6. All words in name in English dictionary?
+          1 = True
+          0 = False
+Column 7. Name origin classification.
+          0 = Malay
+          1 = Chinese
+          2 = British
+          3 = Indian
+          4 = Generic English (e.g. Market, etc)
+          5 = Other (includes Eurasian, unknown)
