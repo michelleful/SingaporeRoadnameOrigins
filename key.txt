@@ -1,14 +1,14 @@
-Column 1. Full road name.
-Column 2. Road tag.
-Column 3. Name only, excludes tag, numbers, "North/South/etc"
-Column 4. Has Malay road tag?
+Column 0. Full road name.
+Column 1. Road tag.
+Column 2. Name only, excludes tag, numbers, "North/South/etc"
+Column 3. Has Malay road tag?
           1 = True
           0 = False
-Column 5. Mean length of words in name (column 3).
-Column 6. All words in name in English dictionary?
+Column 4. Mean length of words in name (column 3).
+Column 5. All words in name in English dictionary?
           1 = True
           0 = False
-Column 7. Name origin classification.
+Column 6. Name origin classification.
           0 = Malay
           1 = Chinese
           2 = British
