@@ -22,4 +22,8 @@ Optional:
 [ ] Apply evaluation metric to data such as electoral constituency boundaries
     as they evolve over time
 
-
+Community contributions:
+[ ] Fix roadnames with spelling errors in OpenStreetMap
+[ ] Roadnames classified by language of origin, possibly with
+    community-contributed notes?
+[ ] (optional) map layers for historical electoral constituency boundaries
