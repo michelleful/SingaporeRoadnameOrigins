@@ -1,7 +1,7 @@
 """
 Train and test various classifiers on the data
 """
-from numpy import array
+from numpy import array, hstack
 from sklearn.feature_extraction.text import CountVectorizer
 
 DATA_FOLDER = '../data/'
@@ -47,6 +47,10 @@ def extract_training_data():
     # finally, get the output of the n-gram vectorizer
     # and "glue" it to the other features
     X_ngram_features = extract_ngrams(roadname_list, type='train')
+
+    X = hstack((X_ngram_features, array(X_other_features)))
+    
+    return roadname_list, X, y
     
 def extract_testing_data():
     """Read testing data in from files, generate X matrix of feature vectors
@@ -72,7 +76,9 @@ def extract_testing_data():
     # finally, get the output of the n-gram vectorizer
     # and "glue" it to the other features
     X_ngram_features = extract_ngrams(roadname_list, type='test')
-    
-        
+    X = hstack((X_ngram_features, array(X_other_features)))
+
+    return roadname_list, X
+
 extract_training_data()
 extract_testing_data()
