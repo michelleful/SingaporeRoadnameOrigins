@@ -38,11 +38,12 @@ def extract_training_data():
                 roadname_list.append(roadname.strip())
 
                 # glue together the rest of the data
-                X_other_features.append([malay_road_tag, average_word_length,
-                                         all_words_in_dictionary])
+                X_other_features.append([int(malay_road_tag), 
+                                         float(average_word_length),
+                                         int(all_words_in_dictionary)])
 
                 # build up the gold standard vector
-                y.append(classification)
+                y.append(int(classification))
 
     # finally, get the output of the n-gram vectorizer
     # and "glue" it to the other features
@@ -70,8 +71,9 @@ def extract_testing_data():
                 roadname_list.append(roadname.strip())
 
                 # glue together the rest of the data
-                X_other_features.append([malay_road_tag, average_word_length,
-                                         all_words_in_dictionary])
+                X_other_features.append([int(malay_road_tag), 
+                                         float(average_word_length),
+                                         int(all_words_in_dictionary)])
 
     # finally, get the output of the n-gram vectorizer
     # and "glue" it to the other features
@@ -80,5 +82,18 @@ def extract_testing_data():
 
     return roadname_list, X
 
-extract_training_data()
-extract_testing_data()
+train_roadnames, train_X, train_y = extract_training_data()
+test_roadnames,  test_X           = extract_testing_data()
+
+from sklearn import svm
+clf = svm.SVC(gamma=0.001, C=100.)
+
+clf.fit(train_X, train_y)
+print clf.predict(test_X)
+
+from sklearn import cross_validation
+X_train, X_test, y_train, y_test = cross_validation.train_test_split(
+train_X, train_y, test_size=0.2, random_state=0)
+
+clf = svm.SVC(kernel='linear', C=1).fit(X_train, y_train)
+print clf.score(X_test, y_test)
