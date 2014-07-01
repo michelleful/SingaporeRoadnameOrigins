@@ -8,7 +8,7 @@ Plan:
 [x] Get list of Singapore roadnames
 [ ] Use scikit-learn to classify roadnames into languages of origin
     [x] Extract training features
-    [ ] Experiment with various 
+    [ ] Experiment with various machine learning algorithms
     [ ] Evaluate results
     [ ] Iteratively perform manual correction and expand the training set
 [ ] Use OpenStreetMap and GeoJSON (?) to plot the map
