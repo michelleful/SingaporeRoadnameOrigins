@@ -99,14 +99,28 @@ def extract_testing_data():
 #       MAIN
 # --------------------
 
-# get the training and testing data
+# get the training data plus the data to be classified
 train_roadnames, train_X, train_y = extract_training_data()
 test_roadnames,  test_X           = extract_testing_data()
 
-# which algorithms to test?
-# Linear SVC, Naive Bayes, K-Nearest Neighbour, SVC/Ensemble Classifiers
+# split the training data into a training set and a development set
+from sklearn import cross_validation
+#cross_validation.train_test_split
 
-from sklearn import svm
+from sklearn import svm, naive_bayes, neighbors
+
+# which algorithms to test?
+# Linear SVC, Naive Bayes, K-Nearest Neighbour, SVC
+ALGORITHMS = (svm.LinearSVC,  svm.SVC, 
+              naive_bayes.MultinomialNB, naive_bayes.BernoulliNB,
+              neighbors.KNeighborsClassifier)
+
+# what about ranges for parameter search? 
+# what ranges should be defined for each?
+# see: GridSearchCV http://scikit-learn.org/stable/modules/grid_search.html
+#      choose a scoring function
+# http://scikit-learn.org/stable/modules/model_evaluation.html#scoring-parameter
+
 clf = svm.SVC(gamma=0.001, C=100.)
 
 clf.fit(train_X, train_y)
