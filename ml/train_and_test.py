@@ -10,15 +10,23 @@ TRAIN_TO   = 0  # CHANGE THIS
 TEST_FROM  = TRAIN_TO + 1  # don't change unless necessary
 TEST_TO    = 9  # by default test all, change if necessary
 
-cv = CountVectorizer(ngram_range=(1, 4), analyzer='char')
+# ---------------------
+#  FEATURE EXTRACTION
+# ---------------------
+
+NGRAM = CountVectorizer(ngram_range=(1, 4), analyzer='char')
 
 
 def extract_ngrams(roadname_list, type='test'):
     if type == 'train':
-        return cv.fit_transform(roadname_list).toarray()
+        return NGRAM.fit_transform(roadname_list).toarray()
     else:  # type == 'test'
-        return cv.transform(roadname_list).toarray()
+        return NGRAM.transform(roadname_list).toarray()
 
+
+# ---------------------------
+#  DATA PROCESSING FUNCTIONS
+# ---------------------------
 
 def extract_training_data():
     """Read training data in from files, generate X matrix and y vector
@@ -86,8 +94,17 @@ def extract_testing_data():
 
     return roadname_list, X
 
+
+# --------------------
+#       MAIN
+# --------------------
+
+# get the training and testing data
 train_roadnames, train_X, train_y = extract_training_data()
 test_roadnames,  test_X           = extract_testing_data()
+
+# which algorithms to test?
+# Linear SVC, Naive Bayes, K-Nearest Neighbour, SVC/Ensemble Classifiers
 
 from sklearn import svm
 clf = svm.SVC(gamma=0.001, C=100.)
