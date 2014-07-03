@@ -111,6 +111,8 @@ from sklearn import svm, naive_bayes, neighbors
 
 # which algorithms to test?
 # Linear SVC, Naive Bayes, K-Nearest Neighbour, SVC
+# Ensemble methods: Random Forest Classifier, Extra Trees Classifier,
+# Ada Boost Classifier, Gradient Boosting Classifier
 ALGORITHMS = (svm.LinearSVC,  svm.SVC, 
               naive_bayes.MultinomialNB, naive_bayes.BernoulliNB,
               neighbors.KNeighborsClassifier)
@@ -120,6 +122,8 @@ ALGORITHMS = (svm.LinearSVC,  svm.SVC,
 # see: GridSearchCV http://scikit-learn.org/stable/modules/grid_search.html
 #      choose a scoring function
 # http://scikit-learn.org/stable/modules/model_evaluation.html#scoring-parameter
+# there is also a random search function but you still need to define the
+# parameter distributions.
 
 clf = svm.SVC(gamma=0.001, C=100.)
 
