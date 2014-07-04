@@ -129,6 +129,8 @@ def trained_multinomial_naive_bayes(X_train, y_train, X_dev, y_dev):
     # parameters:
     # {'alpha': 1.0, 'fit_prior': True, 'class_prior': None}
     
+    classifier.fit(X_train, y_train)
+    
     return classifier
 
 
@@ -268,7 +270,7 @@ def trained_gradient_boost(X_train, y_train, X_dev, y_dev):
     #  'min_samples_leaf': 1, 'n_estimators': 100, 'min_samples_split': 2, 
     #  'init': None, 'random_state': None, 'max_features': None, 'max_depth': 3}
     
-    pass
+    return classifier
 
 
 # --------------------
@@ -280,23 +282,14 @@ train_roadnames, train_X, train_y = extract_training_data()
 test_roadnames,  test_X           = extract_testing_data()
 
 # further split the training data into a training set and a development set
-X_train, y_train, X_dev, y_dev = cross_validation.train_test_split(train_X, 
+X_train, X_dev, y_train, y_dev = cross_validation.train_test_split(train_X, 
                                     train_y, test_size=0.2, random_state=42)
-
-
-
-
-
-
-
-
 
 #clf = svm.SVC(gamma=0.001, C=100.)
 
 #clf.fit(train_X, train_y)
 #print clf.predict(test_X)
 
-#from sklearn import cross_validation
 #X_train, X_test, y_train, y_test = cross_validation.train_test_split(train_X,
 #                                        train_y, test_size=0.2, random_state=0)
 
