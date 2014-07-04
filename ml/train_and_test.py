@@ -103,7 +103,7 @@ def extract_testing_data():
 # note: why multiple skeletons? Because we'll need to tune different
 #       sets of parameters for each one (presumably)
 
-# how to find parameters: classifier.get_params
+# how to find parameters: classifier.get_params()
 
 # ------------------
 #    Naive Bayes
@@ -143,8 +143,15 @@ def trained_linear_svc(X_train, y_train, X_dev, y_dev):
        and tunes parameters based on X_dev, y_dev.
        Returns the classifier
     """
-    # svm.LinearSVC
-    pass
+    classifier = svm.LinearSVC()
+    
+    # parameters:
+    # {'loss': 'l2', 'C': 1.0, 'verbose': 0, 'intercept_scaling': 1, 
+    #  'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 
+    #  'random_state': None, 'dual': True, 'tol': 0.0001, 'class_weight': None}
+
+    return classifier
+
 
 # ------------------
 #        SVC
