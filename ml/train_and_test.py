@@ -158,12 +158,15 @@ def trained_knn(X_train, y_train, X_dev, y_dev):
 #   Ensemble methods
 # --------------------
 
-def trained_knn(X_train, y_train, X_dev, y_dev):
-    """Trains a k-Nearest Neighbours classifier using X_train, y_train
+# Ensemble methods: Random Forest Classifier, Extra Trees Classifier,
+# Ada Boost Classifier, Gradient Boosting Classifier
+
+def trained_random_forest(X_train, y_train, X_dev, y_dev):
+    """Trains a Random Forest classifier using X_train, y_train
        and tunes parameters based on X_dev, y_dev.
        Returns the classifier
     """
-    # neighbors.KNeighborsClassifier
+    # ensemble.RandomForestClassifier
     pass
 
 
@@ -183,9 +186,6 @@ X_train, y_train, X_dev, y_dev = cross_validation.train_test_split(train_X,
 
 
 
-# which algorithms to test?
-# Ensemble methods: Random Forest Classifier, Extra Trees Classifier,
-# Ada Boost Classifier, Gradient Boosting Classifier
 
 # what about ranges for parameter search? 
 # what ranges should be defined for each?
