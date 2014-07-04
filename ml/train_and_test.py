@@ -162,7 +162,14 @@ def trained_svc(X_train, y_train, X_dev, y_dev):
        and tunes parameters based on X_dev, y_dev.
        Returns the classifier
     """
-    # svm.SVC
+    classifier = svm.SVC()
+
+    # parameters:
+    # {'kernel': 'rbf', 'C': 1.0, 'verbose': False, 'probability': False, 
+    #  'degree': 3, 'shrinking': True, 'max_iter': -1, 'random_state': None, 
+    #  'tol': 0.001, 'cache_size': 200, 'coef0': 0.0, 'gamma': 0.0, 
+    #  'class_weight': None}
+
     pass
 
 
