@@ -105,6 +105,16 @@ def extract_testing_data():
 
 # how to find parameters: classifier.get_params()
 
+# what about ranges for parameter search? 
+# what ranges should be defined for each?
+# see: GridSearchCV http://scikit-learn.org/stable/modules/grid_search.html
+
+
+# what scoring function to use?
+# http://scikit-learn.org/stable/modules/model_evaluation.html#scoring-parameter
+# there is also a random search function but you still need to define the
+# parameter distributions.
+
 # ------------------
 #    Naive Bayes
 # ------------------
@@ -251,7 +261,13 @@ def trained_gradient_boost(X_train, y_train, X_dev, y_dev):
        and tunes parameters based on X_dev, y_dev.
        Returns the classifier
     """
-    # ensemble.GradientBoostClassifier
+    classifier = ensemble.GradientBoostingClassifier()
+
+    # parameters:
+    # {'loss': 'deviance', 'verbose': 0, 'subsample': 1.0, 'learning_rate': 0.1,
+    #  'min_samples_leaf': 1, 'n_estimators': 100, 'min_samples_split': 2, 
+    #  'init': None, 'random_state': None, 'max_features': None, 'max_depth': 3}
+    
     pass
 
 
@@ -272,15 +288,6 @@ X_train, y_train, X_dev, y_dev = cross_validation.train_test_split(train_X,
 
 
 
-# what about ranges for parameter search? 
-# what ranges should be defined for each?
-# see: GridSearchCV http://scikit-learn.org/stable/modules/grid_search.html
-
-
-# what scoring function to use?
-# http://scikit-learn.org/stable/modules/model_evaluation.html#scoring-parameter
-# there is also a random search function but you still need to define the
-# parameter distributions.
 
 
 
