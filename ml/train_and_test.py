@@ -3,7 +3,7 @@ Train and test various classifiers on the data
 """
 from numpy import array, hstack
 from sklearn.feature_extraction.text import CountVectorizer
-from sklearn import cross_validation
+from sklearn import cross_validation, grid_search
 from sklearn import svm, naive_bayes, neighbors, ensemble  # classifiers
 
 DATA_FOLDER = '../data/'
