@@ -219,8 +219,31 @@ def trained_ada_boost(X_train, y_train, X_dev, y_dev):
        and tunes parameters based on X_dev, y_dev.
        Returns the classifier
     """
+    classifier = ensemble.AdaBoostClassifier()
+
+    print classifier.get_params()
     # ensemble.AdaBoostClassifier
-    pass
+    
+    # parameters:
+    # {'base_estimator__min_samples_split': 2, 'base_estimator__max_depth': 1, 
+    #  'algorithm': 'SAMME.R', 'base_estimator__compute_importances': None, 
+    #  'learning_rate': 1.0, 
+    #  'base_estimator': DecisionTreeClassifier(compute_importances=None, 
+    #                                           criterion='gini',
+    #                                           max_depth=1, max_features=None, 
+    #                                           min_density=None,
+    #                                           min_samples_leaf=1, 
+    #                                           min_samples_split=2, 
+    #                                           random_state=None,
+    #                                           splitter='best'), 
+    #  'base_estimator__criterion': 'gini', 
+    #  'base_estimator__max_features': None, 
+    #  'base_estimator__random_state': None, 
+    #  'n_estimators': 50, 'random_state': None, 
+    #  'base_estimator__min_density': None, 'base_estimator__splitter': 'best', 
+    #  'base_estimator__min_samples_leaf': 1}
+
+    return classifier
 
 
 def trained_gradient_boost(X_train, y_train, X_dev, y_dev):
