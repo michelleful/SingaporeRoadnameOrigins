@@ -170,7 +170,7 @@ def trained_svc(X_train, y_train, X_dev, y_dev):
     #  'tol': 0.001, 'cache_size': 200, 'coef0': 0.0, 'gamma': 0.0, 
     #  'class_weight': None}
 
-    pass
+    return classifier
 
 
 # ------------------
@@ -182,8 +182,12 @@ def trained_knn(X_train, y_train, X_dev, y_dev):
        and tunes parameters based on X_dev, y_dev.
        Returns the classifier
     """
-    # neighbors.KNeighborsClassifier
-    pass
+    classifier = neighbors.KNeighborsClassifier()
+    
+    # parameters: {'n_neighbors': 5, 'algorithm': 'auto', 'metric': 'minkowski', 
+    # 'p': 2, 'weights': 'uniform', 'leaf_size': 30}
+    
+    return classifier
 
 
 # --------------------
@@ -198,7 +202,7 @@ def trained_random_forest(X_train, y_train, X_dev, y_dev):
        and tunes parameters based on X_dev, y_dev.
        Returns the classifier
     """
-    # ensemble.RandomForestClassifier
+    classifier = ensemble.RandomForestClassifier()
     pass
 
 
