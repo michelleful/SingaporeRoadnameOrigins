@@ -96,6 +96,18 @@ def extract_testing_data():
     return roadname_list, X
 
 # ------------------
+#    Naive Bayes
+# ------------------
+
+def trained_multinomial_naive_bayes(X_train, y_train, X_dev, y_dev):
+    """Trains a multinomial Naive Bayes classifier using X_train, y_train
+       and tunes parameters based on X_dev, y_dev.
+       Returns the classifier
+    """
+    # naive_bayes.MultinomialNB
+    pass
+
+# ------------------
 #    Linear SVC
 # ------------------
 
