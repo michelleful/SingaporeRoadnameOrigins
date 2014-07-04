@@ -158,7 +158,7 @@ def trained_knn(X_train, y_train, X_dev, y_dev):
 #   Ensemble methods
 # --------------------
 
-# Ensemble methods: Random Forest Classifier, Extra Trees Classifier,
+# Ensemble methods: Extra Trees Classifier,
 # Ada Boost Classifier, Gradient Boosting Classifier
 
 def trained_random_forest(X_train, y_train, X_dev, y_dev):
@@ -168,6 +168,17 @@ def trained_random_forest(X_train, y_train, X_dev, y_dev):
     """
     # ensemble.RandomForestClassifier
     pass
+
+
+def trained_ada_boost(X_train, y_train, X_dev, y_dev):
+    """Trains an Ada Boost classifier using X_train, y_train
+       and tunes parameters based on X_dev, y_dev.
+       Returns the classifier
+    """
+    # ensemble.AdaBoostClassifier
+    pass
+
+
 
 
 # --------------------
