@@ -297,15 +297,19 @@ test_roadnames,  test_X           = extract_testing_data()
 X_train, X_dev, y_train, y_dev = cross_validation.train_test_split(train_X, 
                                     train_y, test_size=0.2, random_state=42)
 
-trained_multinomial_naive_bayes(X_train, y_train, X_dev, y_dev)
+mnb = trained_multinomial_naive_bayes(X_train, y_train, X_dev, y_dev)
+bnb = trained_bernoulli_naive_bayes(X_train, y_train, X_dev, y_dev)
+lsvc = trained_linear_svc(X_train, y_train, X_dev, y_dev)
+svc = trained_svc(X_train, y_train, X_dev, y_dev)
+knn = trained_knn(X_train, y_train, X_dev, y_dev)
+rfe = trained_random_forest(X_train, y_train, X_dev, y_dev)
+abe = trained_ada_boost(X_train, y_train, X_dev, y_dev)
+gbe = trained_gradient_boost(X_train, y_train, X_dev, y_dev)
 
-#clf = svm.SVC(gamma=0.001, C=100.)
+# TODO: print nicely
+# TODO: also take the majority vote of all the classifiers
+for classifier in [mnb, bnb, lsvc, svc, knn, rfe, abe, gbe]:
+    print classifier.predict(test_X)
 
-#clf.fit(train_X, train_y)
-#print clf.predict(test_X)
 
-#X_train, X_test, y_train, y_test = cross_validation.train_test_split(train_X,
-#                                        train_y, test_size=0.2, random_state=0)
 
-#clf = svm.SVC(kernel='linear', C=1).fit(X_train, y_train)
-#print clf.score(X_test, y_test)
