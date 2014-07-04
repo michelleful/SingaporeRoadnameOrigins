@@ -284,6 +284,12 @@ def trained_gradient_boost(X_train, y_train, X_dev, y_dev):
     
     return classifier
 
+# --------------------
+#   Majority vote
+# --------------------
+
+def majority_vote():
+    pass
 
 # --------------------
 #       MAIN
