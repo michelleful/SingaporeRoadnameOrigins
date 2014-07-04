@@ -184,7 +184,8 @@ def trained_knn(X_train, y_train, X_dev, y_dev):
     """
     classifier = neighbors.KNeighborsClassifier()
     
-    # parameters: {'n_neighbors': 5, 'algorithm': 'auto', 'metric': 'minkowski', 
+    # parameters: 
+    # {'n_neighbors': 5, 'algorithm': 'auto', 'metric': 'minkowski', 
     # 'p': 2, 'weights': 'uniform', 'leaf_size': 30}
     
     return classifier
@@ -203,7 +204,14 @@ def trained_random_forest(X_train, y_train, X_dev, y_dev):
        Returns the classifier
     """
     classifier = ensemble.RandomForestClassifier()
-    pass
+
+    # parameters: 
+    # {'oob_score': False, 'n_jobs': 1, 'verbose': 0, 'min_density': None, 
+    #  'compute_importances': None, 'bootstrap': True, 'min_samples_leaf': 1, 
+    #  'n_estimators': 10, 'min_samples_split': 2, 'random_state': None, 
+    #  'criterion': 'gini', 'max_features': 'auto', 'max_depth': None}
+
+    return classifier
 
 
 def trained_ada_boost(X_train, y_train, X_dev, y_dev):
