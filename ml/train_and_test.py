@@ -125,11 +125,12 @@ def trained_multinomial_naive_bayes(X_train, y_train, X_dev, y_dev):
        Returns the classifier
     """
     classifier = naive_bayes.MultinomialNB()
+
+    classifier.fit(X_train, y_train)
     
     # parameters:
     # {'alpha': 1.0, 'fit_prior': True, 'class_prior': None}
     
-    classifier.fit(X_train, y_train)
     
     return classifier
 
@@ -140,6 +141,8 @@ def trained_bernoulli_naive_bayes(X_train, y_train, X_dev, y_dev):
        Returns the classifier
     """
     classifier = naive_bayes.BernoulliNB()
+
+    classifier.fit(X_train, y_train)
 
     # parameters:
     # {'binarize': 0.0, 'alpha': 1.0, 'fit_prior': True, 'class_prior': None}
@@ -156,6 +159,8 @@ def trained_linear_svc(X_train, y_train, X_dev, y_dev):
        Returns the classifier
     """
     classifier = svm.LinearSVC()
+
+    classifier.fit(X_train, y_train)
     
     # parameters:
     # {'loss': 'l2', 'C': 1.0, 'verbose': 0, 'intercept_scaling': 1, 
@@ -176,6 +181,8 @@ def trained_svc(X_train, y_train, X_dev, y_dev):
     """
     classifier = svm.SVC()
 
+    classifier.fit(X_train, y_train)
+
     # parameters:
     # {'kernel': 'rbf', 'C': 1.0, 'verbose': False, 'probability': False, 
     #  'degree': 3, 'shrinking': True, 'max_iter': -1, 'random_state': None, 
@@ -195,6 +202,8 @@ def trained_knn(X_train, y_train, X_dev, y_dev):
        Returns the classifier
     """
     classifier = neighbors.KNeighborsClassifier()
+
+    classifier.fit(X_train, y_train)
     
     # parameters: 
     # {'n_neighbors': 5, 'algorithm': 'auto', 'metric': 'minkowski', 
@@ -217,6 +226,8 @@ def trained_random_forest(X_train, y_train, X_dev, y_dev):
     """
     classifier = ensemble.RandomForestClassifier()
 
+    classifier.fit(X_train, y_train)
+
     # parameters: 
     # {'oob_score': False, 'n_jobs': 1, 'verbose': 0, 'min_density': None, 
     #  'compute_importances': None, 'bootstrap': True, 'min_samples_leaf': 1, 
@@ -233,9 +244,8 @@ def trained_ada_boost(X_train, y_train, X_dev, y_dev):
     """
     classifier = ensemble.AdaBoostClassifier()
 
-    print classifier.get_params()
-    # ensemble.AdaBoostClassifier
-    
+    classifier.fit(X_train, y_train)
+
     # parameters:
     # {'base_estimator__min_samples_split': 2, 'base_estimator__max_depth': 1, 
     #  'algorithm': 'SAMME.R', 'base_estimator__compute_importances': None, 
@@ -265,6 +275,8 @@ def trained_gradient_boost(X_train, y_train, X_dev, y_dev):
     """
     classifier = ensemble.GradientBoostingClassifier()
 
+    classifier.fit(X_train, y_train)
+
     # parameters:
     # {'loss': 'deviance', 'verbose': 0, 'subsample': 1.0, 'learning_rate': 0.1,
     #  'min_samples_leaf': 1, 'n_estimators': 100, 'min_samples_split': 2, 
@@ -284,6 +296,8 @@ test_roadnames,  test_X           = extract_testing_data()
 # further split the training data into a training set and a development set
 X_train, X_dev, y_train, y_dev = cross_validation.train_test_split(train_X, 
                                     train_y, test_size=0.2, random_state=42)
+
+trained_multinomial_naive_bayes(X_train, y_train, X_dev, y_dev)
 
 #clf = svm.SVC(gamma=0.001, C=100.)
 
