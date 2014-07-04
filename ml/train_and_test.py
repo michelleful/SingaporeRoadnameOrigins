@@ -103,6 +103,8 @@ def extract_testing_data():
 # note: why multiple skeletons? Because we'll need to tune different
 #       sets of parameters for each one (presumably)
 
+# how to find parameters: classifier.get_params
+
 # ------------------
 #    Naive Bayes
 # ------------------
@@ -112,16 +114,25 @@ def trained_multinomial_naive_bayes(X_train, y_train, X_dev, y_dev):
        and tunes parameters based on X_dev, y_dev.
        Returns the classifier
     """
-    # naive_bayes.MultinomialNB
-    pass
+    classifier = naive_bayes.MultinomialNB()
+    
+    # parameters:
+    # {'alpha': 1.0, 'fit_prior': True, 'class_prior': None}
+    
+    return classifier
+
 
 def trained_bernoulli_naive_bayes(X_train, y_train, X_dev, y_dev):
     """Trains a Bernoulli Naive Bayes classifier using X_train, y_train
        and tunes parameters based on X_dev, y_dev.
        Returns the classifier
     """
-    # naive_bayes.BernoulliNB
-    pass
+    classifier = naive_bayes.BernoulliNB()
+
+    # parameters:
+    # {'binarize': 0.0, 'alpha': 1.0, 'fit_prior': True, 'class_prior': None}
+
+    return classifier
 
 # ------------------
 #    Linear SVC
