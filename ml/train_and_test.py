@@ -103,11 +103,12 @@ def extract_testing_data():
 train_roadnames, train_X, train_y = extract_training_data()
 test_roadnames,  test_X           = extract_testing_data()
 
-# split the training data into a training set and a development set
+# further split the training data into a training set and a development set
 from sklearn import cross_validation
-#cross_validation.train_test_split
+X_train, y_train, X_dev, y_dev = cross_validation.train_test_split(train_X, 
+                                    train_y, test_size=0.2, random_state=42)
 
-from sklearn import svm, naive_bayes, neighbors
+from sklearn import svm, naive_bayes, neighbors, ensemble
 
 # which algorithms to test?
 # Linear SVC, Naive Bayes, K-Nearest Neighbour, SVC
@@ -120,19 +121,23 @@ ALGORITHMS = (svm.LinearSVC,  svm.SVC,
 # what about ranges for parameter search? 
 # what ranges should be defined for each?
 # see: GridSearchCV http://scikit-learn.org/stable/modules/grid_search.html
-#      choose a scoring function
+
+
+# what scoring function to use?
 # http://scikit-learn.org/stable/modules/model_evaluation.html#scoring-parameter
 # there is also a random search function but you still need to define the
 # parameter distributions.
 
-clf = svm.SVC(gamma=0.001, C=100.)
 
-clf.fit(train_X, train_y)
-print clf.predict(test_X)
 
-from sklearn import cross_validation
-X_train, X_test, y_train, y_test = cross_validation.train_test_split(train_X,
-                                        train_y, test_size=0.2, random_state=0)
+#clf = svm.SVC(gamma=0.001, C=100.)
 
-clf = svm.SVC(kernel='linear', C=1).fit(X_train, y_train)
-print clf.score(X_test, y_test)
+#clf.fit(train_X, train_y)
+#print clf.predict(test_X)
+
+#from sklearn import cross_validation
+#X_train, X_test, y_train, y_test = cross_validation.train_test_split(train_X,
+#                                        train_y, test_size=0.2, random_state=0)
+
+#clf = svm.SVC(kernel='linear', C=1).fit(X_train, y_train)
+#print clf.score(X_test, y_test)
