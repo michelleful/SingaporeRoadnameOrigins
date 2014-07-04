@@ -97,6 +97,13 @@ def extract_testing_data():
     return roadname_list, X
 
 # ------------------
+#    CLASSIFIERS
+# ------------------
+
+# note: why multiple skeletons? Because we'll need to tune different
+#       sets of parameters for each one (presumably)
+
+# ------------------
 #    Naive Bayes
 # ------------------
 
@@ -179,6 +186,13 @@ def trained_ada_boost(X_train, y_train, X_dev, y_dev):
     pass
 
 
+def trained_gradient_boost(X_train, y_train, X_dev, y_dev):
+    """Trains a Gradient Boost classifier using X_train, y_train
+       and tunes parameters based on X_dev, y_dev.
+       Returns the classifier
+    """
+    # ensemble.GradientBoostClassifier
+    pass
 
 
 # --------------------
