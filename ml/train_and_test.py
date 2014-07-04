@@ -3,6 +3,7 @@ Train and test various classifiers on the data
 """
 from numpy import array, hstack
 from sklearn.feature_extraction.text import CountVectorizer
+from sklearn import cross_validation
 
 DATA_FOLDER = '../data/'
 TRAIN_FROM = 0  # don't change unless necessary
@@ -94,6 +95,16 @@ def extract_testing_data():
 
     return roadname_list, X
 
+# ------------------
+#    Linear SVC
+# ------------------
+
+def trained_linear_svc(X_train, y_train, X_dev, y_dev):
+    """Trains a Linear SVC classifier using X_train, y_train
+       and tunes parameters based on X_dev, y_dev 
+    """
+    pass
+
 
 # --------------------
 #       MAIN
@@ -104,11 +115,13 @@ train_roadnames, train_X, train_y = extract_training_data()
 test_roadnames,  test_X           = extract_testing_data()
 
 # further split the training data into a training set and a development set
-from sklearn import cross_validation
 X_train, y_train, X_dev, y_dev = cross_validation.train_test_split(train_X, 
                                     train_y, test_size=0.2, random_state=42)
 
 from sklearn import svm, naive_bayes, neighbors, ensemble
+
+
+
 
 # which algorithms to test?
 # Linear SVC, Naive Bayes, K-Nearest Neighbour, SVC
