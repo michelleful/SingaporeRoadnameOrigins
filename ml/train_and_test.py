@@ -101,8 +101,22 @@ def extract_testing_data():
 
 def trained_linear_svc(X_train, y_train, X_dev, y_dev):
     """Trains a Linear SVC classifier using X_train, y_train
-       and tunes parameters based on X_dev, y_dev 
+       and tunes parameters based on X_dev, y_dev.
+       Returns the classifier
     """
+    # svm.LinearSVC
+    pass
+
+# ------------------
+#        SVC
+# ------------------
+
+def trained_svc(X_train, y_train, X_dev, y_dev):
+    """Trains a SVC classifier using X_train, y_train
+       and tunes parameters based on X_dev, y_dev.
+       Returns the classifier
+    """
+    # svm.SVC
     pass
 
 
