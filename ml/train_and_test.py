@@ -4,6 +4,7 @@ Train and test various classifiers on the data
 from numpy import array, hstack
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn import cross_validation
+from sklearn import svm, naive_bayes, neighbors, ensemble  # classifiers
 
 DATA_FOLDER = '../data/'
 TRAIN_FROM = 0  # don't change unless necessary
@@ -107,6 +108,14 @@ def trained_multinomial_naive_bayes(X_train, y_train, X_dev, y_dev):
     # naive_bayes.MultinomialNB
     pass
 
+def trained_bernoulli_naive_bayes(X_train, y_train, X_dev, y_dev):
+    """Trains a Bernoulli Naive Bayes classifier using X_train, y_train
+       and tunes parameters based on X_dev, y_dev.
+       Returns the classifier
+    """
+    # naive_bayes.BernoulliNB
+    pass
+
 # ------------------
 #    Linear SVC
 # ------------------
@@ -132,6 +141,32 @@ def trained_svc(X_train, y_train, X_dev, y_dev):
     pass
 
 
+# ------------------
+#        KNN
+# ------------------
+
+def trained_knn(X_train, y_train, X_dev, y_dev):
+    """Trains a k-Nearest Neighbours classifier using X_train, y_train
+       and tunes parameters based on X_dev, y_dev.
+       Returns the classifier
+    """
+    # neighbors.KNeighborsClassifier
+    pass
+
+
+# --------------------
+#   Ensemble methods
+# --------------------
+
+def trained_knn(X_train, y_train, X_dev, y_dev):
+    """Trains a k-Nearest Neighbours classifier using X_train, y_train
+       and tunes parameters based on X_dev, y_dev.
+       Returns the classifier
+    """
+    # neighbors.KNeighborsClassifier
+    pass
+
+
 # --------------------
 #       MAIN
 # --------------------
@@ -144,18 +179,13 @@ test_roadnames,  test_X           = extract_testing_data()
 X_train, y_train, X_dev, y_dev = cross_validation.train_test_split(train_X, 
                                     train_y, test_size=0.2, random_state=42)
 
-from sklearn import svm, naive_bayes, neighbors, ensemble
 
 
 
 
 # which algorithms to test?
-# Linear SVC, Naive Bayes, K-Nearest Neighbour, SVC
 # Ensemble methods: Random Forest Classifier, Extra Trees Classifier,
 # Ada Boost Classifier, Gradient Boosting Classifier
-ALGORITHMS = (svm.LinearSVC,  svm.SVC, 
-              naive_bayes.MultinomialNB, naive_bayes.BernoulliNB,
-              neighbors.KNeighborsClassifier)
 
 # what about ranges for parameter search? 
 # what ranges should be defined for each?
