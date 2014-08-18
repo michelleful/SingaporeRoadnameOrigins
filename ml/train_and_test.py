@@ -2,15 +2,16 @@
 Train and test various classifiers on the data
 """
 from numpy import array, hstack
+from collections import Counter
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn import cross_validation, grid_search
 from sklearn import svm, naive_bayes, neighbors, ensemble  # classifiers
 
 DATA_FOLDER = '../data/'
 TRAIN_FROM = 0  # don't change unless necessary
-TRAIN_TO   = 0  # CHANGE THIS
+TRAIN_TO   = 3  # CHANGE THIS
 TEST_FROM  = TRAIN_TO + 1  # don't change unless necessary
-TEST_TO    = 9  # by default test all, change if necessary
+TEST_TO    = TEST_FROM + 1 # by default test next one only, change if necessary
 
 # ---------------------
 #  FEATURE EXTRACTION
@@ -47,7 +48,7 @@ def extract_training_data():
             for line in f:
                 data = [item.strip() for item in line.split("\t")]
                 [roadname, malay_road_tag, average_word_length,
-                 all_words_in_dictionary, classification] = data
+                 all_words_in_dictionary, classification] = data[:5]
                 roadname_list.append(roadname.strip())
 
                 # glue together the rest of the data
@@ -119,7 +120,7 @@ def extract_testing_data():
 #    Naive Bayes
 # ------------------
 
-def trained_multinomial_naive_bayes(X_train, y_train, X_dev, y_dev):
+def trained_multinomial_naive_bayes(X_train, y_train, X_dev, y_dev, tune=False):
     """Trains a multinomial Naive Bayes classifier using X_train, y_train
        and tunes parameters based on X_dev, y_dev.
        Returns the classifier
@@ -130,12 +131,11 @@ def trained_multinomial_naive_bayes(X_train, y_train, X_dev, y_dev):
     
     # parameters:
     # {'alpha': 1.0, 'fit_prior': True, 'class_prior': None}
-    
-    
+
     return classifier
 
 
-def trained_bernoulli_naive_bayes(X_train, y_train, X_dev, y_dev):
+def trained_bernoulli_naive_bayes(X_train, y_train, X_dev, y_dev, tune=False):
     """Trains a Bernoulli Naive Bayes classifier using X_train, y_train
        and tunes parameters based on X_dev, y_dev.
        Returns the classifier
@@ -153,7 +153,7 @@ def trained_bernoulli_naive_bayes(X_train, y_train, X_dev, y_dev):
 #    Linear SVC
 # ------------------
 
-def trained_linear_svc(X_train, y_train, X_dev, y_dev):
+def trained_linear_svc(X_train, y_train, X_dev, y_dev, tune=False):
     """Trains a Linear SVC classifier using X_train, y_train
        and tunes parameters based on X_dev, y_dev.
        Returns the classifier
@@ -174,7 +174,7 @@ def trained_linear_svc(X_train, y_train, X_dev, y_dev):
 #        SVC
 # ------------------
 
-def trained_svc(X_train, y_train, X_dev, y_dev):
+def trained_svc(X_train, y_train, X_dev, y_dev, tune=False):
     """Trains a SVC classifier using X_train, y_train
        and tunes parameters based on X_dev, y_dev.
        Returns the classifier
@@ -196,7 +196,7 @@ def trained_svc(X_train, y_train, X_dev, y_dev):
 #        KNN
 # ------------------
 
-def trained_knn(X_train, y_train, X_dev, y_dev):
+def trained_knn(X_train, y_train, X_dev, y_dev, tune=False):
     """Trains a k-Nearest Neighbours classifier using X_train, y_train
        and tunes parameters based on X_dev, y_dev.
        Returns the classifier
@@ -219,7 +219,7 @@ def trained_knn(X_train, y_train, X_dev, y_dev):
 # Ensemble methods: Extra Trees Classifier,
 # Ada Boost Classifier, Gradient Boosting Classifier
 
-def trained_random_forest(X_train, y_train, X_dev, y_dev):
+def trained_random_forest(X_train, y_train, X_dev, y_dev, tune=False):
     """Trains a Random Forest classifier using X_train, y_train
        and tunes parameters based on X_dev, y_dev.
        Returns the classifier
@@ -237,7 +237,7 @@ def trained_random_forest(X_train, y_train, X_dev, y_dev):
     return classifier
 
 
-def trained_ada_boost(X_train, y_train, X_dev, y_dev):
+def trained_ada_boost(X_train, y_train, X_dev, y_dev, tune=False):
     """Trains an Ada Boost classifier using X_train, y_train
        and tunes parameters based on X_dev, y_dev.
        Returns the classifier
@@ -268,7 +268,7 @@ def trained_ada_boost(X_train, y_train, X_dev, y_dev):
     return classifier
 
 
-def trained_gradient_boost(X_train, y_train, X_dev, y_dev):
+def trained_gradient_boost(X_train, y_train, X_dev, y_dev, tune=False):
     """Trains a Gradient Boost classifier using X_train, y_train
        and tunes parameters based on X_dev, y_dev.
        Returns the classifier
@@ -284,12 +284,19 @@ def trained_gradient_boost(X_train, y_train, X_dev, y_dev):
     
     return classifier
 
+
 # --------------------
-#   Majority vote
+#    Majority vote
 # --------------------
 
-def majority_vote():
-    pass
+def majority_vote(votes):
+    """Takes a list of classifier outcomes (N) for some data
+    and returns the majority vote for each datapoint
+    (note: more precisely this is probably the plurality vote
+     because the classification is not binary.)
+    """
+    return array([Counter(x).most_common(1)[0][0] for x in zip(*votes)])
+
 
 # --------------------
 #       MAIN
@@ -303,19 +310,21 @@ test_roadnames,  test_X           = extract_testing_data()
 X_train, X_dev, y_train, y_dev = cross_validation.train_test_split(train_X, 
                                     train_y, test_size=0.2, random_state=42)
 
-mnb = trained_multinomial_naive_bayes(X_train, y_train, X_dev, y_dev)
-bnb = trained_bernoulli_naive_bayes(X_train, y_train, X_dev, y_dev)
-lsvc = trained_linear_svc(X_train, y_train, X_dev, y_dev)
-svc = trained_svc(X_train, y_train, X_dev, y_dev)
-knn = trained_knn(X_train, y_train, X_dev, y_dev)
-rfe = trained_random_forest(X_train, y_train, X_dev, y_dev)
-abe = trained_ada_boost(X_train, y_train, X_dev, y_dev)
-gbe = trained_gradient_boost(X_train, y_train, X_dev, y_dev)
+# make classifiers
+#mnb = trained_multinomial_naive_bayes(X_train, y_train, X_dev, y_dev, tune=False)
+#bnb = trained_bernoulli_naive_bayes(X_train, y_train, X_dev, y_dev, tune=False)
+lsvc = trained_linear_svc(X_train, y_train, X_dev, y_dev, tune=False)
+#svc = trained_svc(X_train, y_train, X_dev, y_dev, tune=False)
+#knn = trained_knn(X_train, y_train, X_dev, y_dev, tune=False)
+#rfe = trained_random_forest(X_train, y_train, X_dev, y_dev, tune=False)
+#abe = trained_ada_boost(X_train, y_train, X_dev, y_dev, tune=False)
+#gbe = trained_gradient_boost(X_train, y_train, X_dev, y_dev, tune=False)
 
-# TODO: print nicely
-# TODO: also take the majority vote of all the classifiers
-for classifier in [mnb, bnb, lsvc, svc, knn, rfe, abe, gbe]:
-    print classifier.predict(test_X)
+results = [classifier.predict(test_X) for classifier in [lsvc]]
+#           [mnb, bnb, lsvc, svc, knn, rfe, abe, gbe]] # DEBUG
+#results.append(majority_vote(results))
 
-
+#print "\t".join(["", "MNB", "BNB", "SVClin", "SVC", "KNN", "RF", "ADA", "GRAD"])
+for i, clf in enumerate(zip(*results)):
+    print test_roadnames[i], "\t", "\t".join([str(vote) for vote in clf])
 
