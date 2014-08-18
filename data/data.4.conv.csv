@@ -1,223 +1,446 @@
-Kay Poh 	0 	3.0 	1
-Changi 	0 	6.0 	0
-McNair 	0 	6.0 	0
-Petir 	0 	5.0 	0
-Stokesay 	0 	8.0 	0
-Teng Tong 	0 	4.0 	0
-MacKenzie 	0 	9.0 	0
-Buloh Perindu 	1 	6.0 	0
-Redop 	1 	5.0 	0
-Bedok Ria 	0 	4.0 	0
-Lakme 	0 	5.0 	0
-Garden 	0 	6.0 	1
-Havelock 	0 	8.0 	1
-Toh 	0 	3.0 	0
-Clive 	0 	5.0 	0
-Saunders 	0 	8.0 	0
-Clementi 	0 	8.0 	0
-York 	0 	4.0 	1
-View 	0 	4.0 	1
-Merpati 	0 	7.0 	0
-Kim Cheng 	0 	4.0 	0
-Matlock 	0 	7.0 	0
-Court 	0 	5.0 	1
-Gentle 	0 	6.0 	1
-Langgar Bedok 	1 	6.0 	0
-Digby 	0 	5.0 	0
-Yung Loh 	0 	3.5 	0
-International 	0 	13.0 	1
-Kuang 	1 	5.0 	0
-Legundi 	1 	7.0 	0
-Loyang 	0 	6.0 	0
-Belvedere 	0 	9.0 	1
-Pasir Panjang 	0 	6.0 	0
-Gloucester 	0 	10.0 	0
-Novena 	1 	6.0 	1
-Bukit Pasoh 	0 	5.0 	0
-Ashwood 	0 	7.0 	0
-Onan 	0 	4.0 	0
-Alexandra 	0 	9.0 	0
-Deal 	0 	4.0 	1
-Margate 	0 	7.0 	0
-Wellington 	0 	10.0 	1
-Crane 	0 	5.0 	1
-Novena Selatan 	1 	6.5 	0
-Coldstream 	0 	10.0 	0
-Little 	0 	6.0 	1
-Tani 	1 	4.0 	0
-Mohamad Ali 	0 	5.0 	0
-Bonham 	0 	6.0 	0
-Bayfront 	0 	8.0 	0
-Arthur 	0 	6.0 	0
-Hemsley 	0 	7.0 	0
-Senandong 	1 	9.0 	0
-Anak Patong 	1 	5.0 	0
-Camborne 	0 	8.0 	0
-Fourth Chin Bee 	0 	4.33333333333 	1
-Camp 	0 	4.0 	1
-Nangka 	1 	6.0 	0
-Cable Car 	0 	4.0 	1
-Burnfoot 	0 	8.0 	0
-Tay Lian Teck 	0 	3.66666666667 	0
-Third 	0 	5.0 	1
-Westerhout 	0 	10.0 	0
-Yunnan 	0 	6.0 	0
-Cardiff 	0 	7.0 	0
-Adis 	0 	4.0 	0
-Spring 	0 	6.0 	1
-Joo Koon 	0 	3.5 	0
-Prince Philip 	0 	6.0 	0
-Hampstead 	0 	9.0 	0
-Tembeling 	0 	9.0 	0
-Queen's 	0 	7.0 	1
-Hwi Yoh 	1 	3.0 	0
-Sinar Bulan 	1 	5.0 	0
-Labu Puteh 	1 	4.5 	0
-Hollland 	0 	8.0 	0
-Stadium 	0 	7.0 	1
-Teck Guan 	0 	4.0 	0
-Indus 	0 	5.0 	0
-Marine 	0 	6.0 	1
-Kampong Bahru 	0 	6.0 	0
-Istimewa 	1 	8.0 	0
-Worthing 	0 	8.0 	1
-Goodwood 	0 	8.0 	0
-Norma 	0 	5.0 	0
-Pereira 	0 	7.0 	1
-Second Hospital 	0 	7.0 	1
-Machang 	1 	7.0 	0
-Cheow Keng 	0 	4.5 	0
-Tung Po 	0 	3.0 	1
-Cameron 	0 	7.0 	0
-Magazine 	0 	8.0 	1
-Hillcrest 	0 	9.0 	1
-Chia Ping 	0 	4.0 	1
-Limau Kasturi 	1 	6.0 	0
-Cook 	0 	4.0 	1
-Jintan 	1 	6.0 	0
-Astrid 	0 	6.0 	0
-Killiney 	0 	8.0 	0
-Keng Chin 	0 	4.0 	0
-Tampang 	1 	7.0 	0
-Keramat 	0 	7.0 	0
-Hong Kah 	0 	3.5 	0
-Neram 	0 	5.0 	0
-Rochalie 	0 	8.0 	0
-Beatty 	0 	6.0 	0
-Selimang 	1 	8.0 	0
-Guillemard 	0 	10.0 	0
-Oriole 	0 	6.0 	1
-Rendang 	1 	7.0 	0
-Towner 	0 	6.0 	0
-Zehnder 	0 	7.0 	0
-Sungei Belang 	1 	6.0 	0
-Moonstone 	0 	9.0 	1
-Quality 	0 	7.0 	1
-Manila 	0 	6.0 	0
-Rukam 	1 	5.0 	0
-Tanah Puteh 	1 	5.0 	0
-Mugliston 	1 	9.0 	0
-Samak 	1 	5.0 	0
-Kembang 	1 	7.0 	0
-Teban 	1 	5.0 	0
-Wholesale 	0 	9.0 	1
-Intan 	1 	5.0 	0
-Toa Payoh 	0 	4.0 	0
-Rumia 	1 	5.0 	0
-Rambau 	0 	6.0 	0
-Orange 	0 	6.0 	1
-Saga 	1 	4.0 	1
-Rosewood 	0 	8.0 	1
-Lermit 	0 	6.0 	0
-Shipyard 	0 	8.0 	1
-Seraya 	0 	6.0 	0
-Aviation 	0 	8.0 	1
-Banda 	0 	5.0 	1
-Narayanan Chetty 	0 	7.5 	0
-Tractor 	0 	7.0 	1
-Ibadat 	1 	6.0 	0
-Gopeng 	0 	6.0 	0
-Chuntum 	1 	7.0 	0
-Klapa 	1 	5.0 	0
-Wilkie 	0 	6.0 	0
-Tan Quee Lan 	0 	3.33333333333 	0
-Clover 	0 	6.0 	1
-Masjid 	1 	6.0 	1
-Limau Balli 	1 	5.0 	0
-Rengkam 	1 	7.0 	0
-Pandan 	0 	6.0 	0
-Fowlie 	0 	6.0 	0
-Chai Chee 	0 	4.0 	0
-Lower 	0 	5.0 	1
-Depot 	0 	5.0 	1
-Yuk Tong 	0 	3.5 	1
-Science 	0 	7.0 	1
-Eu Tong Sen 	0 	3.0 	0
-Queen's Row 	0 	5.0 	1
-Mayaanam 	1 	8.0 	0
-Sempadan 	1 	8.0 	0
-Maryland 	0 	8.0 	0
-Eden 	0 	4.0 	0
-Bloxhome 	0 	8.0 	0
-Orchid Club 	0 	5.0 	1
-Lim Tai See 	0 	3.0 	0
-Deptford 	0 	8.0 	0
-Sago 	0 	4.0 	1
-Portchester 	0 	11.0 	0
-Ma'mor 	1 	6.0 	0
-Sing Joo 	0 	3.5 	0
-Bunga Rampai 	0 	5.5 	0
-Ayer 	1 	4.0 	0
-Kim Tian 	0 	3.5 	0
-Tanglin Halt 	0 	5.5 	0
-Park 	0 	4.0 	1
-Amber 	0 	5.0 	1
-Bukit Ho Swee 	0 	3.66666666667 	0
-Punggol Port 	0 	5.5 	0
-Thong Soon 	0 	4.5 	1
-Tanah Rata 	1 	4.5 	0
-Saraca 	0 	6.0 	0
-Sungei Tengah 	0 	6.0 	0
-Marshall 	0 	8.0 	1
-Cheviot 	0 	7.0 	1
-Sungei 	0 	6.0 	0
-Pioneer 	0 	7.0 	1
-Margoliouth 	0 	11.0 	0
-Dahan 	0 	5.0 	0
-Broadrick 	0 	9.0 	0
-Allenby 	0 	7.0 	0
-Frankel 	0 	7.0 	0
-Expo 	0 	4.0 	1
-Mount Emily 	0 	5.0 	0
-Nallur 	0 	6.0 	0
-Alnwick 	0 	7.0 	0
-Harum 	1 	5.0 	0
-Limau 	0 	5.0 	0
-Crowhurst 	0 	9.0 	0
-Sea Breeze 	0 	4.5 	1
-Boon Leat 	0 	4.0 	1
-Hume 	0 	4.0 	0
-Stone 	0 	5.0 	1
-Rengas 	1 	6.0 	1
-Chin Chew 	0 	4.0 	1
-Law 	0 	3.0 	1
-Leyden 	0 	6.0 	0
-Ganges 	0 	6.0 	0
-Engku Aman 	0 	4.5 	0
-Pari Dedap 	1 	4.5 	0
-Kuning 	1 	6.0 	0
-Garage 	0 	6.0 	1
-Menarong 	1 	8.0 	0
-Saujana 	0 	7.0 	0
-Tanjong Katong 	0 	6.5 	0
-Hong San 	0 	3.5 	1
-Tank 	0 	4.0 	1
-Gunner 	0 	6.0 	1
-Prome 	0 	5.0 	0
-Berwick 	0 	7.0 	0
-Grange 	0 	6.0 	1
-Portsdown 	0 	9.0 	0
-Pergam 	1 	6.0 	0
-Mount Elizabeth 	0 	7.0 	0
-Khalsa 	0 	6.0 	0
-Eastwood 	0 	8.0 	0
+Kay Poh 	0	3	1	1	Chinese
+Changi 	0	6	0	0	Malay
+McNair 	0	6	0	2	British
+Petir 	0	5	0	2	British
+Stokesay 	0	8	0	2	British
+Teng Tong 	0	4	0	1	Chinese
+MacKenzie 	0	9	0	5	Other
+Buloh Perindu 	1	6	0	0	Malay
+Redop 	1	5	0	0	Malay
+Bedok Ria 	0	4	0	0	Malay
+Lakme 	0	5	0	2	British
+Garden 	0	6	1	4	Generic
+Havelock 	0	8	1	2	British
+Toh 	0	3	0	2	British
+Clive 	0	5	0	4	Generic
+Saunders 	0	8	0	2	British
+Clementi 	0	8	0	5	Other
+York 	0	4	1	2	British
+View 	0	4	1	4	Generic
+Merpati 	0	7	0	2	British
+Kim Cheng 	0	4	0	1	Chinese
+Matlock 	0	7	0	2	British
+Court 	0	5	1	4	Generic
+Gentle 	0	6	1	4	Generic
+Langgar Bedok 	1	6	0	0	Malay
+Digby 	0	5	0	5	Other
+Yung Loh 	0	3.5	0	1	Chinese
+International 	0	13	1	4	Generic
+Kuang 	1	5	0	0	Malay
+Legundi 	1	7	0	0	Malay
+Loyang 	0	6	0	1	Chinese
+Belvedere 	0	9	1	2	British
+Pasir Panjang 	0	6	0	0	Malay
+Gloucester 	0	10	0	2	British
+Novena 	1	6	1	4	Generic
+Bukit Pasoh 	0	5	0	0	Malay
+Ashwood 	0	7	0	2	British
+Onan 	0	4	0	1	Chinese
+Alexandra 	0	9	0	2	British
+Deal 	0	4	1	4	Generic
+Margate 	0	7	0	2	British
+Wellington 	0	10	1	2	British
+Crane 	0	5	1	2	British
+Novena Selatan 	1	6.5	0	0	Malay
+Coldstream 	0	10	0	2	British
+Little 	0	6	1	4	Generic
+Tani 	1	4	0	0	Malay
+Mohamad Ali 	0	5	0	0	Malay
+Bonham 	0	6	0	2	British
+Bayfront 	0	8	0	2	British
+Arthur 	0	6	0	2	British
+Hemsley 	0	7	0	2	British
+Senandong 	1	9	0	0	Malay
+Anak Patong 	1	5	0	0	Malay
+Camborne 	0	8	0	2	British
+Fourth Chin Bee 	0	4.3333333333	1	1	Chinese
+Camp 	0	4	1	4	Generic
+Nangka 	1	6	0	0	Malay
+Cable Car 	0	4	1	4	Generic
+Burnfoot 	0	8	0	2	British
+Tay Lian Teck 	0	3.6666666667	0	1	Chinese
+Third 	0	5	1	2	British
+Westerhout 	0	10	0	4	Generic
+Yunnan 	0	6	0	5	Other
+Cardiff 	0	7	0	2	British
+Adis 	0	4	0	0	Malay
+Spring 	0	6	1	4	Generic
+Joo Koon 	0	3.5	0	1	Chinese
+Prince Philip 	0	6	0	2	British
+Hampstead 	0	9	0	0	Malay
+Tembeling 	0	9	0	0	Malay
+Queen's 	0	7	1	2	British
+Hwi Yoh 	1	3	0	1	Chinese
+Sinar Bulan 	1	5	0	0	Malay
+Labu Puteh 	1	4.5	0	0	Malay
+Hollland 	0	8	0	2	British
+Stadium 	0	7	1	0	Malay
+Teck Guan 	0	4	0	1	Chinese
+Indus 	0	5	0	2	British
+Marine 	0	6	1	4	Generic
+Kampong Bahru 	0	6	0	0	Malay
+Istimewa 	1	8	0	0	Malay
+Worthing 	0	8	1	2	British
+Goodwood 	0	8	0	2	British
+Norma 	0	5	0	2	British
+Pereira 	0	7	1	2	British
+Second Hospital 	0	7	1	2	British
+Machang 	1	7	0	0	Malay
+Cheow Keng 	0	4.5	0	1	Chinese
+Tung Po 	0	3	1	1	Chinese
+Cameron 	0	7	0	2	British
+Magazine 	0	8	1	4	Generic
+Hillcrest 	0	9	1	4	Generic
+Chia Ping 	0	4	1	1	Chinese
+Limau Kasturi 	1	6	0	0	Malay
+Cook 	0	4	1	4	Generic
+Jintan 	1	6	0	0	Malay
+Astrid 	0	6	0	0	Malay
+Killiney 	0	8	0	2	British
+Keng Chin 	0	4	0	1	Chinese
+Tampang 	1	7	0	0	Malay
+Keramat 	0	7	0	0	Malay
+Hong Kah 	0	3.5	0	1	Chinese
+Neram 	0	5	0	2	British
+Rochalie 	0	8	0	2	British
+Beatty 	0	6	0	2	British
+Selimang 	1	8	0	0	Malay
+Guillemard 	0	10	0	2	British
+Oriole 	0	6	1	2	British
+Rendang 	1	7	0	0	Malay
+Towner 	0	6	0	2	British
+Zehnder 	0	7	0	2	British
+Sungei Belang 	1	6	0	0	Malay
+Moonstone 	0	9	1	2	British
+Quality 	0	7	1	4	Generic
+Manila 	0	6	0	0	Malay
+Rukam 	1	5	0	0	Malay
+Tanah Puteh 	1	5	0	0	Malay
+Mugliston 	1	9	0	0	Malay
+Samak 	1	5	0	0	Malay
+Kembang 	1	7	0	0	Malay
+Teban 	1	5	0	0	Malay
+Wholesale 	0	9	1	2	British
+Intan 	1	5	0	0	Malay
+Toa Payoh 	0	4	0	1	Chinese
+Rumia 	1	5	0	0	Malay
+Rambau 	0	6	0	0	Malay
+Orange 	0	6	1	0	Malay
+Saga 	1	4	1	0	Malay
+Rosewood 	0	8	1	2	British
+Lermit 	0	6	0	2	British
+Shipyard 	0	8	1	4	Generic
+Seraya 	0	6	0	2	British
+Aviation 	0	8	1	2	British
+Banda 	0	5	1	4	Generic
+Narayanan Chetty 	0	7.5	0	1	Chinese
+Tractor 	0	7	1	2	British
+Ibadat 	1	6	0	0	Malay
+Gopeng 	0	6	0	0	Malay
+Chuntum 	1	7	0	0	Malay
+Klapa 	1	5	0	0	Malay
+Wilkie 	0	6	0	2	British
+Tan Quee Lan 	0	3.3333333333	0	1	Chinese
+Clover 	0	6	1	2	British
+Masjid 	1	6	1	0	Malay
+Limau Balli 	1	5	0	0	Malay
+Rengkam 	1	7	0	0	Malay
+Pandan 	0	6	0	0	Malay
+Fowlie 	0	6	0	2	British
+Chai Chee 	0	4	0	1	Chinese
+Lower 	0	5	1	4	Generic
+Depot 	0	5	1	4	Generic
+Yuk Tong 	0	3.5	1	1	Chinese
+Science 	0	7	1	2	British
+Eu Tong Sen 	0	3	0	1	Chinese
+Queen's Row 	0	5	1	2	British
+Mayaanam 	1	8	0	0	Malay
+Sempadan 	1	8	0	0	Malay
+Maryland 	0	8	0	2	British
+Eden 	0	4	0	2	British
+Bloxhome 	0	8	0	2	British
+Orchid Club 	0	5	1	4	Generic
+Lim Tai See 	0	3	0	1	Chinese
+Deptford 	0	8	0	2	British
+Sago 	0	4	1	4	Generic
+Portchester 	0	11	0	2	British
+Ma'mor 	1	6	0	0	Malay
+Sing Joo 	0	3.5	0	1	Chinese
+Bunga Rampai 	0	5.5	0	0	Malay
+Ayer 	1	4	0	0	Malay
+Kim Tian 	0	3.5	0	1	Chinese
+Tanglin Halt 	0	5.5	0	1	Chinese
+Park 	0	4	1	4	Generic
+Amber 	0	5	1	2	British
+Bukit Ho Swee 	0	3.6666666667	0	1	Chinese
+Punggol Port 	0	5.5	0	2	British
+Thong Soon 	0	4.5	1	1	Chinese
+Tanah Rata 	1	4.5	0	0	Malay
+Saraca 	0	6	0	2	British
+Sungei Tengah 	0	6	0	1	Chinese
+Marshall 	0	8	1	2	British
+Cheviot 	0	7	1	4	Generic
+Sungei 	0	6	0	0	Malay
+Pioneer 	0	7	1	2	British
+Margoliouth 	0	11	0	2	British
+Dahan 	0	5	0	0	Malay
+Broadrick 	0	9	0	2	British
+Allenby 	0	7	0	2	British
+Frankel 	0	7	0	2	British
+Expo 	0	4	1	2	British
+Mount Emily 	0	5	0	2	British
+Nallur 	0	6	0	5	Other
+Alnwick 	0	7	0	2	British
+Harum 	1	5	0	0	Malay
+Limau 	0	5	0	0	Malay
+Crowhurst 	0	9	0	2	British
+Sea Breeze 	0	4.5	1	2	British
+Boon Leat 	0	4	1	1	Chinese
+Hume 	0	4	0	2	British
+Stone 	0	5	1	2	British
+Rengas 	1	6	1	0	Malay
+Chin Chew 	0	4	1	1	Chinese
+Law 	0	3	1	4	Generic
+Leyden 	0	6	0	2	British
+Ganges 	0	6	0	0	Malay
+Engku Aman 	0	4.5	0	0	Malay
+Pari Dedap 	1	4.5	0	0	Malay
+Kuning 	1	6	0	0	Malay
+Garage 	0	6	1	4	Generic
+Menarong 	1	8	0	0	Malay
+Saujana 	0	7	0	5	Other
+Tanjong Katong 	0	6.5	0	0	Malay
+Hong San 	0	3.5	1	1	Chinese
+Tank 	0	4	1	4	Generic
+Gunner 	0	6	1	4	Generic
+Prome 	0	5	0	2	British
+Berwick 	0	7	0	2	British
+Grange 	0	6	1	0	Malay
+Portsdown 	0	9	0	2	British
+Pergam 	1	6	0	0	Malay
+Mount Elizabeth 	0	7	0	2	British
+Khalsa 	0	6	0	2	British
+Eastwood 	0	8	0	2	British
+				0	Malay
+				2	British
+				2	British
+				4	Generic
+				2	British
+				4	Generic
+				1	Chinese
+				1	Chinese
+				2	British
+				1	Chinese
+				2	British
+				2	British
+				2	British
+				4	Generic
+				4	Generic
+				0	Malay
+				2	British
+				0	Malay
+				2	British
+				0	Malay
+				4	Generic
+				0	Malay
+				2	British
+				0	Malay
+				0	Malay
+				0	Malay
+				1	Chinese
+				0	Malay
+				4	Generic
+				0	Malay
+				2	British
+				2	British
+				0	Malay
+				0	Malay
+				0	Malay
+				1	Chinese
+				5	Other
+				1	Chinese
+				0	Malay
+				0	Malay
+				4	Generic
+				0	Malay
+				4	Generic
+				0	Malay
+				0	Malay
+				2	British
+				0	Malay
+				2	British
+				4	Generic
+				0	Malay
+				1	Chinese
+				2	British
+				0	Malay
+				4	Generic
+				4	Generic
+				0	Malay
+				1	Chinese
+				2	British
+				0	Malay
+				1	Chinese
+				0	Malay
+				1	Chinese
+				0	Malay
+				1	Chinese
+				0	Malay
+				1	Chinese
+				1	Chinese
+				2	British
+				0	Malay
+				2	British
+				0	Malay
+				1	Chinese
+				0	Malay
+				1	Chinese
+				0	Malay
+				2	British
+				2	British
+				4	Generic
+				2	British
+				0	Malay
+				2	British
+				1	Chinese
+				0	Malay
+				0	Malay
+				1	Chinese
+				2	British
+				1	Chinese
+				2	British
+				1	Chinese
+				0	Malay
+				0	Malay
+				2	British
+				0	Malay
+				2	British
+				1	Chinese
+				4	Generic
+				0	Malay
+				2	British
+				5	Other
+				0	Malay
+				0	Malay
+				2	British
+				2	British
+				2	British
+				2	British
+				2	British
+				1	Chinese
+				0	Malay
+				2	British
+				2	British
+				1	Chinese
+				0	Malay
+				0	Malay
+				0	Malay
+				4	Generic
+				0	Malay
+				2	British
+				0	Malay
+				4	Generic
+				0	Malay
+				2	British
+				1	Chinese
+				0	Malay
+				2	British
+				2	British
+				4	Generic
+				1	Chinese
+				0	Malay
+				4	Generic
+				2	British
+				0	Malay
+				0	Malay
+				1	Chinese
+				2	British
+				0	Malay
+				2	British
+				2	British
+				0	Malay
+				0	Malay
+				0	Malay
+				1	Chinese
+				0	Malay
+				6	Nature
+				0	Malay
+				0	Malay
+				2	British
+				0	Malay
+				5	Other
+				1	Chinese
+				1	Chinese
+				2	British
+				1	Chinese
+				2	British
+				5	Other
+				1	Chinese
+				0	Malay
+				1	Chinese
+				0	Malay
+				5	Other
+				0	Malay
+				2	British
+				0	Malay
+				2	British
+				2	British
+				2	British
+				2	British
+				4	Generic
+				1	Chinese
+				0	Malay
+				2	British
+				0	Malay
+				2	British
+				0	Malay
+				0	Malay
+				2	British
+				2	British
+				4	Generic
+				0	Malay
+				2	British
+				2	British
+				2	British
+				4	Generic
+				0	Malay
+				2	British
+				0	Malay
+				0	Malay
+				0	Malay
+				0	Malay
+				0	Malay
+				0	Malay
+				0	Malay
+				2	British
+				2	British
+				4	Generic
+				1	Chinese
+				0	Malay
+				2	British
+				2	British
+				1	Chinese
+				1	Chinese
+				2	British
+				4	Generic
+				0	Malay
+				4	Generic
+				2	British
+				0	Malay
+				0	Malay
+				2	British
+				2	British
+				5	Other
+				0	Malay
+				1	Chinese
+				5	Other
+				0	Malay
+				0	Malay
+				1	Chinese
+				0	Malay
+				0	Malay
+				0	Malay
+				4	Generic
+				2	British
+				2	British
+				1	Chinese
