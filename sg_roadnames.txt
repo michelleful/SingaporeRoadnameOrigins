@@ -91,7 +91,8 @@ Ang Mo Kio Street 32
 Ang Mo Kio Street 41
 Ang Mo Kio Street 42
 Ang Mo Kio Street 43
-Ang Mo Kio Street 4451
+Ang Mo Kio Street 44
+Ang Mo Kio Street 51
 Ang Mo Kio Street 52
 Ang Mo Kio Street 53
 Ang Mo Kio Street 54
