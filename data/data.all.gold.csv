@@ -830,7 +830,7 @@ Joan 	0	4	0	2	British
 John 	0	4	1	2	British			
 Johore 	0	6	0	0	Malay			
 Jong 	1	4	0	0	Malay			
-Joo 	0	3	0	0	Malay			
+Joo 	0	3	0	1	Chinese			
 Joo Chiat 	0	4	0	1	Chinese			
 Joo Hong 	0	3.5	0	1	Chinese			
 Joo Koon 	0	3.5	0	1	Chinese			
@@ -2122,8 +2122,8 @@ Zamrud 	1	6	0	0	Malay
 Zehnder 	0	7	0	5	Other	Sounds German?		
 Zion 	0	4	0	4	Generic			
 								
-					766	Malay		
-					291	Chinese		
+					765	Malay		
+					292	Chinese		
 					645	British		
 					32	Indian		
 					203	Generic		
