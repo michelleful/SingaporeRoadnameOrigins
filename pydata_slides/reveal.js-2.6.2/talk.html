@@ -1,0 +1,643 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>Grids, Streets & Pipelines (PyData NYC Nov 2014)</title>
+
+		<meta name="description" content="Grids, Streets and Pipelines: Building a linguistic street map with scikit-learn">
+		<meta name="author" content="Michelle Fullwood">
+
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<link rel="stylesheet" href="css/reveal.min.css">
+		<link rel="stylesheet" href="css/theme/beige.css" id="theme">
+
+		<!-- For syntax highlighting TODO -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+		<script>
+			if( window.location.search.match( /print-pdf/gi ) ) {
+				var link = document.createElement( 'link' );
+				link.rel = 'stylesheet';
+				link.type = 'text/css';
+				link.href = 'css/print/pdf.css';
+				document.getElementsByTagName( 'head' )[0].appendChild( link );
+			}
+		</script>
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<!-- Any section element inside of this container is displayed as a slide -->
+			<div class="slides">
+				<section>
+					<h1 style="font-size:320%;">Grids, Streets & Pipelines</h1>
+					<h3>Building a linguistic street map with scikit-learn</h3>
+                    <br/>
+					<p>
+						Michelle Fullwood / <a href="http://twitter.com/michelleful">@michelleful</a>
+				    </p>
+				</section>
+
+				<section>
+					<h2>Who I am</h2>
+					<p>
+						I'm a grad student in linguistics. 
+					</p>
+					<p>
+					    I love languages and maps.
+					</p>
+				</section>
+
+				<section>
+					<h2>Who I'm not</h2>
+					<p>
+						An expert on machine learning or scikit-learn. 
+					</p>
+				</section>
+
+                <section>
+                    <h2>The end product</h2>
+                    <img width="800" height="600" src="images/basic_singapore_3.png" alt="The end product: map of Singapore with roads colour-coded for linguistic origin">
+
+                </section>
+
+<!--                <section>
+                    <h2>What I used</h2>
+					<ul>
+						<li>OpenStreetMap</li>
+						<li>GeoPandas</li>
+						<li>scikit-learn</li>
+						<li>TileMill</li>
+					</ul>       
+                </section>
+-->
+                <section>
+                    <h2>Singapore street names</h2>
+
+                    <div>                    
+					<img width="259" height="194" src="images/mccallum.jpg" alt="McCallum Road">
+					<img width="259" height="194" src="images/serangoon.jpg" alt="Serangoon Road">
+					<img width="259" height="194" src="images/keong_saik.jpg" alt="Keong Saik Road">
+                    <br/>
+                    <ul>
+                        <li>Alkaff Avenue</li>
+                        <li>Belilios Lane</li>
+                        <li>Kadayanallur Street</li>
+                    </ul>
+                    </div>
+                </section>
+
+				<section>
+					<h2>1st century</h2>
+                    <img height="450" src="images/ptolemy_inset.png " alt="15th century rendering of Southeast Asian portion of Ptolemy's Geography, inset of Malayan Peninsula including Sabana"><br/>
+                    <small>Source: <a href="http://www.raremaps.com/gallery/detail/28049?view=print">raremaps.com</a></small>
+				</section>
+
+
+				<section>
+					<h2>1819</h2>   
+                    <img width="800" height="450" src="images/treaty.png" alt="Sketch map of area near Singapore River where Singapore Treaty was signed on 6 February 1819">
+                    <small>Source: <a href="http://eresources.nlb.gov.sg/printheritage/image.aspx?id=b9ebcff0-f6e4-44c0-9df4-006ab9127821">新加坡先驱人物</a></small>
+				</section>
+
+				<section>
+					<h2>19th century</h2>
+                    <img height="500" src="images/immigration_to_sg.png" alt="Immigration patterns to Singapore">
+				</section>
+
+				<section>
+					<h2>1821</h2>
+                    <img width="800" height="500" src="images/Plan_of_the_Town_of_Singapore_%281822%29_by_Lieutenant_Philip_Jackson.jpg" alt="">
+                    <small>Source: <a href="http://upload.wikimedia.org/wikipedia/commons/6/60/Plan_of_the_Town_of_Singapore_%281822%29_by_Lieutenant_Philip_Jackson.jpg">Wikimedia Commons</a></small>
+				</section>
+
+
+
+				<section>
+					<h2>1960's-</h2>
+                    <img src="images/hdb_towns_map.jpg" height="500" alt="Map of Housing Development Board maps">					
+
+                    <p><small>Source: <a href="http://hdbflatforsale.com/">hdbflatforsale.com</a></small></p>
+				</section>
+
+				<section>
+					<h2>Clusters of street names</h2>
+					<img src="images/cambridge_road.png" height="500" alt="Cluster of British roadnames near Cambridge Road, Singapore">
+					<p><small>&copy; Open Street Map contributors</small></p>
+					</p>
+				</section>
+
+                <section>
+                    <h1>Wrangling the data</h1>
+                </section>
+
+				<section>
+					<h2>OpenStreetMap Metro Extracts</h2>
+                    <img width="800" src="images/metro_extracts.png" alt="OSM Metro Extracts">
+				</section>
+
+				<section>
+					<h2>GeoJSON</h2>
+                    <img width="300" src="images/montreal_drive.png" alt="Montreal Drive">
+<pre>
+{ "type": "Feature", 
+  "properties": 
+      { "id": 5436.0, "osm_id": 48673274.0, 
+        "type": "residential", 
+        "name": "Montreal Drive", ...
+        "class": "highway" }, 
+  "geometry": 
+      { "type": "LineString", 
+        "coordinates": [ [ 103.827628075898062, 1.45001447378366  ], 
+                         [ 103.827546855256259, 1.450088485988644 ], 
+                         [ 103.82724167016174 , 1.450461983594056 ], 
+                         ... ] } }</pre>
+				</section>
+
+				<section>
+					<h2>GeoPandas</h2>
+<pre><code class="python">>>> import geopandas as gpd
+
+>>> roads = gpd.GeoDataFrame.from_file('singapore-roads.geojson')
+
+>>> roads.shape
+(59218, 13)
+</code></pre>
+				</section>
+
+                <section>
+                    <h2>Plotting with GeoPandas</h2>
+<pre><code class="python">>>> roads.geometry.plot()</code></pre>                
+
+                    <img width="600" src="images/osm_all_roads_geopandas_plot.png" alt="Plot of all roads in OSM Singapore roads GeoJSON file">
+                </section>
+
+                <section>
+                    <h2>Plotting with GeoPandas</h2>
+<pre><code class="python">>>> # get an outline of Singapore's administrative boundaries
+>>> admin = gpd.GeoDataFrame.from_file('singapore-admin.geojson')
+>>> singapore = admin.ix[0] # only use the first row (country boundary)
+
+>>> gpd.GeoSeries(singapore.geometry).plot()
+</code></pre>                
+
+                    <img width="500" src="images/osm_singapore_admin_geopandas_plot.png" alt="Plot of all roads in OSM Singapore roads GeoJSON file">
+                </section>
+
+                <section>
+                    <h2>Filtering with GeoPandas</h2>
+<pre><code class="python">>>> # `within` function returns true if one feature 
+>>> # sits within the boundary of another
+>>> roads = roads[roads.geometry.within(singapore.geometry)]
+
+>>> roads.geometry.plot()
+</code></pre>                
+
+                    <img width="500" src="images/osm_sg_roads_geopandas_plot.png" alt="Plot of all roads in OSM Singapore roads GeoJSON file">
+                </section>
+
+				<section>
+					<h2>Repetition in the data</h2>
+                    <img width="600" src="images/lentor.png" alt="The stunning creativity of road planners in the Lentor area of Singapore">
+				</section>
+
+				<section>
+					<h2>Eliminating repetition</h2>
+                    <pre><code class="python">>>> streets = set([extract_name(street) for street in streets])
+
+>>> len(streets)
+1711
+</code></pre>
+				</section>
+
+                <section>
+                    <h1>Enter scikit-learn</h1>
+                </section>
+
+				<section>
+								
+					<h2>Supervised classification</h2>
+                    <img width="800" src="images/supervised_classification_matrix_trimmed.png" alt="Matrix view of supervised classification">
+				</section>
+
+                <section>
+					<h2>Supervised classification</h2>
+                    <img width="800" src="images/supervised_classification_matrix_2.png" alt="Matrix view of supervised classification">
+				</section>
+
+                <section>
+                    <h2>Classification schema</h2>
+                    
+                    <ul>
+                        <li>Malay</li>
+                        <li>Chinese</li>
+                        <li>English</li>
+                        <li>Indian</li>
+                        <li>Generic</li>
+                        <li>Other</li>
+                    </ul>
+                </section>
+
+				<section>
+					<h2>Train/Test split</h2>
+<pre><code class="python"># split into train and test data
+
+data_train, data_test, y_train, y_true = \
+    cross_validation.train_test_split(data.roadnames, data.classification, 
+                                      test_size=0.2, 
+                                      random_state=42)</code></pre>
+				</section>
+
+				<section>
+					<h2>Character n-grams</h2>
+
+<p>Tyrwhitt</p>
+
+<table style="margin-left: auto; margin-right: auto;">
+<tr><td>unigrams</td><td>t(3) y r w h i</td></tr>
+<tr><td>bigrams</td><td>#t ty  yr wh hi it tt t#</td></tr>
+<tr><td>trigrams</td><td>#ty tyr yrw rwh whi hit itt tt#</td></tr>
+</table>
+				</section>
+
+				<section>
+					<h2>Character n-grams</h2>
+
+<pre><code class="python">>>> from sklearn.feature_extraction.text import CountVectorizer
+
+>>> ngram_counter = CountVectorizer(ngram_range=(1, 4), analyzer='char')
+
+>>> X_train = ngram_counter.fit_transform(data_train)
+>>> X_test  = ngram_counter.transform(data_test)
+</code></pre>
+				</section>
+
+
+                <section>
+                    <h2>Selecting a classifier</h2>
+					<img src="images/scikit_flowchart.png" alt="Scikit-learn flowchart for picking an algorithm">
+                </section>
+
+				<section>
+					<h2>Building the classifier</h2>
+<pre><code class="python">>>> from sklearn.svm import LinearSVC
+
+>>> classifier = LinearSVC()
+
+>>> model = classifier.fit(X_train, y_train)
+</code></pre>
+				</section>
+
+				<section>
+					<h2>Selecting an evaluation metric</h2>
+                    <center>
+                    <table>
+                    <tr><td>sklearn.metrics.</td>
+                        <td>accuracy_score<br/>
+                            average_precision_score<br/>
+                            f1_score<br/>
+                            precision_score<br/>
+                            recall_score<br/>
+                            roc_auc_score<br/>
+                        </td>
+                    </tr>
+                    </table>
+                    </center>
+				</section>
+
+				<section>
+					<h2>Testing the classifier</h2>
+<pre><code class="python">>>> y_test = model.predict(X_test)
+
+>>> sklearn.metrics.accuracy_score(y_true, y_test)
+0.558139534884
+</code></pre>
+				</section>
+
+                <section>
+                  <h2>Improving the classifier</h2>
+                  
+                  <ul>
+                    <li>More data</li>
+                    <li>Other classifiers</li>
+                    <li>More features</li>
+                    <li>Model selection</li>
+                    <li>Hyperparameter tuning</li>
+                  </ul>
+                </section>
+
+                <section>
+                    <h2>Effects of Data and Classifier type</h2>
+                    <img height="500" src="images/classifier_vs_amt_of_data.png" alt="Plot of accuracy when varying data amount per classifier">
+                </section>
+
+                <section>
+                    <h2>Effects of Data and Classifier type</h2>
+                    <ul>
+                        <li>The more data the merrier...</li>
+                        <li>...mostly</li>
+                        <li>Powerful models need a lot of data</li>
+                        <li>Simple models can be extremely effective</li>
+                    </ul>
+                </section>
+
+                <section>
+                    <h2>Pipelines</h2>
+                    <img src="images/simple_pipeline.png" alt="Simple pipeline">
+                </section>
+
+                <section>
+                    <h2>A rewrite using pipelines</h2>
+<pre><code class="python">>>> from sklearn.pipeline import make_pipeline
+
+>>> ngram_counter = CountVectorizer(ngram_range=(1, 4), analyzer='char')
+>>> clf = LinearSVC()
+
+>>> pipeline = make_pipeline(ngram_counter,
+                             clf)
+
+>>> model = pipeline.fit_transform(data_train)
+>>> y_test = model.predict(data_test)
+</code></pre>
+                </section>
+
+                <section>
+                    <h2>Adding a new feature</h2>
+                    <p>Number of words in road name</p>
+                    <ul>
+                      <li>More words: likely to be of Chinese origin</li>
+                      <li>Need a new data transformer that takes road names and outputs this number</li>
+                    </ul>
+                </section>
+
+                <section>
+                    <h2>Writing your own transformer class</h2>
+                    
+<pre><code class="python">import numpy as np
+from sklearn.base import TransformerMixin
+
+class ApplyTransform(TransformerMixin):
+    """Applies a function f element-wise to a numpy array"""
+    
+    def __init__(self, fn):
+        self.fn = np.vectorize(fn)
+        
+    def transform(self, X, y=None):
+        return self.fn(X)
+
+    def fit(self, X, y=None):
+        return self
+        
+wordcount_pipeline = make_pipeline(
+    ApplyTransform(lambda roadname: len(roadname.split()))
+)
+</code></pre>
+</section>
+                    
+                <section>
+                    <h2>Putting transformers in parallel</h2>
+                    <img src="images/more_complex_pipeline.png" alt="More complex pipeline with parallel transformers">
+                </section>
+
+                <section>
+                    <h2>Feature Union</h2>
+<pre><code class="python">from sklearn.pipeline import make_pipeline, make_union
+
+pipeline = make_pipeline(
+    make_union(  # parallel
+        ngram_counter,      # can pass in either a transformer
+        wordcount_pipeline  # or a pipeline
+    ),
+    clf  # classifier
+)</code></pre>                    
+                </section>
+ 
+                <section>
+                    <h2>Another useful transformer</h2>
+
+<pre><code class="python">class ColumnSelector(TransformerMixin):
+    """Selects column(s) from a numpy array
+    Code from mlxtend Machine Learning Library Extensions 
+    https://github.com/rasbt/mlxtend/blob/master/mlxtend
+    """
+    
+    def __init__(self, cols):
+        self.cols = cols
+        
+    def transform(self, X, y=None):
+        return X[:, self.cols]
+
+    def fit(self, X, y=None):
+        return self
+</code></pre>
+                </section>               
+
+                <section>
+                  <h2>Additional features I tried</h2>
+                  <ul>
+                    <li>Average number of words</li>
+                    <li>Average length of word</li>
+                    <li>Are all the words in the dictionary?</li>
+                    <li>Is the road type Malay? (Street, Road vs Jalan, Lorong)</li>
+                  </ul>
+                </section>
+
+                <section>
+                    <h2>Effects of adding features</h2>
+                    <img height="500" src="images/features.png" alt="Plot of accuracy when adding features">
+                </section>
+
+                <section>
+                    <h2>Effects of adding features</h2>
+                    <ul>
+                        <li>Duplicating old information is not useful</li>
+                        <li>Adding fresh information is</li>
+                    </ul>
+                </section>
+ 
+                <section>
+                   <h2>A useful resource</h2>
+"<a href="http://zacstewart.com/2014/08/05/pipelines-of-featureunions-of-pipelines.html
+">Using scikit-learn Pipelines and FeatureUnions</a>" <br/>by Zac Stewart
+                </section>
+ 
+                <section>
+                    <h2>Feature selection</h2>
+                    <p>Culling the features to just the most important:
+                      <ul>
+                        <li>Reduces risk of overfitting</li>
+                        <li>Improves accuracy</li>
+                        <li>Reduces training time</li>
+                      </ul>
+                    </p>
+                </section>
+
+                <section>
+                    <h2>Feature selection methods in sklearn</h2>
+                    <ul>
+                      <li>SelectPercentile</li>
+                      <li>L1-based feature selection</li>
+                      <li>Principal Components Analysis</li>
+                      <li>(and more...)</li>
+                    </ul>
+                </section>
+
+                
+                <section>
+                    <h2>Using feature selection</h2>
+<pre><code class="python">from sklearn.feature_selection import SelectPercentile, chi2
+
+pipeline = make_pipeline(
+    feature_pipeline,
+    SelectPercentile(chi2, percentile=50),  # 50% highest scoring features
+    clf,
+)
+</code></pre>
+                </section>
+
+                <section>
+                    <h2>Effects of feature selection</h2>
+                    <img height="500" src="images/selectors.png" alt="Plot of accuracy when performing feature selection">
+                </section>
+
+                <section>
+                    <h2>Effects of feature selection</h2>
+                    <p>
+                      <ul>
+                        <li>Feature selection doesn't necessarily help.</li>
+                        <li>Only use if you think your model is overfitting the data or you really have a very large number of features.</li>
+                      </ul>
+                    </p>
+                </section>
+
+                <section>
+                    <h2>Hyperparameter tuning</h2>
+<pre><code class="python">>>> from sklearn.grid_search import GridSearchCV
+
+>>> pg = {'svc__C': 10. ** np.arange(-3, 3), 'svc__gamma': 10. ** np.arange(-3, 3)}
+
+>>> pipeline = make_pipeline(ngram_pipeline, SVC())
+>>> grid = GridSearchCV(pipeline, param_grid=pg, cv=5)
+>>> grid.fit(X_train, y_train)
+>>> grid.best_params_
+
+{'svc__gamma': 0.001, 'svc__C': 100.0}
+</code></pre>
+                </section>
+
+                <section>
+                    <h2>Effects of hyperparameter tuning</h2>
+                    <p>
+                    <ul>
+                      <li>Huge: 35% to 70% jump in accuracy on RBF SVC</li>
+                      <li>Can be time-consuming</li>
+                      <li>Worth it, especially (?) on complex models</li>
+                    </ul>
+                    </p>
+                </section>
+
+				<section>
+					<h1>Making the map</h1>
+				</section>
+				
+				<section>
+                    <h2>Merging data frames</h2>
+                    <pre><code class="python">gpd.pd.merge(roads, classification, on='road_name', how='left')
+</code></pre>
+                </section>
+
+				<section>
+					<h2>Tilemill</h2>					
+                    <img width="800" height="600" src="images/tilemill_trimmed.png" alt="Tilemill GUI">
+                </section>
+
+				<section>
+					<h2>CartoCSS</h2>	
+                    <pre><code class="css">#streets { 
+  [classification='Malay']{
+	line-color: green;
+  }
+  [classification='Chinese']{
+	line-color: red;
+  }
+  [classification='British']{
+	line-color: blue;
+  }
+  [classification='Indian']{
+	line-color: yellow;
+  }
+  ...
+}</code></pre>
+				
+                </section>
+
+				<section>
+					<h2>Summary</h2>
+					<ul>
+					    <li>Most bang for the buck: understanding the data, adding informative features</li>
+                        <li>Tune hyperparameters: it's time consuming, but worth it</li>
+                        <li>Adding more data helps (watch out for plateauing)</li>
+                        <li>Use feature selection if your model is overfitting or you have a large number of features.
+                        <li>Don't discount simple classifiers, but also try more powerful ones if you have the data to back them up.</li> 
+					</ul>
+				</section>
+
+				<section>
+					<h2>Links</h2>
+                    <p>@michelleful on <a href="http://github.com/michelleful">Github</a>, <a href="http://twitter.com/michelleful">Twitter</a></p>
+				</section>
+
+
+			</div>
+
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.min.js"></script>
+
+		<script>
+
+			// Full list of configuration options available here:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+				
+				theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+				transition: Reveal.getQueryHash().transition || 'linear', // default/cube/page/concave/zoom/linear/fade/none
+
+				// Parallax scrolling
+				// parallaxBackgroundImage: 'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg',
+				// parallaxBackgroundSize: '2100px 900px',
+
+				// Optional libraries used to extend on reveal.js
+				dependencies: [
+					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+					{ src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+				]
+
+			});
+
+		</script>
+
+	</body>
+</html>

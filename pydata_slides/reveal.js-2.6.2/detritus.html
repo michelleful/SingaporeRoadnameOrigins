@@ -1,0 +1,194 @@
+<!--				<section>
+					<h2>A cartographic history of Singapore</h2>
+    				</section>
+
+				<section>
+					<h2>1st century</h2>
+                    <img width="800" height="450" src="images/ptolemy.jpg" alt="15th century rendering of Southeast Asian portion of Ptolemy's Geography">
+                    <small>Source: <a href="http://www.raremaps.com/gallery/detail/28049?view=print">raremaps.com</a></small>
+				</section>
+-->
+
+
+<!--
+				<section>
+					<h2>15th century</h2>
+                    <img height="500" src="images/lym_inset.png" alt="Zheng He's 'Mao Kun' navigational chart, reprinted in the Wu Bei Zhi, inset to highlight the Long Ya Men"><br/>
+                    <small>Source: <a href="http://en.wikipedia.org/wiki/Long_Ya_Men#mediaviewer/File:Long_Ya_Men_Map.jpg">Wikimedia Commons</a></small>
+				</section>
+-->
+
+
+<!--
+				<section>
+					<h2>1942-45</h2>
+                    <img src="images/japanese.png" height="500" alt="Cover of Japanese atlas showing Malayan peninsula, Singapore and Sumatra and major products like rubber and tin">
+                    
+                    <p><small>Source: National Library exhibition "Vignettes in Time:
+Singapore Map and History Through the Centuries"<br/>Credit: <a href="http://www.flickr.com/photos/chinnian/3945204242/in/photostream/">chinnian @ flickr</a></small></p>
+				</section>
+
+				<section>
+					<h2>1963-65</h2>
+                    <img src="images/first_malaysian_stamp.png" height="500" alt="First stamp issued by newly-formed Malaysia in 1963. Singapore is the yellow speck at the base of Malaysia. Sarawak and Sabah form the other two states that made up the Malaysian Federation.">
+
+                    <p><small>Source: <a href="http://www.coinsusallecollection.com/first_stamps_of_asia__stamps_1.htm">coinsusallecollection.com</a></small></p>
+				</section>
+-->
+
+<!--
+                <section>
+                    <h2>Filtering with Pandas</h2>
+<pre><code class="python">>>> # filter out roads with no name
+ roads = roads[roads.name.notnull()]
+
+ accepted_road_types = [u'primary', u'primary_link', u'residential', ...]
+
+ # filter to just roads of the right type
+ roads = roads[(roads['class'] == 'highway') & 
+...               (roads['type'].isin(accepted_road_types))]
+
+ roads.geometry.plot()
+</code></pre>                
+
+                    <img width="400" src="images/osm_filtered_roads_geopandas_plot.png" alt="Plot of all roads in OSM Singapore roads GeoJSON file">
+                </section>
+
+                <section>
+                    <h2>Extracting a column in Pandas</h2>
+<pre><code class="python">roads.shape
+# (10087,13)
+
+roadnames = set(roads.name.values)
+len(roadnames)
+# 3268
+</code></pre>
+                </section>
+
+				<section>
+					<h2>Raw data</h2>
+                    <pre><code class="python">Abingdon Road
+Adam Drive
+Adam Park
+Adam Road
+Adis Road
+Admiralty Drive
+Admiralty Lane
+Admiralty Link
+Admiralty Road
+Admiralty Road East
+Admiralty Road West
+Admiralty Street
+Ah Hood Road
+Ah Soo Garden
+Ah Soo Walk
+...
+</code></pre>
+				</section>
+-->
+
+
+                <!-- basics -->
+				<section>
+					<h1>Building a baseline classifier</h1>
+				</section>
+
+<!--
+				<section>
+					<h2>Supervised classification</h2>
+                    <img width="800" src="images/supervised_classification_no_line.png" alt="Training points, known classification">
+				</section>
+
+				<section>
+					<h2>Supervised classification</h2>
+                    <img width="800" src="images/supervised_classification_with_line.png" alt="Training points, known classification, drew boundary">
+				</section>
+
+				<section>
+					<h2>Supervised classification</h2>
+                    <img width="800" src="images/supervised_classification_new_points.png" alt="Testing points, unknown classification">
+				</section>
+
+				<section>
+					<h2>Supervised classification</h2>
+                    <img width="800" src="images/supervised_classification_new_classified_points.png" alt="Testing points, predicted classification given boundary. Note: it's not always this easy! Could be inseparable in feature dimensions, need to project to higher dimensions, sometimes still not separable even then, aim then is just to minimise error.">
+				</section>
+-->
+
+<!--
+                <section>
+                    <h2>More features</h2>                    
+                    <ul>
+                       <li>Has Malay road tag (yes ~ Malay)</li>
+                       <li>Number of words (more ~ Chinese)</li>
+                       <li>Average word length (more ~ Indian)</li>
+                       <li>All words in dictionary? (yes ~ Generic)</li>
+                    </ul>
+                </section>
+-->
+
+<!--
+				<section>
+					<h2>More to look into</h2>
+
+                    <ul>
+                        <li>More classifiers (easy in scikit-learn!)</li>
+                        <li>Pipelines</li>
+                        <li>Cross-validation</li>
+                        <li>Parameter tuning</li>
+                        <li>More ideas for improvement</li>
+                        <ul>
+                            <li>Use gazetteers of place names for n-gram training</li>
+                            <li>Use geographic clustering information in second pass</li>
+                        </ul>
+                </ul>
+				</section>
+-->
+
+
+<!-->
+                <section>
+                    <h1>References and resources</h1>
+                </section>
+
+                <section>                    
+                    <h2>Singapore streetnames</h2>
+                    <ul>
+                        <li>book by Yeoh et al</li>
+                        <li>paper by Yeoh</li>
+                    </ul>
+                    <h2>Singapore maps</h2>
+                    http://www.imtamaps.org/docs/pdfs/History_of_Mapping.pdf
+                    </p>                    
+                </section>
+
+                <section>
+                    <h2>Singapore GIS data</h2>
+                    <ul>
+                        <li>Geographic outline</li>
+                        <li>OpenStreetMap urban extracts</li>
+                    </ul>
+                    </p>                    
+                    
+                </section>
+
+                <section>
+                    <h2>scikit-learn Tutorials</h2>
+                    <ul>
+                        <li>Working with Text Data tutorial</li>
+                        <li><a href="http://nbviewer.ipython.org/github/rasbt/pattern_classification/blob/master/machine_learning/scikit-learn/scikit-pipeline.ipynb#Cross-Validation-and-Pipelines">Streamline your cross-validation and classification workflow: scikit-learn's Pipeline in action</a></li>
+                    </ul>
+                </section>
+
+                <section>
+                    <h2>Machine learning "folk wisdom"</h2>
+                    <ul>
+                        <li>Pedro Domingos, <em><a href="http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf">A Few Useful Things to Know about Machine Learning</a></em></li>
+                    </ul>
+                </section>
+
+
+                <section>
+                    <h2>GIS software</h2>
+                </section>
+-->
