@@ -14,4 +14,4 @@ Slides link forthcoming.
 Acknowledgments
 ---------------
 
-Much thanks to Jake Wasserman for his help getting the geo stuff working.
+Many thanks to Jake Wasserman for his help getting the geo stuff working, and audiences at PyLadies Boston, MapTime Boston, PyData, and Boston Python for their feedback.
