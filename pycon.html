@@ -1,0 +1,1022 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>Grids, Streets & Pipelines (PyCon April 2014)</title>
+
+		<meta name="description" content="Grids, Streets and Pipelines: Building a linguistic street map with scikit-learn">
+		<meta name="author" content="Michelle Fullwood">
+
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<link rel="stylesheet" href="css/reveal.min.css">
+		<link rel="stylesheet" href="css/theme/default.css" id="theme">
+
+		<!-- For syntax highlighting TODO -->
+		<link rel="stylesheet" href="lib/css/sunburst.min.css">
+<!--		<link rel="stylesheet" href="lib/css/zenburn.css"> -->
+
+		<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+		<script>
+			if( window.location.search.match( /print-pdf/gi ) ) {
+				var link = document.createElement( 'link' );
+				link.rel = 'stylesheet';
+				link.type = 'text/css';
+				link.href = 'css/print/pdf.css';
+				document.getElementsByTagName( 'head' )[0].appendChild( link );
+			}
+		</script>
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<!-- Any section element inside of this container is displayed as a slide -->
+			<div class="slides">
+				<section>
+					<h1 style="font-size:320%;">Grids, Streets & Pipelines</h1>
+					<h3>Building a linguistic street map with scikit-learn</h3>
+                    <br/>
+					<p>
+						Michelle Fullwood / <a href="http://twitter.com/michelleful">@michelleful</a>
+				    </p>
+				</section>
+
+				<section>
+					<h2>Who I am</h2>
+					<p>
+						I'm a grad student in linguistics. 
+					</p>
+					<p>
+					    I love languages and maps.
+					</p>
+					<p>
+					    I'm from Singapore.
+					</p>
+				</section>
+
+                <section>
+                    <h2>Singapore street names</h2>
+
+                    <div>
+					<img width="259" height="194" src="images/jalanbesar.png" alt="Jalan Besar (Malay road name)">
+					<img width="259" height="194" src="images/northumberlandrd.png" alt="Northumberland Road (British road name)">
+					<img width="259" height="194" src="images/keong_saik.jpg" alt="Keong Saik Road (Chinese road name)">
+                    <br/>
+					<img width="259" height="194" src="images/veerasamyrd.png" alt="Veerasamy Road (Indian road name)">
+					<img width="259" height="194" src="images/beliliosrd.png" alt="Belilios (Other ethnicity road name)">
+					<img width="259" height="194" src="images/racecourserd.png" alt="Race Course Road (Generic road name)">
+                    </div>
+                </section>
+
+<!--                <section>-->
+<!--                    <h2>Sources of Singapore names</h2>-->
+<!--                    <img height="500" src="images/asia_map_besar.jpg">-->
+<!--                </section>-->
+
+<!--                <section>-->
+<!--                    <h2>Sources of Singapore names</h2>-->
+<!--                    <img height="500" src="images/asia_map_northumberland.jpg">-->
+<!--                </section>-->
+
+<!--                <section>-->
+<!--                    <h2>Sources of Singapore names</h2>-->
+<!--                    <img height="500" src="images/asia_map_keong_saik.jpg">-->
+<!--                </section>-->
+
+<!--                <section>-->
+<!--                    <h2>Sources of Singapore names</h2>-->
+<!--                    <img height="500" src="images/asia_map_veerasamy.jpg">-->
+<!--                </section>-->
+
+<!--                <section>-->
+<!--                    <h2>Sources of Singapore names</h2>-->
+<!--                    <img height="500" src="images/asia_map_belilios.jpg">-->
+<!--                </section>-->
+
+
+                <section>
+					<h2>Clusters of street names</h2>
+					<img src="images/cambridge_road_nohighlight.png" height="500" alt="Cluster of British roadnames near Cambridge Road, Singapore">
+					<p><small>&copy; Open Street Map contributors</small></p>
+					</p>
+				</section>
+
+                <section>
+                    <h2>Goal</h2>
+                        A map of Singapore with streets coloured by linguistic origin
+                        
+					<img src="images/cambridge_road_colourcoded.png" height="500" alt="Cluster of British roadnames near Cambridge Road, Singapore, colour-coded by linguistic origin">
+
+                </section>
+
+                <section>
+                    <h2>Ingredients</h2>
+                    <ul>
+                        <li>Geographic location of roads <span style="visibility: hidden;">- OpenStreetMap</span>
+                        <li>Linguistic classification <span style="visibility: hidden;">- scikit-learn</span>
+                    </ul>
+                </section>
+
+                <section>
+                    <h2>Ingredients</h2>
+                    <ul>
+                        <li>Geographic location of roads - OpenStreetMap
+                        <li>Linguistic classification <span style="visibility: hidden;">- scikit-learn</span>
+                    </ul>
+                </section>
+
+                <section>
+                    <h2>Ingredients</h2>
+                    <ul>
+                        <li>Geographic location of roads - OpenStreetMap
+                        <li>Linguistic classification - scikit-learn
+                    </ul>
+                </section>
+
+                <section>
+                    <h2>Goals for this talk</h2> 
+                    <ul>
+                        <li>Classifying with scikit-learn (70%)</li>
+                            <ul>
+                                <li>Organising features with pipelines</li>
+                                <li>Improving performance by tuning hyperparameters</li>
+                            </ul>
+                        <li>Wrangling geodata with GeoPandas (30%)</li>
+                            <ul>
+                                <li>Data preparation</li>
+                                <li>Plotting a map</li>
+                            </ul>
+                    </ul>
+                </section>
+
+                <section>
+                    <h1>Wrangling geodata</h1>
+                </section>
+
+				<section>
+					<h2>OpenStreetMap Metro Extracts</h2>
+                    <img width="800" src="images/metro_extracts.png" alt="OSM Metro Extracts">
+				</section>
+
+				<section>
+					<h2>GeoJSON</h2>
+                    <img width="300" src="images/montreal_drive.png" alt="Montreal Drive">
+<pre>
+{ "type": "Feature", 
+  "properties": 
+      { "id": 5436.0, "osm_id": 48673274.0, 
+        "type": "residential", 
+        "name": "Montreal Drive", ...
+        "class": "highway" },
+  "geometry": 
+      { "type": "LineString", 
+        "coordinates": [ [ 103.827628075898062, 1.45001447378366  ], 
+                         [ 103.827546855256259, 1.450088485988644 ], 
+                         [ 103.82724167016174 , 1.450461983594056 ], 
+                         ... ] } }</pre>
+				</section>
+
+				<section>
+					<h2>GeoPandas</h2>
+<pre><code class="python">>>> import geopandas as gpd
+
+>>> df = gpd.read_file('singapore-roads.geojson')
+
+>>> df.shape
+(59218, 13)
+</code></pre>
+
+<!-- <div style="font-size: 50pt">☺</div> -->
+
+				</section>
+
+                <section>
+                    <h2>Plotting with GeoPandas</h2>
+<pre><code class="python">>>> df.plot()</code></pre>
+
+                    <img width="600" src="images/osm_all_roads_geopandas_plot.png" alt="Plot of all roads in OSM Singapore roads GeoJSON file">
+                </section>
+
+<!--                <section>
+                    <h2>Plotting with GeoPandas</h2>
+<pre><code class="python">>>> # get an outline of Singapore's administrative boundaries
+>>> admin = gpd.GeoDataFrame.from_file('singapore-admin.geojson')
+>>> singapore = admin.ix[0] # only use the first row (country boundary)
+
+>>> gpd.GeoSeries(singapore.geometry).plot()
+</code></pre>
+
+                    <img width="500" src="images/osm_singapore_admin_geopandas_plot.png" alt="Singapore administrative boundary plot">
+                </section>
+-->
+                <section>
+                    <h2>Geographic operations made easy</h2>
+<pre><code class="python">>>> # `within` function returns true if one feature 
+>>> # sits within the boundary of another
+>>> df = df[df.geometry.within(singapore.geometry)]
+
+>>> df.plot()
+</code></pre>                
+                <div style="display: inline-block; height: 100%; vertical-align: middle;">
+                    <img style="vertical-align: middle" width="250" height="200" src="images/osm_all_roads_geopandas_plot.png" alt="Plot of all roads in OSM Singapore roads GeoJSON file">
+                              <span style="font-size: 50pt">⊂</span>
+                    <img style="vertical-align: middle" width="250" height="200" src="images/osm_singapore_admin_geopandas_plot.png" alt="Singapore administrative boundary plot">
+                              <span style="font-size: 50pt">=</span>
+                    <img style="vertical-align: middle" width="250" height="200" src="images/osm_sg_roads_geopandas_plot.png" alt="Plot of filtered roads in OSM Singapore roads GeoJSON file">
+                </div>
+                </section>
+                
+                <section>
+                    <h2>Pandas operations are still available</h2>
+<pre><code class="python">>>> # filter out empty road names
+>>> df = df[df['name'].notnull()]
+
+>>> # only accept roads whose 'highway' variable is
+>>> # in an accepted list (not a footpath, etc)
+>>> df = df[df['highway'].isin(accepted_road_types)]
+</code></pre>                
+                </section>
+
+<!--				<section>
+					<h2>Repetition in the data</h2>
+                    <img width="600" src="images/lentor.png" alt="The stunning creativity of road planners in the Lentor area of Singapore">
+				</section>
+
+				<section>
+					<h2>Eliminating repetition</h2>
+                    <pre><code class="python">>>> len(set(streets))
+3254
+                    
+>>> streets = set([extract_name(street) for street in streets])
+
+>>> len(streets)
+1711
+</code></pre>
+				</section>
+-->
+                <section>
+                    <h1>Building the baseline classifier</h1>
+                </section>
+                
+                <section>
+                    <h2>Ingredients we need:</h2>
+                    
+                    <ul>
+                        <li>Classification schema
+                        <li>Labelled train/test set
+                        <li>Numerical features
+                        <li>A classifier
+                        <li>An evaluation metric
+                    </ul>
+                </section>
+
+                <section>
+                    <h2>Classification schema</h2>
+                    
+                    <ul>
+                        <li>Malay</li>
+                        <li>Chinese</li>
+                        <li>English</li>
+                        <li>Indian</li>
+                        <li>Generic</li>
+                        <li>Other</li>
+                    </ul>
+                </section>
+
+                <section>
+                    <h2>Labelled train/test set</h2>
+                    
+                    <table>
+                        <tr>
+                         <td style="background-color: #FF6600; padding: 2px; width: 2in; text-align: center;">Hand label</td>
+                         <td style="background-color: #2222FF; padding: 2px; width: 2in; text-align: center;"></td>
+                         <td style="background-color: #2222FF; padding: 2px; width: 2in; text-align: center;"></td>
+                         <td style="background-color: #2222FF; padding: 2px; width: 2in; text-align: center;"></td>
+                         <td style="background-color: #2222FF; padding: 2px; width: 2in; text-align: center;"></td>
+                        </tr>
+                        <tr>
+                         <td style="background-color: #2222FF; padding: 2px; width: 2in; text-align: center;">&nbsp;</td>
+                         <td style="background-color: #2222FF; padding: 2px; width: 2in; text-align: center;"></td>
+                         <td style="background-color: #2222FF; padding: 2px; width: 2in; text-align: center;"></td>
+                         <td style="background-color: #2222FF; padding: 2px; width: 2in; text-align: center;"></td>
+                         <td style="background-color: #2222FF; padding: 2px; width: 2in; text-align: center;"></td>
+                        </tr>
+                    </table>
+                </section>
+
+                <section>
+                    <h2>Labelled train/test set</h2>
+                    
+                    <table>
+                        <tr>
+                         <td style="background-color: #FF6600; padding: 2px; width: 2in; text-align: center;">Train</td>
+                         <td style="background-color: #2222FF; padding: 2px; width: 2in; text-align: center;">Classify</td>
+                         <td style="background-color: #2222FF; padding: 2px; width: 2in; text-align: center;"></td>
+                         <td style="background-color: #2222FF; padding: 2px; width: 2in; text-align: center;"></td>
+                         <td style="background-color: #2222FF; padding: 2px; width: 2in; text-align: center;"></td>
+                        </tr>
+                        <tr>
+                         <td style="background-color: #2222FF; padding: 2px; width: 2in; text-align: center;">&nbsp;</td>
+                         <td style="background-color: #2222FF; padding: 2px; width: 2in; text-align: center;"></td>
+                         <td style="background-color: #2222FF; padding: 2px; width: 2in; text-align: center;"></td>
+                         <td style="background-color: #2222FF; padding: 2px; width: 2in; text-align: center;"></td>
+                         <td style="background-color: #2222FF; padding: 2px; width: 2in; text-align: center;"></td>
+                        </tr>
+                    </table>
+                </section>
+
+                <section>
+                    <h2>Labelled train/test set</h2>
+                    
+                    <table>
+                        <tr>
+                         <td style="background-color: #FF6600; padding: 2px; width: 2in; text-align: center;">Train</td>
+                         <td style="background-color: #FF6600; padding: 2px; width: 2in; text-align: center; font-size:25pt;">Hand correct</td>
+                         <td style="background-color: #2222FF; padding: 2px; width: 2in; text-align: center;"></td>
+                         <td style="background-color: #2222FF; padding: 2px; width: 2in; text-align: center;"></td>
+                         <td style="background-color: #2222FF; padding: 2px; width: 2in; text-align: center;"></td>
+                        </tr>
+                        <tr>
+                         <td style="background-color: #2222FF; padding: 2px; width: 2in; text-align: center;">&nbsp;</td>
+                         <td style="background-color: #2222FF; padding: 2px; width: 2in; text-align: center;"></td>
+                         <td style="background-color: #2222FF; padding: 2px; width: 2in; text-align: center;"></td>
+                         <td style="background-color: #2222FF; padding: 2px; width: 2in; text-align: center;"></td>
+                         <td style="background-color: #2222FF; padding: 2px; width: 2in; text-align: center;"></td>
+                        </tr>
+                    </table>
+                </section>
+
+                <section>
+                    <h2>Labelled train/test set</h2>
+                    
+                    <table>
+                        <tr>
+                         <td style="background-color: #FF6600; padding: 2px; width: 2in; text-align: center;">Train</td>
+                         <td style="background-color: #FF6600; padding: 2px; width: 2in; text-align: center;">Train</td>
+                         <td style="background-color: #2222FF; padding: 2px; width: 2in; text-align: center;">Classify</td>
+                         <td style="background-color: #2222FF; padding: 2px; width: 2in; text-align: center;"></td>
+                         <td style="background-color: #2222FF; padding: 2px; width: 2in; text-align: center;"></td>
+                        </tr>
+                        <tr>
+                         <td style="background-color: #2222FF; padding: 2px; width: 2in; text-align: center;">&nbsp;</td>
+                         <td style="background-color: #2222FF; padding: 2px; width: 2in; text-align: center;"></td>
+                         <td style="background-color: #2222FF; padding: 2px; width: 2in; text-align: center;"></td>
+                         <td style="background-color: #2222FF; padding: 2px; width: 2in; text-align: center;"></td>
+                         <td style="background-color: #2222FF; padding: 2px; width: 2in; text-align: center;"></td>
+                        </tr>
+                    </table>
+                </section>
+
+				<section>
+					<h2>Train/Test split</h2>
+<pre><code class="python"># split into train and test data
+
+from sklearn.cross_validation import train_test_split
+
+data_train, data_test, y_train, y_true = \
+    train_test_split(df['road_name'], df['classification'], test_size=0.2)</code></pre>
+				</section>
+
+				<section>
+					<h2>Choosing features: n-grams</h2>
+<p>(Jalan) Malu-Malu</p>
+
+<table style="margin-left: auto; margin-right: auto;">
+<tr><td>unigrams</td><td>m(2) a(2) l(2) u(2) -(1)</td></tr>
+<tr><td>bigrams</td><td>#m(1) ma(2) al(2) lu(2) u-(1) ...</td></tr>
+<tr><td>trigrams</td><td>##m(1) #ma(1) mal(2) alu(2) ...</td></tr>
+</table>
+				</section>
+
+				<section>
+					<h2>Choosing features: n-grams</h2>
+
+Names containing bigram 'ck'
+
+<div>
+<center>
+<br/>
+<table>
+    <tr><td>British</td><td>Chinese</td><td>Malay</td><td>Indian</td></tr>
+    <tr><td style="text-align: center;"><b>23</b></td><td style="text-align: center;"><b>17</b></td><td style="text-align: center;"><b>0</b></td><td style="text-align: center;"><b>0</b></td></tr>
+    <tr><td><small>Alnwick<br/>Berwick<br/>Brickson<br/>...</small></td><td><small>Boon Teck<br/>Hock Chye<br/>Kheam Hock<br/>...</small></td><td></td><td></td></tr>
+</table>
+</center>
+</div>
+				</section>
+
+				<section>
+					<h2>Choosing features: n-grams</h2>
+
+<pre><code class="python">>>> from sklearn.feature_extraction.text import CountVectorizer
+
+>>> ngram_counter = CountVectorizer(ngram_range=(1, 4), analyzer='char')
+
+>>> X_train = ngram_counter.fit_transform(data_train)
+>>> X_test  = ngram_counter.transform(data_test)
+</code></pre>
+				</section>
+
+
+                <section>
+                    <h2>Selecting a classifier</h2>
+					<img src="images/scikit_flowchart.png" alt="Scikit-learn flowchart for picking an algorithm">
+                </section>
+
+                <section>
+                    <h2>Linear Support Vector Classification (SVC)</h2>
+					<img src="images/svm1_new.png" alt="Illustration of linear support vector classification">
+                </section>
+
+                <section>
+                    <h2>Linear Support Vector Classification (SVC)</h2>
+					<img src="images/svm2_new.png" alt="Illustration of linear support vector classification">
+                </section>
+
+                <section>
+                    <h2>Linear Support Vector Classification (SVC)</h2>
+					<img src="images/svm3_new.png" alt="Illustration of linear support vector classification">
+                </section>
+
+                <section>
+                    <h2>Linear Support Vector Classification (SVC)</h2>
+					<img src="images/svm4_new.png" alt="Illustration of linear support vector classification">
+                </section>
+
+				<section>
+<h2>Building the classification model</h2>
+<pre><code class="python">>>> from sklearn.svm import LinearSVC
+
+>>> classifier = LinearSVC()
+
+>>> model = classifier.fit(X_train, y_train)
+</code></pre>
+				</section>
+
+				<section>
+					<h2>Testing the classifier</h2>
+<pre><code class="python">>>> y_test = model.predict(X_test)
+
+>>> sklearn.metrics.accuracy_score(y_true, y_test)
+0.551818181818
+</code></pre>
+
+<img width="80%" src="images/accuracy_line.png" alt="Number line with expected and current accuracy plotted on it">
+
+				</section>
+
+                <section>
+                  <h2>Improving the classifier</h2>
+                  
+                  <ul>
+                    <li>More data</li>
+                    <li>Trying other classifiers</li>
+                    <li>Adding more features</li>
+                    <li>Hyperparameter tuning</li>
+                  </ul>
+                </section>
+
+                <section>
+                    <h1>Adding features</h1>
+					<blockquote>
+                At the end of the day, some machine learning projects succeed
+and some fail. What makes the difference? Easily
+the most important factor is the features used...This is typically where most of the effort in a machine
+learning project goes.
+                    </blockquote>
+                <small>- Pedro Domingos, <a href="http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf">"A Few Useful Things to Know about Machine Learning"</a></small>
+                </section>
+
+                <section>
+                  <h2>Features to add</h2>
+                  <ul>
+                    <li>Number of words</li>
+                    <li>Average length of word</li>
+                    <li>Are all the words in the dictionary?</li>
+                    <li>Is the road tag Malay? (Street, Road vs Jalan, Lorong)</li>
+                  </ul>
+                </section>
+
+                <section>
+                    <h2>Before: Feature code</h2>
+<pre><code class="python">>>> from sklearn.feature_extraction.text import CountVectorizer
+
+>>> ngram_counter = CountVectorizer(ngram_range=(1, 4), analyzer='char')
+
+>>> X_train = ngram_counter.fit_transform(data_train)
+>>> X_test  = ngram_counter.transform(data_test)
+</code></pre>
+                </section>
+
+                <section>
+                    <h2>Pipelines</h2>
+                    <img src="images/simple_pipeline.png" alt="Simple pipeline">
+                </section>
+
+                <section>
+                    <h2>After: rewrite with pipelines</h2>
+<pre><code class="python">>>> from sklearn.pipeline import Pipeline
+
+>>> ppl = Pipeline([
+              ('ngram', CountVectorizer(ngram_range=(1, 4), analyzer='char')),
+              ('clf',   LinearSVC())
+          ])
+
+>>> model = ppl.fit(data_train)
+>>> y_test = model.predict(data_test)
+</code></pre>
+                </section>
+
+                <section>
+                    <h2>Adding a new feature</h2>
+                    <p>Average word length</p>
+                    <ul>
+                      <li>Longer: likely to be of British or Indian origin</li>
+                      <li>Shorter: likely to be of Chinese origin</li>
+                      <li>Need a new data transformer that takes in road names and outputs this number</li>
+                    </ul>
+                </section>
+
+                <section>
+                    <h2>Writing your own transformer class</h2>
+
+<pre><code class="python">from sklearn.base import BaseEstimator, TransformerMixin
+
+class SampleExtractor(BaseEstimator, TransformerMixin):
+    
+    def __init__(self, vars):
+        self.vars = vars
+        
+    def transform(self, X, y=None):
+        return do_something_to(X, self.vars)
+
+    def fit(self, X, y=None):
+        return self        
+</code></pre>
+</section>
+
+                <section>
+                    <h2>Writing your own transformer class</h2>
+
+<pre><code class="python">from sklearn.base import BaseEstimator, TransformerMixin
+
+class AverageWordLengthExtractor(BaseEstimator, TransformerMixin):
+    """Takes in df, extracts road name column, outputs average word length"""
+    
+    def __init__(self):
+        pass
+        
+    def average_word_length(self, name):
+        return np.mean([len(word) for word in name.split()])
+        
+    def transform(self, X, y=None):
+        return X['road_name'].apply(self.average_word_length)
+
+    def fit(self, X, y=None):
+        return self        
+</code></pre>
+</section>
+                    
+                <section>
+                    <h2>Putting transformers in parallel</h2>
+                    <img src="images/more_complex_pipeline.png" alt="More complex pipeline with parallel transformers">
+                </section>
+
+                <section>
+                    <h2>Feature Union</h2>
+<pre><code class="python">from sklearn.pipeline import Pipeline, FeatureUnion
+
+pipeline = Pipeline([
+    ('feats', FeatureUnion([
+        ('ngram', ngram_count_pipeline), # can pass in either a pipeline
+        ('ave', AverageWordLengthExtractor()) # or a transformer
+    ])),
+    ('clf', LinearSVC())  # classifier
+])</code></pre>                    
+                </section>
+ 
+<!--
+                <section>
+                    <h2>Another useful transformer</h2>
+
+<pre><code class="python">class ColumnSelector(TransformerMixin):
+    """Selects column(s) from a numpy array
+    Code from mlxtend Machine Learning Library Extensions 
+    https://github.com/rasbt/mlxtend/blob/master/mlxtend
+    """
+    
+    def __init__(self, cols):
+        self.cols = cols
+        
+    def transform(self, X, y=None):
+        return X[:, self.cols]
+
+    def fit(self, X, y=None):
+        return self
+</code></pre>
+                </section>               
+-->
+                <section>
+                  <h2>Additional features I tried</h2>
+                  <ul>
+                    <li>Number of words</li>
+                    <li>Average length of word</li>
+                    <li>Are all the words in the dictionary?</li>
+                    <li>Is the road tag Malay? (Street, Road vs Jalan, Lorong)</li>
+                  </ul>
+                  <br/><br/>
+<img width="80%" src="images/accuracy_line_morefeatures.png" alt="Number line with expected and current accuracy plotted on it">
+                </section>
+
+                <section>
+                    <h2>Summary</h2>
+                    <ul>
+                        <li>Using Pipelines and FeatureUnions does not improve performance in and of itself</li>
+                        <li>They're a great tool for organising code readably, allowing for easier experimentation</li>
+                    </ul>
+                </section>
+
+<!--
+                <section>
+                    <h2>Effects of adding features</h2>
+                    <img height="500" src="images/features.png" alt="Plot of accuracy when adding features">
+                </section>
+
+                <section>
+                    <h2>Effects of adding features</h2>
+                    <ul>
+                        <li>Duplicating old information is not useful</li>
+                        <li>Adding fresh information is</li>
+                    </ul>
+                </section>
+ 
+                <section>
+                   <h2>A useful resource</h2>
+"<a href="http://zacstewart.com/2014/08/05/pipelines-of-featureunions-of-pipelines.html
+">Using scikit-learn Pipelines and FeatureUnions</a>" <br/>by Zac Stewart
+                </section>
+-->
+
+                <section>
+                    <h1>Hyperparameter tuning</h1>
+                </section>
+                
+                <section>
+                    <h2>Hyperparameters</h2>
+<pre><code class="python">>>> # When you do this:
+>>> clf = LinearSVC()
+
+>>> # You're really doing this:
+>>> clf = LinearSVC(C=1.0, loss='l2', ...)
+
+>>> # changing the values of these hyperparameters can alter performance,
+>>> # sometimes quite significantly
+</code></pre>
+                </section>
+
+                <section>
+                    <h2>How GridSearchCV works</h2>
+                    
+<center>                    
+<table style="text-align:center">
+    <tr><td></td><td colspan=5 style="text-align:center" >C</td></tr>
+    <tr><td></td><td>0.10</td><td>1.00</td><td>10.0</td><td>100</td><td>1000</td></tr>
+    <tr><td>Gamma 2<sup>-2</sup></td>
+        <td style="background-color: #FF5555"></td>
+        <td style="background-color: #FF7777"></td>
+        <td style="background-color: #FF9999"></td>
+        <td style="background-color: #FFCCCC"></td>
+        <td style="background-color: #FFCCCC"></td></tr>
+    <tr><td style="text-align:right">2<sup>0</td>
+        <td style="background-color: #FF4D4D"></td>
+        <td style="background-color: #FF0000; text-align: center; color: white;">&#10004;</td>
+        <td style="background-color: #FF6666"></td>
+        <td style="background-color: #FF8888"></td>
+        <td style="background-color: #FFAAAA"></td></tr>
+    <tr><td style="text-align:right">2<sup>2</td>
+        <td style="background-color: #FF2323"></td>
+        <td style="background-color: #FF4646"></td>
+        <td style="background-color: #FF5555"></td>
+        <td style="background-color: #FF8888"></td>
+        <td style="background-color: #FFBBBB"></td></tr>
+</table>
+</center>
+</section>
+
+<section>
+<h2>How GridSearchCV works</h2>
+
+
+Within each cell: cross-validation 
+
+<span style="background-color: #2222FF; color: white; padding: 2pt">Train</span> <span style="padding: 2pt; background-color: #FF6600">Test</span>
+
+<center>
+<table style="border-collapse:separate; border-spacing:0.1em 0.5em ;">
+<tr style="padding-bottom: 30pt;">
+<td style="background-color: #2222FF; color: white; padding: 10pt;">20%</td>
+<td style="background-color: #2222FF; color: white; padding: 10pt;">20%</td>
+<td style="background-color: #2222FF; color: white; padding: 10pt;">20%</td>
+<td style="background-color: #2222FF; color: white; padding: 10pt;">20%</td>
+<td style="background-color: #FF6600; padding: 10pt;">20%</td>
+</tr>
+<tr>
+<td style="background-color: #2222FF; color: white; padding: 10pt;">20%</td>
+<td style="background-color: #2222FF; color: white; padding: 10pt;">20%</td>
+<td style="background-color: #2222FF; color: white; padding: 10pt;">20%</td>
+<td style="background-color: #FF6600; padding: 10pt;">20%</td>
+<td style="background-color: #2222FF; color: white; padding: 10pt;">20%</td>
+</tr>
+<tr>
+<td style="background-color: #2222FF; color: white; padding: 10pt;">20%</td>
+<td style="background-color: #2222FF; color: white; padding: 10pt;">20%</td>
+<td style="background-color: #FF6600; padding: 10pt;">20%</td>
+<td style="background-color: #2222FF; color: white; padding: 10pt;">20%</td>
+<td style="background-color: #2222FF; color: white; padding: 10pt;">20%</td>
+</tr>
+<tr>
+<td style="background-color: #2222FF; color: white; padding: 10pt;">20%</td>
+<td style="background-color: #FF6600; padding: 10pt;">20%</td>
+<td style="background-color: #2222FF; color: white; padding: 10pt;">20%</td>
+<td style="background-color: #2222FF; color: white; padding: 10pt;">20%</td>
+<td style="background-color: #2222FF; color: white; padding: 10pt;">20%</td>
+</tr>
+<tr>
+<td style="background-color: #FF6600; padding: 10pt;">20%</td>
+<td style="background-color: #2222FF; color: white; padding: 10pt;">20%</td>
+<td style="background-color: #2222FF; color: white; padding: 10pt;">20%</td>
+<td style="background-color: #2222FF; color: white; padding: 10pt;">20%</td>
+<td style="background-color: #2222FF; color: white; padding: 10pt;">20%</td>
+</tr>
+</table>
+</center>
+                </section>
+
+                <section>
+                    <h2>GridSearchCV</h2>
+<pre><code class="python">>>> from sklearn.grid_search import GridSearchCV
+
+>>> pg = {'clf__C': [0.1, 1, 10, 100]}
+
+>>> grid = GridSearchCV(pipeline, param_grid=pg, cv=5)
+>>> grid.fit(X_train, y_train)
+
+>>> grid.best_params_
+{'clf__C': 0.1}
+
+>>> grid.best_score_
+0.702290076336
+</code></pre>
+                </section>
+
+                <section>
+                    <h2>GridSearchCV</h2>
+<pre><code class="python">>>> model = grid.best_estimator_.fit(X_train, y_train)
+>>> y_test = model.predict(X_test)
+>>> accuracy_score(y_test, y_true)
+
+0.686590909091
+</code></pre>
+                </section>
+                
+                <section>
+                    <h2>Which hyperparameters?</h2>
+<pre><code class="python">>>> pipeline.get_params()  # only works if all transformers
+                           # inherit from BaseEstimator!
+
+{'clf__C': 1.0,
+ 'clf__class_weight': None,
+ 'clf__dual': True,
+ ...
+ 'feats__ngram__vect__ngram_range': (1, 4),
+ 'feats__ngram__vect__preprocessor': None,
+ 'feats__ngram__vect__stop_words': None,
+}
+</code></pre>
+
+</section>
+
+<section>
+    <h2>Picking hyperparameters to test</h2>
+    
+    <img src="images/linear_svc_docs.png">
+</section>
+
+<section>
+    <h2>Picking hyperparameters to test</h2>
+    <ul>
+        <li>Understanding the classification algorithm</li>
+    </ul>
+    <img height="500" src="images/svm4_new.png" alt="Linear SVM illustration">
+</section>
+
+<section>
+    <h2>Picking hyperparameters to test</h2>
+    <ul>
+        <li>Understanding the classification algorithm</li>
+    </ul>
+    <img height="500" src="images/svm5_new.png" alt="Linear SVM illustration">
+</section>
+
+<section>
+    <h2>Picking hyperparameters to test</h2>
+    <ul>
+        <li>Understanding the classification algorithm</li>
+    </ul>
+    <img height="500" src="images/svm6_new.png" alt="Linear SVM illustration">
+</section>
+
+<!--
+<section>
+    <h2>What parameter grid?</h2>
+    <ul>
+        <li>Reading the documentation</li>
+<div>&nbsp;</div>
+<blockquote>For practical use, we recommend users<br/>
+1. Try the default C = 1 first.<br/>
+2. Slightly increase C. If results do not change much, then there is no need to try larger
+C value.</blockquote>
+
+<p style="text-align: right">- <a href="http://www.csie.ntu.edu.tw/~cjlin/papers/liblinear.pdf">LibLinear documentation</a>       </p>
+    </ul>
+</section>
+-->
+
+<section>
+    <h2>What parameter grid?</h2>
+
+    The academic literature     
+    <ul>
+        <li><a href="http://www.csie.ntu.edu.tw/~cjlin/papers/guide/guide.pdf">A practical guide to Support Vector Classification</a></li>
+        <li>Two empirical survey papers:</li>
+<ul><li>Caruana & Niculescu-Mizil (2006) <a href="http://icml2006.autonlab.org/icml_documents/camera-ready/021_An_Empirical_Compari.pdf">An Empirical Comparison of Supervised Learning Algorithms</a>
+<li>Fernandez-Delgado et al (2014) <a href="http://www.jmlr.org/papers/volume15/delgado14a/delgado14a.pdf">Do we Need Hundreds of Classifiers to Solve Real World Classification Problems?</a>
+</ul>
+    </ul>
+</section>
+
+<section>
+    <h2>What parameter grid?</h2>
+    <ul>
+        <li>Searching on Github</li>
+
+<img src="images/github_search.png">
+
+    </ul>
+</section>
+
+<section>
+    <h2>Summary</h2>
+    <ul>
+        <li>Hyperparameter search can be time-consuming</li>
+           <ul>
+              <li>CPU Time &#8805; product of number of features tested in each dimension
+           </ul>
+        <li>Can be parallelized easily</li>
+        <li>Can be performed iteratively: explore a coarse grid before exploring finer grid around most promising region
+        <li>Use logarithmic values roughly centred around default<br/>(unless it makes sense not to)
+    </ul>
+</section>
+
+
+<section>
+    <h2>Final accuracy</h2>
+    <p>
+    <img src="images/accuracy_line_final.png">
+    </p>
+</section>
+
+				<section>
+					<h1>Making the map</h1>
+					<h2>(In two lines of Python)</h2>
+				</section>
+
+<section>
+<h2>Step 1</h2>
+
+Create a matplotlib map with GeoPandas:
+<pre><code class="python">>>> ax = df.plot(column='classification', colormap='accent')
+</code></pre>
+
+<img src="images/map_accent.png">
+				</section>
+
+<section>
+<h2>Step 2</h2>
+
+Convert it into an interactive Leaflet web map
+<pre><code class="python">>>> import mplleaflet
+>>> mplleaflet.display(fig=ax.figure, crs=df.crs, tiles='cartodb_positron')
+</code></pre>
+
+<iframe width="800" height="400" src="../../notebooks/sgmap2.html"></iframe>
+
+
+<!-- <p><a href="file:///home/michelle/Dropbox/Repositories/public-facing/SingaporeRoadnameOrigins/notebooks/sgmap.html">To the map!</a></p> -->
+
+<!--<p><a href="http://michelleful.cartodb.com/viz/3256aeb6-7052-11e4-bc11-0e853d047bba/public_map"><small>(Alternative map)</small></a></p>-->
+</section>				
+<!--				<section>-->
+<!--                    <h2>Merging data frames</h2>-->
+<!--                    <pre><code class="python">gpd.pd.merge(roads, classification, on='road_name', how='left')-->
+<!--</code></pre>-->
+<!--                </section>-->
+
+<!--				<section>-->
+<!--					<h2>Tilemill</h2>					-->
+<!--                    <img width="800" height="600" src="images/tilemill_trimmed.png" alt="Tilemill GUI">-->
+<!--                </section>-->
+
+<!--				<section>-->
+<!--					<h2>CartoCSS</h2>	-->
+<!--                    <pre><code class="css">#streets { -->
+<!--  [classification='Malay']{-->
+<!--	line-color: green;-->
+<!--  }-->
+<!--  [classification='Chinese']{-->
+<!--	line-color: red;-->
+<!--  }-->
+<!--  [classification='British']{-->
+<!--	line-color: blue;-->
+<!--  }-->
+<!--  [classification='Indian']{-->
+<!--	line-color: yellow;-->
+<!--  }-->
+<!--  ...-->
+<!--}</code></pre>-->
+<!--				-->
+<!--                </section>-->
+
+<!--				<section>-->
+<!--					<h2>Summary</h2>-->
+<!--					<ul>-->
+<!--					    <li>Most bang for the buck: understanding the data, adding informative features</li>-->
+<!--                        <li>Tune hyperparameters: it's time consuming, but worth it</li>-->
+<!--                        <li>Adding more data helps (watch out for plateauing)</li>-->
+<!--                        <li>Use feature selection if your model is overfitting or you have a large number of features.-->
+<!--                        <li>Don't discount simple classifiers, but also try more powerful ones if you have the data to back them up.</li> -->
+<!--					</ul>-->
+<!--				</section>-->
+
+				<section>
+					<h2>Acknowledgments & Useful Resources</h2>
+                    <ul>
+                        <li>Jake Wasserman (GeoPandas, mplleaflet)</li>
+                        <li>Zac Stewart <a href="http://zacstewart.com/2014/08/05/pipelines-of-featureunions-of-pipelines.html">on Pipelines</a></li>
+                        <li>Savage & Yeoh, <a href="http://www.amazon.com/Singapore-Street-Names-Study-Toponymics-ebook/dp/B00F0N30AY/ref=sr_1_1?s=books&ie=UTF8&qid=1427753642&sr=1-1&keywords=toponymics+singapore">Singapore Street Names: A Study of Toponymics</a></li>
+                    </ul>
+				</section>
+
+
+			</div>
+
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.min.js"></script>
+
+		<script>
+
+			// Full list of configuration options available here:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+				
+				theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+				transition: Reveal.getQueryHash().transition || 'none', // default/cube/page/concave/zoom/linear/fade/none
+
+				// Parallax scrolling
+				// parallaxBackgroundImage: 'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg',
+				// parallaxBackgroundSize: '2100px 900px',
+
+				// Optional libraries used to extend on reveal.js
+				dependencies: [
+					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                    { src: 'plugin/highlight/highlight.min.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },                    
+			//		{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+					{ src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+				]
+
+			});
+
+		</script>
+
+	</body>
+</html>
