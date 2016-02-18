@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <!--Edit the title of the page-->
+    <title>Linguistic Streetmap of Singapore</title>
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="http://libs.cartocdn.com/cartodb.js/v3/themes/css/cartodb.css" />
+    <!--[if lte IE 8]>
+        <link rel="stylesheet" href="http://libs.cartocdn.com/cartodb.js/v3/themes/css/cartodb.ie.css" />
+    <![endif]-->
+    <link rel="stylesheet" href="css/makeitresponsive.css">
+    <!--Switch between the different themes changing the stylesheet below - light-theme.css |dark-theme.css -->
+    <link rel="stylesheet" href="css/dark-theme.css">
+  </head>
+  <body>
+
+    <div class="row">
+      <div class="col span2 empty"><p></p></div>
+      <div class="col span12 context subheader">
+        <!--Link to your personal website, your blog or your twitter account-->
+        <p>Map created by <a href="http://michelleful.github.io/code-blog/2015/04/24/sgmap/">Michelle Fullwood</a></p>
+      </div>
+      <div class="col span2 empty"><p></p></div>
+    </div>
+
+    <!--In the paragraph below give an introduction to your visualization-->
+    <div class="row">
+      <div class="col span2 empty"><p></p></div>
+      <div class="col span12">
+        <h1>A linguistic streetmap of Singapore</h1>
+        <p>The left panel shows all streets coloured by the language(s) of origin
+           of their name.<br/>The right panel represents all streets sharing a name
+           as a single point at their median, sized by the number of streets with that name.<br/>
+           Start interacting with the map and both maps will move in unison.
+        </p>
+      </div>
+      <div class="col span2 empty"><p></p></div>
+    </div>
+
+    <div class="row">
+      <div class="col span8 map" id="map1"></div>
+      <div class="col span8 map" id="map2"></div>
+    </div>
+
+    <!--Play fair and keep the attributions. If you do so, we will love you even more. :)-->
+    <div class="row">
+      <div class="col span2 empty"><p></p></div>
+      <div class="col span12 context footer">
+        <p>This map was created with <a href="http://cartodb.com">CartoDB</a>.</p></p>
+      </div>
+      <div class="col span2 empty"><p></p></div>
+    </div>
+
+    <script src="https://maps.googleapis.com/maps/api/js?sensor=false&v=3.8"></script>
+    <script src="http://libs.cartocdn.com/cartodb.js/v3/cartodb.js"></script>
+
+    <!--Change the URL's below in order to change the maps that are being shown.
+        map1 is the one on the left side and map2 is the one on the right side.
+        Go to your map view in CartoDB, click on share, and copy the URL under the API section
+        Check the cartodb.js documentation for more info
+        http://developers.cartodb.com/documentation/cartodb-js.html-->
+    <script type="text/javascript">
+      var map1,map2;
+
+      cartodb.createVis('map1', 'https://michelleful.cartodb.com/api/v2/viz/b722485c-dbf6-11e4-9a7e-0e0c41326911/viz.json')
+      .done(function(vis, layers) {
+        map1 = vis.mapView.map;
+        cartodb.createVis('map2', 'https://michelleful.cartodb.com/api/v2/viz/f444281c-d467-11e5-96ab-0e3ff518bd15/viz.json')
+        .done(function(vis, layers) {
+            map2 = vis.mapView.map;
+            map1.on('change:zoom change:center', function(e) {
+              changeMapState(map1, map2);
+            });
+            map2.on('change:zoom change:center', function(e) {
+              changeMapState(map2, map1);
+            });
+        })
+      })
+
+      //Applies the same view from src to tgt map
+      function changeMapState(src,tgt){
+        tgt.set({
+            'center': src.get('center'),
+            'zoom': src.get('zoom')
+        });
+      }
+
+    </script>
+
+  </body>
+</html>
